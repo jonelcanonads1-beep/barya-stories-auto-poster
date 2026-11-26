@@ -1,6 +1,6 @@
 name: Barya Stories auto-post
 
-# Posts EP13-EP200 to the Barya Stories Facebook Page, 5x/day Manila.
+# Posts EP13-EP440 to the Barya Stories Facebook Page, 5x/day Manila.
 # Runs on GitHub's servers, NOT on Muse, so no approval card ever appears.
 # Times are UTC: 00:00, 03:00, 06:00, 10:00, 13:00 UTC
 # = 08:00, 11:00, 14:00, 18:00, 21:00 Asia/Manila.
@@ -38,7 +38,7 @@ jobs:
       - name: Post next episode
         env:
           BARYA_PAGE_TOKEN: ${{ secrets.BARYA_PAGE_TOKEN }}
-          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_DRIVE_API_KEY: ${{ secrets.GOOGLE_DRIVE_API_KEY }}
         run: |
           if [ -n "${{ inputs.episode }}" ]; then
             EP_FLAG="--episode ${{ inputs.episode }}"
