@@ -18,8 +18,11 @@ What it does, for one episode (default: the next one in state.json):
      proven twice on 2026-11-25 — so it cannot be used for this job.)
 
 Usage (run from this folder):
-  python3 poster.py                      # post next episode from state.json
-  python3 poster.py --episode 13         # post a specific episode
+  python3 poster.py                      # post next episode from state.json,
+                                         # but ONLY if its Manila publish time
+                                         # has arrived (due-check); otherwise
+                                         # exits 0 without posting
+  python3 poster.py --episode 13         # post a specific episode (bypasses the due-check)
   python3 poster.py --dry-run            # download + build cover video only, do NOT post
   python3 poster.py --dry-run --episode 14
   python3 poster.py --local-dir /path/to/EP13_...   # use local files instead of Drive
@@ -49,6 +52,8 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 PAGE_ID = os.environ.get("BARYA_PAGE_ID", "1370430572829796")
 GRAPH_VERSION = os.environ.get("BARYA_GRAPH_VERSION", "v26.0")
@@ -371,6 +376,26 @@ def main():
     if ep_num in already and not args.force:
         print(f"EP{ep_num:02d} is already recorded as posted in state.json; refusing. Use --force to override.", file=sys.stderr)
         return 2
+
+    # Due-check (scheduled mode only — no explicit --episode given):
+    # only post when the episode's Manila publish time has arrived.
+    # This makes the workflow safe to run every 15 minutes: a missed tick
+    # is caught at the next tick (max ~15 min late), a failed post is
+    # retried at the next tick because state never advances on failure,
+    # and no episode can ever post early or twice.
+    if not args.episode:
+        due = datetime.strptime(
+            ep["publish_at_manila"], "%Y-%m-%d %H:%M"
+        ).replace(tzinfo=ZoneInfo("Asia/Manila"))
+        now = datetime.now(ZoneInfo("Asia/Manila"))
+        if now < due:
+            log(f"NOT DUE YET — EP{ep_num:02d} is scheduled "
+                f"{ep['publish_at_manila']} Manila, now is "
+                f"{now.strftime('%Y-%m-%d %H:%M')} Manila. "
+                f"Skipping, nothing posted.")
+            return 0
+        log(f"DUE — EP{ep_num:02d} scheduled {ep['publish_at_manila']} "
+            f"Manila, now {now.strftime('%Y-%m-%d %H:%M')} Manila.")
 
     token = os.environ.get("BARYA_PAGE_TOKEN")
     if not args.dry_run and not token:
