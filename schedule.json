@@ -1,1506 +1,3426 @@
 [
-  {
-    "episode": 13,
-    "folder": "EP13_Bakanteng-Pader-Sa-Highway",
-    "folder_id": "1o74ksPkNr2tnNI9WWU_bkl5F0Ux7arf6",
-    "title": "Bakanteng Pader Sa Highway",
-    "publish_at_manila": "2026-11-26 08:00",
-    "publish_unix": 1795651200
-  },
-  {
-    "episode": 14,
-    "folder": "EP14_Pasalo-Condo-Sa-Facebook",
-    "folder_id": "1qxXyZVdJ4L3K5hcFvJSgJZnv7mekC7Ex",
-    "title": "Pasalo Condo Sa Facebook",
-    "publish_at_manila": "2026-11-26 11:00",
-    "publish_unix": 1795662000
-  },
-  {
-    "episode": 15,
-    "folder": "EP15_Sekreto-Ng-Ukay-Ukay-Bale",
-    "folder_id": "1S3htC8qlgIjTLzqkZMUUE7dym6kaM08e",
-    "title": "Sekreto Ng Ukay Ukay Bale",
-    "publish_at_manila": "2026-11-26 14:00",
-    "publish_unix": 1795672800
-  },
-  {
-    "episode": 16,
-    "folder": "EP16_3AM-Call-Center-Table",
-    "folder_id": "1X1I2L63dbwHUgVr-gDpchu23yjujV__s",
-    "title": "3AM Call Center Table",
-    "publish_at_manila": "2026-11-26 18:00",
-    "publish_unix": 1795687200
-  },
-  {
-    "episode": 17,
-    "folder": "EP17_Nakakatakot-Na-Kwenta-Ng-5-6",
-    "folder_id": "1CF_q_vyuNG4691_CaC2Met4nhMjzXbmc",
-    "title": "Nakakatakot Na Kwenta Ng 5 6",
-    "publish_at_manila": "2026-11-26 21:00",
-    "publish_unix": 1795698000
-  },
-  {
-    "episode": 18,
-    "folder": "EP18_Pinautang-Ang-Best-Friend",
-    "folder_id": "1LxSS_qkfOtVidiX4fE8r2Xw2MadoaC2E",
-    "title": "Pinautang Ang Best Friend",
-    "publish_at_manila": "2026-11-27 08:00",
-    "publish_unix": 1795737600
-  },
-  {
-    "episode": 19,
-    "folder": "EP19_Away-Ng-5-Magkakapatid-Sa-Lupa",
-    "folder_id": "10omctoqNTJLUrjq0jUy1Tgo4uoqOAeF7",
-    "title": "Away Ng 5 Magkakapatid Sa Lupa",
-    "publish_at_manila": "2026-11-27 11:00",
-    "publish_unix": 1795748400
-  },
-  {
-    "episode": 20,
-    "folder": "EP20_Milyonaryong-Naka-Tsinelas",
-    "folder_id": "18jyyy8L3nxgKWFVFqD1LS0O62c1CvcaD",
-    "title": "Milyonaryong Naka Tsinelas",
-    "publish_at_manila": "2026-11-27 14:00",
-    "publish_unix": 1795759200
-  },
-  {
-    "episode": 21,
-    "folder": "EP21_100-Peso-Ulam-Pack-Sa-GC",
-    "folder_id": "1Xb_tySiJw7aWkJ2ygBIfEResgz_C7Mtg",
-    "title": "100 Peso Ulam Pack Sa GC",
-    "publish_at_manila": "2026-11-27 18:00",
-    "publish_unix": 1795773600
-  },
-  {
-    "episode": 22,
-    "folder": "EP22_Alam-Ko-Na-Yan-Ubos-100K",
-    "folder_id": "1CyYf0jSl6FEZb5o_38B-dswSP20GKYyF",
-    "title": "Alam Ko Na Yan Ubos 100K",
-    "publish_at_manila": "2026-11-27 21:00",
-    "publish_unix": 1795784400
-  },
-  {
-    "episode": 23,
-    "folder": "EP23_Laundry-Shop-Kahit-Bumabagyo",
-    "folder_id": "1agUkle7zgjvKpysmPL-l1PtM4mQVjfSG",
-    "title": "Laundry Shop Kahit Bumabagyo",
-    "publish_at_manila": "2026-11-28 08:00",
-    "publish_unix": 1795824000
-  },
-  {
-    "episode": 24,
-    "folder": "EP24_Bitag-Ng-Paluwagan-Sa-Opisina",
-    "folder_id": "1THqGP7txiYci0zfPbxNsG80FJ_E0m8bS",
-    "title": "Bitag Ng Paluwagan Sa Opisina",
-    "publish_at_manila": "2026-11-28 11:00",
-    "publish_unix": 1795834800
-  },
-  {
-    "episode": 25,
-    "folder": "EP25_Nanalo-Ng-50M-Sa-Lotto-Tinago",
-    "folder_id": "1GRylPsTn5GJFrsFy-EDyj--U_ai4Vo4L",
-    "title": "Nanalo Ng 50M Sa Lotto Tinago",
-    "publish_at_manila": "2026-11-28 14:00",
-    "publish_unix": 1795845600
-  },
-  {
-    "episode": 26,
-    "folder": "EP26_Barya-Lang-Po-Sa-Umaga-Lesson",
-    "folder_id": "1I-TT6TVtQGUWND1zP7VG8wvot8nd7d_R",
-    "title": "Barya Lang Po Sa Umaga Lesson",
-    "publish_at_manila": "2026-11-28 18:00",
-    "publish_unix": 1795860000
-  },
-  {
-    "episode": 27,
-    "folder": "EP27_Panaderya-Na-Laging-Sold-Out",
-    "folder_id": "1Vo2iCvp8ala7WLeQJJH9weDzlI45rMen",
-    "title": "Panaderya Na Laging Sold Out",
-    "publish_at_manila": "2026-11-28 21:00",
-    "publish_unix": 1795870800
-  },
-  {
-    "episode": 28,
-    "folder": "EP28_Tindero-Ng-Tubig-Sa-EDSA",
-    "folder_id": "1hpCKjpWDRoyP-qXdGBWao20rLitZyHxX",
-    "title": "Tindero Ng Tubig Sa EDSA",
-    "publish_at_manila": "2026-11-29 08:00",
-    "publish_unix": 1795910400
-  },
-  {
-    "episode": 29,
-    "folder": "EP29_SSS-Pension-Sa-Edad-Na-60",
-    "folder_id": "1QUHiBT5H1Wk-C_9oOfZBgM9LyZPEjQHo",
-    "title": "SSS Pension Sa Edad Na 60",
-    "publish_at_manila": "2026-11-29 11:00",
-    "publish_unix": 1795921200
-  },
-  {
-    "episode": 30,
-    "folder": "EP30_Kung-Mawala-Trabaho-Mo-Bukas",
-    "folder_id": "1EnD23y3G74uLrIl49CgQz5eab5MxkEOK",
-    "title": "Kung Mawala Trabaho Mo Bukas",
-    "publish_at_manila": "2026-11-29 14:00",
-    "publish_unix": 1795932000
-  },
-  {
-    "episode": 31,
-    "folder": "EP31_185-Peso-Iced-Coffee-Math",
-    "folder_id": "1p2ju3wR8hrCoG0vrrE7cAXbv1txzZ7cm",
-    "title": "185 Peso Iced Coffee Math",
-    "publish_at_manila": "2026-11-29 18:00",
-    "publish_unix": 1795946400
-  },
-  {
-    "episode": 32,
-    "folder": "EP32_Bitag-Ng-Online-Loan-App",
-    "folder_id": "1ByQykin-thN8UK4Jej2oT05DWgk5G31L",
-    "title": "Bitag Ng Online Loan App",
-    "publish_at_manila": "2026-11-29 21:00",
-    "publish_unix": 1795957200
-  },
-  {
-    "episode": 33,
-    "folder": "EP33_Zero-Downpayment-Kotse-Trap",
-    "folder_id": "1mcU6t93igXjp3wrVU2iewMWFNEo6Yxja",
-    "title": "Zero Downpayment Kotse Trap",
-    "publish_at_manila": "2026-11-30 08:00",
-    "publish_unix": 1795996800
-  },
-  {
-    "episode": 34,
-    "folder": "EP34_Karinderya-3-Bahay-Secret",
-    "folder_id": "1EMljfNeLVQK7FI8tII6C6mJE8rU2rRtK",
-    "title": "Karinderya 3 Bahay Secret",
-    "publish_at_manila": "2026-11-30 11:00",
-    "publish_unix": 1796007600
-  },
-  {
-    "episode": 35,
-    "folder": "EP35_Isang-Gabi-Sa-Hospital-Ubos-Ipon",
-    "folder_id": "1lUrLw1lgw6Z8gyMYeR0uRaNRhbVetJI7",
-    "title": "Isang Gabi Sa Hospital Ubos Ipon",
-    "publish_at_manila": "2026-11-30 14:00",
-    "publish_unix": 1796018400
-  },
-  {
-    "episode": 36,
-    "folder": "EP36_Delivery-Rider-Nakabili-Ng-Lote",
-    "folder_id": "1f_tiWgbCfK_ghdNWYt5T3ZFEcHOBOmnR",
-    "title": "Delivery Rider Nakabili Ng Lote",
-    "publish_at_manila": "2026-11-30 18:00",
-    "publish_unix": 1796032800
-  },
-  {
-    "episode": 37,
-    "folder": "EP37_Buy-Now-Pay-Later-Trap",
-    "folder_id": "1LfVoK6nOHQmYDSFwR7k5bWK9AoA7N7kE",
-    "title": "Buy Now Pay Later Trap",
-    "publish_at_manila": "2026-11-30 21:00",
-    "publish_unix": 1796043600
-  },
-  {
-    "episode": 38,
-    "folder": "EP38_Water-Station-Sa-Kanto-Math",
-    "folder_id": "1O1UG4byeqA-D2a2hDpi-3ddsUb1peg9h",
-    "title": "Water Station Sa Kanto Math",
-    "publish_at_manila": "2026-12-01 08:00",
-    "publish_unix": 1796083200
-  },
-  {
-    "episode": 39,
-    "folder": "EP39_500K-Utang-Sa-Isang-Araw-Na-Kasal",
-    "folder_id": "1_jwMohsbQYtrEJw55IRarfGwpPnyNMtv",
-    "title": "500K Utang Sa Isang Araw Na Kasal",
-    "publish_at_manila": "2026-12-01 11:00",
-    "publish_unix": 1796094000
-  },
-  {
-    "episode": 40,
-    "folder": "EP40_Solar-Panel-Sa-Bubong-Sulit-Ba",
-    "folder_id": "18RXIHMqny4Wp-coP_QCl_bCYVx5t-rRH",
-    "title": "Solar Panel Sa Bubong Sulit Ba",
-    "publish_at_manila": "2026-12-01 14:00",
-    "publish_unix": 1796104800
-  },
-  {
-    "episode": 41,
-    "folder": "EP41_Yelo-Delivery-vs-Milk-Tea",
-    "folder_id": "1u7N5F3aMit0LyJ4c-cOXEi1xGhWkfshj",
-    "title": "Yelo Delivery vs Milk Tea",
-    "publish_at_manila": "2026-12-01 18:00",
-    "publish_unix": 1796119200
-  },
-  {
-    "episode": 42,
-    "folder": "EP42_Sekreto-Ng-Sanglaan-At-Ginto",
-    "folder_id": "1sBXIP7cypByYgCbtX57nsiANk149aRF-",
-    "title": "Sekreto Ng Sanglaan At Ginto",
-    "publish_at_manila": "2026-12-01 21:00",
-    "publish_unix": 1796130000
-  },
-  {
-    "episode": 43,
-    "folder": "EP43_13th-Month-Bonus-Ubos-2-Weeks",
-    "folder_id": "13LNvkpIta1qXrcaNqT8tkUWIq8sTtus3",
-    "title": "13th Month Bonus Ubos 2 Weeks",
-    "publish_at_manila": "2026-12-02 08:00",
-    "publish_unix": 1796169600
-  },
-  {
-    "episode": 44,
-    "folder": "EP44_Tindera-Sa-Palengke-Cash-PickUp",
-    "folder_id": "1yQsUVAIFG14sTYc7hv_PBPOxjpZBD_B3",
-    "title": "Tindera Sa Palengke Cash PickUp",
-    "publish_at_manila": "2026-12-02 11:00",
-    "publish_unix": 1796180400
-  },
-  {
-    "episode": 45,
-    "folder": "EP45_Double-Your-Money-GC-Scam",
-    "folder_id": "1ngt9fgWh2iQvgMAF9pAIB5rQFIXc_MzI",
-    "title": "Double Your Money GC Scam",
-    "publish_at_manila": "2026-12-02 14:00",
-    "publish_unix": 1796191200
-  },
-  {
-    "episode": 46,
-    "folder": "EP46_Sari-Sari-Chiller-Margin-Hack",
-    "folder_id": "123QPvxnuFni6vKxyusvXUIc6u4kBaV0O",
-    "title": "Sari Sari Chiller Margin Hack",
-    "publish_at_manila": "2026-12-02 18:00",
-    "publish_unix": 1796205600
-  },
-  {
-    "episode": 47,
-    "folder": "EP47_Nabulok-Na-Pera-Sa-Alkansya",
-    "folder_id": "1dO1zhmqUKtsf_Eh8lGVpPf2j7mzLmUBp",
-    "title": "Nabulok Na Pera Sa Alkansya",
-    "publish_at_manila": "2026-12-02 21:00",
-    "publish_unix": 1796216400
-  },
-  {
-    "episode": 48,
-    "folder": "EP48_Pag-IBIG-MP2-5K-Formula",
-    "folder_id": "1C6_mGKsBgSMY-pfgZZHar-_jx3U8n67h",
-    "title": "Pag IBIG MP2 5K Formula",
-    "publish_at_manila": "2026-12-03 08:00",
-    "publish_unix": 1796256000
-  },
-  {
-    "episode": 49,
-    "folder": "EP49_Bakit-Di-Yumayaman-Top-Employee",
-    "folder_id": "1XDORWFjrnZIG-zsiBP-aoUbL82XI6SiA",
-    "title": "Bakit Di Yumayaman Top Employee",
-    "publish_at_manila": "2026-12-03 11:00",
-    "publish_unix": 1796266800
-  },
-  {
-    "episode": 50,
-    "folder": "EP50_Hidden-Cost-Ng-EDSA-Traffic",
-    "folder_id": "1uxjbA8H7xFqUr6oY4itrwj5iw3DMRo0W",
-    "title": "Hidden Cost Ng EDSA Traffic",
-    "publish_at_manila": "2026-12-03 14:00",
-    "publish_unix": 1796277600
-  },
-  {
-    "episode": 51,
-    "folder": "EP51_TikTok-Live-Bundle-Psychology",
-    "folder_id": "1BqGKi0iiz5CgevhAVmxrleXC01hSEqkP",
-    "title": "TikTok Live Bundle Psychology",
-    "publish_at_manila": "2026-12-03 18:00",
-    "publish_unix": 1796292000
-  },
-  {
-    "episode": 52,
-    "folder": "EP52_Binenta-Ang-Lupa-Para-Sa-SUV",
-    "folder_id": "1ftqc5ftk2GS6kPLybRoMNhwFTGsV6EPt",
-    "title": "Binenta Ang Lupa Para Sa SUV",
-    "publish_at_manila": "2026-12-03 21:00",
-    "publish_unix": 1796302800
-  },
-  {
-    "episode": 53,
-    "folder": "EP53_Vulcanizing-Sa-Highway-Kita",
-    "folder_id": "17Ft7gdtEs4HQBEAmGQC91zYTii4zvhFD",
-    "title": "Vulcanizing Sa Highway Kita",
-    "publish_at_manila": "2026-12-04 08:00",
-    "publish_unix": 1796342400
-  },
-  {
-    "episode": 54,
-    "folder": "EP54_Panganay-Breadwinner-Boundary",
-    "folder_id": "1Yw_5VRUM5tler3-jUVK3LtY8YzcejvAS",
-    "title": "Panganay Breadwinner Boundary",
-    "publish_at_manila": "2026-12-04 11:00",
-    "publish_unix": 1796353200
-  },
-  {
-    "episode": 55,
-    "folder": "EP55_Bigasan-Business-Margin-Secret",
-    "folder_id": "13TGTCsSuHp8w1gYVcyXqtvx_2rUVx_In",
-    "title": "Bigasan Business Margin Secret",
-    "publish_at_manila": "2026-12-04 14:00",
-    "publish_unix": 1796364000
-  },
-  {
-    "episode": 56,
-    "folder": "EP56_2nd-Hand-Cash-vs-Brand-New-Loan",
-    "folder_id": "1jdC18PSqd3TpVdWcpuNcwKshCGBbD_12",
-    "title": "2nd Hand Cash vs Brand New Loan",
-    "publish_at_manila": "2026-12-04 18:00",
-    "publish_unix": 1796378400
-  },
-  {
-    "episode": 57,
-    "folder": "EP57_Fishball-Cart-Sa-School-Math",
-    "folder_id": "1XNLwiPRd_wJRL8xU2mwyF6ubrHLOxcpn",
-    "title": "Fishball Cart Sa School Math",
-    "publish_at_manila": "2026-12-04 21:00",
-    "publish_unix": 1796389200
-  },
-  {
-    "episode": 58,
-    "folder": "EP58_Petsa-De-Peligro-Lifestyle-Creep",
-    "folder_id": "1TidXOxbeU4q66RDWcVw4inl6ZjrjEgXO",
-    "title": "Petsa De Peligro Lifestyle Creep",
-    "publish_at_manila": "2026-12-05 08:00",
-    "publish_unix": 1796428800
-  },
-  {
-    "episode": 59,
-    "folder": "EP59_Boarding-House-Sa-University",
-    "folder_id": "1AxuQQttYnytZmDfA2YIdkncqabZYEM9A",
-    "title": "Boarding House Sa University",
-    "publish_at_manila": "2026-12-05 11:00",
-    "publish_unix": 1796439600
-  },
-  {
-    "episode": 60,
-    "folder": "EP60_1-Rule-Ng-Pinoy-Millionaires",
-    "folder_id": "11K7B0LkSs8ibVFfipFsgGM0F0Jl_BNGw",
-    "title": "1 Rule Ng Pinoy Millionaires",
-    "publish_at_manila": "2026-12-05 14:00",
-    "publish_unix": 1796450400
-  },
-  {
-    "episode": 61,
-    "folder": "EP61_Aircon-Inverter-Meralco-Trap",
-    "folder_id": "1I1ucJrPDUD-T050l0MJOdornVCPzOoF6",
-    "title": "Aircon Inverter Meralco Trap",
-    "publish_at_manila": "2026-12-05 18:00",
-    "publish_unix": 1796464800
-  },
-  {
-    "episode": 62,
-    "folder": "EP62_Add-To-Cart-COD-Budol-Math",
-    "folder_id": "1sdGqbOSFFd0kBM1y8CGmomIoSkitTuaq",
-    "title": "Add To Cart COD Budol Math",
-    "publish_at_manila": "2026-12-05 21:00",
-    "publish_unix": 1796475600
-  },
-  {
-    "episode": 63,
-    "folder": "EP63_Bakit-Lugi-Milk-Tea-Shop",
-    "folder_id": "1lcc4L9oZbLcPaBnTX_9UM2cGqSvIGNdv",
-    "title": "Bakit Lugi Milk Tea Shop",
-    "publish_at_manila": "2026-12-06 08:00",
-    "publish_unix": 1796515200
-  },
-  {
-    "episode": 64,
-    "folder": "EP64_OFW-Balikbayan-Box-Trap",
-    "folder_id": "1V1npZ3AZv5Fn6sqSQgv9mtnxAcKYA8NE",
-    "title": "OFW Balikbayan Box Trap",
-    "publish_at_manila": "2026-12-06 11:00",
-    "publish_unix": 1796526000
-  },
-  {
-    "episode": 65,
-    "folder": "EP65_Carwash-Sa-Kanto-Math",
-    "folder_id": "1IcmV08HiwX153sEWJMcfyHn1o5J8wQfj",
-    "title": "Carwash Sa Kanto Math",
-    "publish_at_manila": "2026-12-06 14:00",
-    "publish_unix": 1796536800
-  },
-  {
-    "episode": 66,
-    "folder": "EP66_EWallet-Silent-Subscriptions-Leak",
-    "folder_id": "1LOkEJk0juhOPSZNAm2on7nGaii4W09Sw",
-    "title": "EWallet Silent Subscriptions Leak",
-    "publish_at_manila": "2026-12-06 18:00",
-    "publish_unix": 1796551200
-  },
-  {
-    "episode": 67,
-    "folder": "EP67_Pautang-Sa-Kamag-Anak-Rule",
-    "folder_id": "1OhRM28Fsz2jqL9nDYeBwh9rIrivMwvFM",
-    "title": "Pautang Sa Kamag Anak Rule",
-    "publish_at_manila": "2026-12-06 21:00",
-    "publish_unix": 1796562000
-  },
-  {
-    "episode": 68,
-    "folder": "EP68_Piso-Printing-Campus-Math",
-    "folder_id": "1eA3ZTXzes3xXfRNs3rFMKJHmGw6zMvFY",
-    "title": "Piso Printing Campus Math",
-    "publish_at_manila": "2026-12-07 08:00",
-    "publish_unix": 1796601600
-  },
-  {
-    "episode": 69,
-    "folder": "EP69_Bakit-Delikado-All-In-Resign-Negosyo",
-    "folder_id": "1Ezae5DFWYYscHuFTegSxJIFmqHmmrKM6",
-    "title": "Bakit Delikado All In Resign Negosyo",
-    "publish_at_manila": "2026-12-07 11:00",
-    "publish_unix": 1796612400
-  },
-  {
-    "episode": 70,
-    "folder": "EP70_Digital-Bank-6-vs-Trad-Bank",
-    "folder_id": "1fgAtsd-lptM4naFPtbsENCMAk-ZS09cv",
-    "title": "Digital Bank 6 vs Trad Bank",
-    "publish_at_manila": "2026-12-07 14:00",
-    "publish_unix": 1796623200
-  },
-  {
-    "episode": 71,
-    "folder": "EP71_VA-Work-From-Home-vs-Commute",
-    "folder_id": "1_34aNtKshIjw_4vKJp_I6JY-qhNTtk2o",
-    "title": "VA Work From Home vs Commute",
-    "publish_at_manila": "2026-12-07 18:00",
-    "publish_unix": 1796637600
-  },
-  {
-    "episode": 72,
-    "folder": "EP72_Sizzling-Sisig-Night-Stall-Math",
-    "folder_id": "1wC0qtwqCVmyGO6MY2W0l_U9U-H_HlCdZ",
-    "title": "Sizzling Sisig Night Stall Math",
-    "publish_at_manila": "2026-12-07 21:00",
-    "publish_unix": 1796648400
-  },
-  {
-    "episode": 73,
-    "folder": "EP73_Rent-vs-Buy-House-30Yr-Loan",
-    "folder_id": "1bdN2WDtgILSp_JeMJu1Oc9PY1dHKmW9d",
-    "title": "Rent vs Buy House 30Yr Loan",
-    "publish_at_manila": "2026-12-08 08:00",
-    "publish_unix": 1796688000
-  },
-  {
-    "episode": 74,
-    "folder": "EP74_Fresh-Grad-Deserve-Ko-To-Trap",
-    "folder_id": "1F_-mKgrAl6Lf8nNtpIebx_WTa_3E2w8Z",
-    "title": "Fresh Grad Deserve Ko To Trap",
-    "publish_at_manila": "2026-12-08 11:00",
-    "publish_unix": 1796698800
-  },
-  {
-    "episode": 75,
-    "folder": "EP75_Loading-Bills-Payment-Magnet",
-    "folder_id": "1onVg1uCR9WDJv8totnQAjlr2qCsSLerw",
-    "title": "Loading Bills Payment Magnet",
-    "publish_at_manila": "2026-12-08 14:00",
-    "publish_unix": 1796709600
-  },
-  {
-    "episode": 76,
-    "folder": "EP76_Online-Gambling-Scatter-Trap",
-    "folder_id": "13RLwsGjhO88tefXXQoT1jnWhbE8AZwDh",
-    "title": "Online Gambling Scatter Trap",
-    "publish_at_manila": "2026-12-08 18:00",
-    "publish_unix": 1796724000
-  },
-  {
-    "episode": 77,
-    "folder": "EP77_Junkshop-Millionaire-Barangay",
-    "folder_id": "1LzxX1v6gHpvbd0ApDQvWawG2PVOK5AW-",
-    "title": "Junkshop Millionaire Barangay",
-    "publish_at_manila": "2026-12-08 21:00",
-    "publish_unix": 1796734800
-  },
-  {
-    "episode": 78,
-    "folder": "EP78_Seafarer-150K-One-Day-Millionaire",
-    "folder_id": "17x-ggXvPS_TpxAZrlhJZ-Byh3gSdtqO8",
-    "title": "Seafarer 150K One Day Millionaire",
-    "publish_at_manila": "2026-12-09 08:00",
-    "publish_unix": 1796774400
-  },
-  {
-    "episode": 79,
-    "folder": "EP79_4-Envelope-Budgeting-Nanay",
-    "folder_id": "1hH7mjLFDX87DEkdeWm9jvY05qbz1e1pM",
-    "title": "4 Envelope Budgeting Nanay",
-    "publish_at_manila": "2026-12-09 11:00",
-    "publish_unix": 1796785200
-  },
-  {
-    "episode": 80,
-    "folder": "EP80_Recession-Proof-Negosyo-Secret",
-    "folder_id": "1qqHNX9VCXJ2gyANDc42D8Z078etTv_bD",
-    "title": "Recession Proof Negosyo Secret",
-    "publish_at_manila": "2026-12-09 14:00",
-    "publish_unix": 1796796000
-  },
-  {
-    "episode": 81,
-    "folder": "EP81_Siomai-Cart-5-Branches-Story",
-    "folder_id": "1n0q8-H8swDix7hs2d0YHlANuphW0Ntwu",
-    "title": "Siomai Cart 5 Branches Story",
-    "publish_at_manila": "2026-12-09 18:00",
-    "publish_unix": 1796810400
-  },
-  {
-    "episode": 82,
-    "folder": "EP82_Fiesta-Birthday-Utang-Syndrome",
-    "folder_id": "14LMiCBKU4qxGbk1kAh6-UCZM21Y2VSB7",
-    "title": "Fiesta Birthday Utang Syndrome",
-    "publish_at_manila": "2026-12-09 21:00",
-    "publish_unix": 1796821200
-  },
-  {
-    "episode": 83,
-    "folder": "EP83_Aircon-Cleaning-Tech-Income",
-    "folder_id": "1159noLFWyGfT7KwbURHb_gaLxP_A2jaj",
-    "title": "Aircon Cleaning Tech Income",
-    "publish_at_manila": "2026-12-10 08:00",
-    "publish_unix": 1796860800
-  },
-  {
-    "episode": 84,
-    "folder": "EP84_HMO-Health-Card-Sayang-Daw",
-    "folder_id": "1Hd7cqFPoWjx-xVxDwDuPqrvYaA6P2N8J",
-    "title": "HMO Health Card Sayang Daw",
-    "publish_at_manila": "2026-12-10 11:00",
-    "publish_unix": 1796871600
-  },
-  {
-    "episode": 85,
-    "folder": "EP85_Bestfriend-Business-Partner-Trap",
-    "folder_id": "1KjqzG3CdCi9lXhMY8qn1dh_LJUHuJM0I",
-    "title": "Bestfriend Business Partner Trap",
-    "publish_at_manila": "2026-12-10 14:00",
-    "publish_unix": 1796882400
-  },
-  {
-    "episode": 86,
-    "folder": "EP86_Babuyan-Sa-Probinsya-Real-Math",
-    "folder_id": "1kEPyx7UAI9jcJqtl0wbM6gVZZFPAr9Fb",
-    "title": "Babuyan Sa Probinsya Real Math",
-    "publish_at_manila": "2026-12-10 18:00",
-    "publish_unix": 1796896800
-  },
-  {
-    "episode": 87,
-    "folder": "EP87_Mag-Asawa-Secret-Utang-Money-Date",
-    "folder_id": "12aroL1Hyl7g68bbFR12v5vX34KQTwNIn",
-    "title": "Mag Asawa Secret Utang Money Date",
-    "publish_at_manila": "2026-12-10 21:00",
-    "publish_unix": 1796907600
-  },
-  {
-    "episode": 88,
-    "folder": "EP88_Gulay-Delivery-Subdivision-GC",
-    "folder_id": "1vEyICun342eMih1Q5O6Dzv_8JBWdpHfO",
-    "title": "Gulay Delivery Subdivision GC",
-    "publish_at_manila": "2026-12-11 08:00",
-    "publish_unix": 1796947200
-  },
-  {
-    "episode": 89,
-    "folder": "EP89_Isang-Income-Stream-Delikado",
-    "folder_id": "10dThUVx43HFNfI9V6WzJD0jbCHLzKfAK",
-    "title": "Isang Income Stream Delikado",
-    "publish_at_manila": "2026-12-11 11:00",
-    "publish_unix": 1796958000
-  },
-  {
-    "episode": 90,
-    "folder": "EP90_50-Peso-Day-Challenge-MP2",
-    "folder_id": "15jLQ9gR6acnHLGd_BRiwkOBNIrM3iYhm",
-    "title": "50 Peso Day Challenge MP2",
-    "publish_at_manila": "2026-12-11 14:00",
-    "publish_unix": 1796968800
-  },
-  {
-    "episode": 91,
-    "folder": "EP91_AI-Skills-Zero-Capital-60K",
-    "folder_id": "1lqX8umGuCSdNpC2Dhdi0zzqrdD0EI9GZ",
-    "title": "AI Skills Zero Capital 60K",
-    "publish_at_manila": "2026-12-11 18:00",
-    "publish_unix": 1796983200
-  },
-  {
-    "episode": 92,
-    "folder": "EP92_Bakit-Mas-Mahal-Ang-Mura",
-    "folder_id": "1ffHE7aVreNqsOWqoC3ExypwOFXYEQap_",
-    "title": "Bakit Mas Mahal Ang Mura",
-    "publish_at_manila": "2026-12-11 21:00",
-    "publish_unix": 1796994000
-  },
-  {
-    "episode": 93,
-    "folder": "EP93_Grab-Car-Boundary-Real-Math",
-    "folder_id": "1C7MZKxYxD9-7xI4YLP71ES1xvT50us-g",
-    "title": "Grab Car Boundary Real Math",
-    "publish_at_manila": "2026-12-12 08:00",
-    "publish_unix": 1797033600
-  },
-  {
-    "episode": 94,
-    "folder": "EP94_Ukay-Live-Selling-Sa-Sala",
-    "folder_id": "1v4D4s8gvbwuiFyaOTCW2UTi8iwwJMY5T",
-    "title": "Ukay Live Selling Sa Sala",
-    "publish_at_manila": "2026-12-12 11:00",
-    "publish_unix": 1797044400
-  },
-  {
-    "episode": 95,
-    "folder": "EP95_Anak-Hindi-Retirement-Fund",
-    "folder_id": "16mxTHEZTnCD8fETzGWe9BfUaZ79fn662",
-    "title": "Anak Hindi Retirement Fund",
-    "publish_at_manila": "2026-12-12 14:00",
-    "publish_unix": 1797055200
-  },
-  {
-    "episode": 96,
-    "folder": "EP96_Motor-Wash-Probinsya-Math",
-    "folder_id": "1ZnwV_j7_uArh6ocX_7A_hBWb5RlGVgT9",
-    "title": "Motor Wash Probinsya Math",
-    "publish_at_manila": "2026-12-12 18:00",
-    "publish_unix": 1797069600
-  },
-  {
-    "episode": 97,
-    "folder": "EP97_Tahimik-vs-Mayabang-Yumaman",
-    "folder_id": "1GCUNfIMl7hroo9vO4GZuGMc3qwayeQS1",
-    "title": "Tahimik vs Mayabang Yumaman",
-    "publish_at_manila": "2026-12-12 21:00",
-    "publish_unix": 1797080400
-  },
-  {
-    "episode": 98,
-    "folder": "EP98_10-Second-Rule-Bago-Checkout",
-    "folder_id": "1Nzw7j81rAb8KN0sOtg_oMDAka6MEnTea",
-    "title": "10 Second Rule Bago Checkout",
-    "publish_at_manila": "2026-12-13 08:00",
-    "publish_unix": 1797120000
-  },
-  {
-    "episode": 99,
-    "folder": "EP99_Paano-Mag-Ipon-Minimum-Wage",
-    "folder_id": "1rpABhR2uVywAdrMOzsZbe538PjouL-IU",
-    "title": "Paano Mag Ipon Minimum Wage",
-    "publish_at_manila": "2026-12-13 11:00",
-    "publish_unix": 1797130800
-  },
-  {
-    "episode": 100,
-    "folder": "EP100_EP100-3-Desisyon-365-Araw",
-    "folder_id": "1COHjh9QL4OeZTP9q-MvE8AntNi1ryF4W",
-    "title": "EP100 3 Desisyon 365 Araw",
-    "publish_at_manila": "2026-12-13 14:00",
-    "publish_unix": 1797141600
-  },
-  {
-    "episode": 101,
-    "folder": "EP101_Piso-Fare-Travel-Budol",
-    "folder_id": "1wCPt3h4dkEEhQqdNbOSxFhBFgA9TfYNp",
-    "title": "Piso Fare Travel Budol",
-    "publish_at_manila": "2026-12-13 18:00",
-    "publish_unix": 1797156000
-  },
-  {
-    "episode": 102,
-    "folder": "EP102_Unli-Samgyup-Negosyo-Secret",
-    "folder_id": "1F7ZGfzqloR1viJNqLWb5A8gDG13yc9jx",
-    "title": "Unli Samgyup Negosyo Secret",
-    "publish_at_manila": "2026-12-13 21:00",
-    "publish_unix": 1797166800
-  },
-  {
-    "episode": 103,
-    "folder": "EP103_Ebike-Vs-Motor-Battery-Math",
-    "folder_id": "1pMcO9N5t2wwbaZKN7laMN7oNiG-ngU_u",
-    "title": "Ebike Vs Motor Battery Math",
-    "publish_at_manila": "2026-12-14 08:00",
-    "publish_unix": 1797206400
-  },
-  {
-    "episode": 104,
-    "folder": "EP104_Gold-Price-All-Time-High",
-    "folder_id": "1lsKHcjlcF2lubhTxUBW_pNDVrJBb7oEN",
-    "title": "Gold Price All Time High",
-    "publish_at_manila": "2026-12-14 11:00",
-    "publish_unix": 1797217200
-  },
-  {
-    "episode": 105,
-    "folder": "EP105_Zero-Percent-Installment-Trap",
-    "folder_id": "1ijtMAk4_IKParh_WxJAf-B0A_DSNXHSf",
-    "title": "Zero Percent Installment Trap",
-    "publish_at_manila": "2026-12-14 14:00",
-    "publish_unix": 1797228000
-  },
-  {
-    "episode": 106,
-    "folder": "EP106_Freelancer-VA-Ghosted-Client",
-    "folder_id": "1Hda-BEngSPP2C7u3KXsWjh2tyiqcDb-o",
-    "title": "Freelancer VA Ghosted Client",
-    "publish_at_manila": "2026-12-14 18:00",
-    "publish_unix": 1797242400
-  },
-  {
-    "episode": 107,
-    "folder": "EP107_Brownout-Power-Station-Wfh",
-    "folder_id": "1spNn3Ux3rUhHbQT60BCNzQDPPbItB0Xe",
-    "title": "Brownout Power Station Wfh",
-    "publish_at_manila": "2026-12-14 21:00",
-    "publish_unix": 1797253200
-  },
-  {
-    "episode": 108,
-    "folder": "EP108_College-Diploma-Vs-High-Skill",
-    "folder_id": "1Kb17_kYAlsEbeWOUsw0izvlZSgdxjcas",
-    "title": "College Diploma Vs High Skill",
-    "publish_at_manila": "2026-12-15 08:00",
-    "publish_unix": 1797292800
-  },
-  {
-    "episode": 109,
-    "folder": "EP109_Mall-Window-Shopping-Psychology",
-    "folder_id": "1sOS2qrUtTWq5HxsbW14eEYF0GWHNsgA4",
-    "title": "Mall Window Shopping Psychology",
-    "publish_at_manila": "2026-12-15 11:00",
-    "publish_unix": 1797303600
-  },
-  {
-    "episode": 110,
-    "folder": "EP110_Tiktok-Affiliate-Nanay-35k",
-    "folder_id": "1dXi-XBrraLtcO4Of68FlV2-VBD3Lx8jx",
-    "title": "Tiktok Affiliate Nanay 35k",
-    "publish_at_manila": "2026-12-15 14:00",
-    "publish_unix": 1797314400
-  },
-  {
-    "episode": 111,
-    "folder": "EP111_Concert-Ticket-Credit-Card-Debt",
-    "folder_id": "1n_xEy-m-8CE_Xqh_yEionQfv9i92LXgk",
-    "title": "Concert Ticket Credit Card Debt",
-    "publish_at_manila": "2026-12-15 18:00",
-    "publish_unix": 1797328800
-  },
-  {
-    "episode": 112,
-    "folder": "EP112_Gym-Membership-Unused-Leak",
-    "folder_id": "1UZHX1L9133Yn6YkrMsk97nYgpqEzZfhA",
-    "title": "Gym Membership Unused Leak",
-    "publish_at_manila": "2026-12-15 21:00",
-    "publish_unix": 1797339600
-  },
-  {
-    "episode": 113,
-    "folder": "EP113_Branded-Bag-45k-Vs-Mp2",
-    "folder_id": "1HHxAIC9sDrgMWNDGWbj90wyZxH3IOmj4",
-    "title": "Branded Bag 45k Vs Mp2",
-    "publish_at_manila": "2026-12-16 08:00",
-    "publish_unix": 1797379200
-  },
-  {
-    "episode": 114,
-    "folder": "EP114_Preselling-Lot-Scam-Redflags",
-    "folder_id": "19boxBw5qukrGe4E3puNAYbQioVHTGqIz",
-    "title": "Preselling Lot Scam Redflags",
-    "publish_at_manila": "2026-12-16 11:00",
-    "publish_unix": 1797390000
-  },
-  {
-    "episode": 115,
-    "folder": "EP115_Direct-Import-China-Margin",
-    "folder_id": "1gIpc9eXI_Cg2wF8oQ6ltNsTESYbKPS-N",
-    "title": "Direct Import China Margin",
-    "publish_at_manila": "2026-12-16 14:00",
-    "publish_unix": 1797400800
-  },
-  {
-    "episode": 116,
-    "folder": "EP116_Food-Delivery-App-Markup-Trap",
-    "folder_id": "1miXpL9SDSA8VE20ake_GwmoSuDwtzulz",
-    "title": "Food Delivery App Markup Trap",
-    "publish_at_manila": "2026-12-16 18:00",
-    "publish_unix": 1797415200
-  },
-  {
-    "episode": 117,
-    "folder": "EP117_Abroad-Placement-Fee-Reality",
-    "folder_id": "1k8q0eThD8zecJGMe-__pTWzyuPEdBpP2",
-    "title": "Abroad Placement Fee Reality",
-    "publish_at_manila": "2026-12-16 21:00",
-    "publish_unix": 1797426000
-  },
-  {
-    "episode": 118,
-    "folder": "EP118_Aesthetic-Cafe-Tambay-Lugi",
-    "folder_id": "10bsZ0xZcPU-LyWBPh5pr1v4UsWya-hwv",
-    "title": "Aesthetic Cafe Tambay Lugi",
-    "publish_at_manila": "2026-12-17 08:00",
-    "publish_unix": 1797465600
-  },
-  {
-    "episode": 119,
-    "folder": "EP119_Declutter-Bahay-38k-Cash",
-    "folder_id": "1yhY9dXoWsPgnFtG8lYXx2vKl7plijQTK",
-    "title": "Declutter Bahay 38k Cash",
-    "publish_at_manila": "2026-12-17 11:00",
-    "publish_unix": 1797476400
-  },
-  {
-    "episode": 120,
-    "folder": "EP120_2026-Grocery-1000-Hack",
-    "folder_id": "1_FhNABzRw9QHBq3ahLf0LKEHjk27zPH2",
-    "title": "2026 Grocery 1000 Hack",
-    "publish_at_manila": "2026-12-17 14:00",
-    "publish_unix": 1797487200
-  },
-  {
-    "episode": 121,
-    "folder": "EP121_Pares-Overload-Kanto-Math",
-    "folder_id": "1FdxVvEci87KU7tc1lz7887Tg5FKGXYgb",
-    "title": "Pares Overload Kanto Math",
-    "publish_at_manila": "2026-12-17 18:00",
-    "publish_unix": 1797501600
-  },
-  {
-    "episode": 122,
-    "folder": "EP122_Flower-Shop-Undas-Valentines",
-    "folder_id": "1qB9-1lZFV6xk3hkOKiiTvEhn3eFd2o4Q",
-    "title": "Flower Shop Undas Valentines",
-    "publish_at_manila": "2026-12-17 21:00",
-    "publish_unix": 1797512400
-  },
-  {
-    "episode": 123,
-    "folder": "EP123_Shoe-Cleaning-Restoration-Math",
-    "folder_id": "1AMpBJA-d_kA0GQtG2HA_51qoQ2qSfGKx",
-    "title": "Shoe Cleaning Restoration Math",
-    "publish_at_manila": "2026-12-18 08:00",
-    "publish_unix": 1797552000
-  },
-  {
-    "episode": 124,
-    "folder": "EP124_Piso-Carwash-Coin-Passive",
-    "folder_id": "1n2mhBhz3Wduy5ZkKPG7e2XGJ8x8hifc0",
-    "title": "Piso Carwash Coin Passive",
-    "publish_at_manila": "2026-12-18 11:00",
-    "publish_unix": 1797562800
-  },
-  {
-    "episode": 125,
-    "folder": "EP125_Dirty-Ice-Cream-6-Carts",
-    "folder_id": "1zZz097OpuJb9-8yTmE-JF0sjN_z0RYh-",
-    "title": "Dirty Ice Cream 6 Carts",
-    "publish_at_manila": "2026-12-18 14:00",
-    "publish_unix": 1797573600
-  },
-  {
-    "episode": 126,
-    "folder": "EP126_School-Service-Shuttle-Math",
-    "folder_id": "129uJR4kAEGzFKf7VsO3memq7kkzoEu6c",
-    "title": "School Service Shuttle Math",
-    "publish_at_manila": "2026-12-18 18:00",
-    "publish_unix": 1797588000
-  },
-  {
-    "episode": 127,
-    "folder": "EP127_Pet-Grooming-Fur-Parents-Boom",
-    "folder_id": "1afpmp38Za2U_gVYGAhYcP0801r4QYp4r",
-    "title": "Pet Grooming Fur Parents Boom",
-    "publish_at_manila": "2026-12-18 21:00",
-    "publish_unix": 1797598800
-  },
-  {
-    "episode": 128,
-    "folder": "EP128_Tent-Chair-Rental-Barangay",
-    "folder_id": "1XHycyM2Y4Wl_A0QuW7s-glFH9iHww4fE",
-    "title": "Tent Chair Rental Barangay",
-    "publish_at_manila": "2026-12-19 08:00",
-    "publish_unix": 1797638400
-  },
-  {
-    "episode": 129,
-    "folder": "EP129_Lechon-Manok-Rotisserie-Math",
-    "folder_id": "1sadZFwkb1eHnfo-3f1zAfgrSS1Q1AoBy",
-    "title": "Lechon Manok Rotisserie Math",
-    "publish_at_manila": "2026-12-19 11:00",
-    "publish_unix": 1797649200
-  },
-  {
-    "episode": 130,
-    "folder": "EP130_Tailoring-Alteration-Mall-Tapat",
-    "folder_id": "1FKYUW59lSLpQok63xD9mmn7Qai0sgNOJ",
-    "title": "Tailoring Alteration Mall Tapat",
-    "publish_at_manila": "2026-12-19 14:00",
-    "publish_unix": 1797660000
-  },
-  {
-    "episode": 131,
-    "folder": "EP131_Egg-Tray-Delivery-Poultry",
-    "folder_id": "1wT2hXqzVHiv1jw_eS4A2PMp93nWPCxyi",
-    "title": "Egg Tray Delivery Poultry",
-    "publish_at_manila": "2026-12-19 18:00",
-    "publish_unix": 1797674400
-  },
-  {
-    "episode": 132,
-    "folder": "EP132_Barbershop-3-Chairs-75k",
-    "folder_id": "1sq8gSRaSyfqDtJH-Gclte9-hzPIDnte_",
-    "title": "Barbershop 3 Chairs 75k",
-    "publish_at_manila": "2026-12-19 21:00",
-    "publish_unix": 1797685200
-  },
-  {
-    "episode": 133,
-    "folder": "EP133_Frozen-Meat-Tocino-Office",
-    "folder_id": "1aHFmRpDLGT3oXNRar--eI7yggvV4cGqW",
-    "title": "Frozen Meat Tocino Office",
-    "publish_at_manila": "2026-12-20 08:00",
-    "publish_unix": 1797724800
-  },
-  {
-    "episode": 134,
-    "folder": "EP134_Hardware-Subdivision-Goldmine",
-    "folder_id": "15lA9764hV9Alkqk3z4hdfRBl05U6_Vxt",
-    "title": "Hardware Subdivision Goldmine",
-    "publish_at_manila": "2026-12-20 11:00",
-    "publish_unix": 1797735600
-  },
-  {
-    "episode": 135,
-    "folder": "EP135_Phone-Screen-Repair-85-Margin",
-    "folder_id": "1FUXSsaPGqiD5NSNEgX_ytqjQdRRqLm8-",
-    "title": "Phone Screen Repair 85 Margin",
-    "publish_at_manila": "2026-12-20 14:00",
-    "publish_unix": 1797746400
-  },
-  {
-    "episode": 136,
-    "folder": "EP136_Taho-Vendor-3-Hours-Morning",
-    "folder_id": "1C0E9jx95iZw0ebpJTvT3xRGARgCJQFcO",
-    "title": "Taho Vendor 3 Hours Morning",
-    "publish_at_manila": "2026-12-20 18:00",
-    "publish_unix": 1797760800
-  },
-  {
-    "episode": 137,
-    "folder": "EP137_Bilao-Pancit-Weekend-Catering",
-    "folder_id": "1yhyKaiSNVVV2NAx4-UFKj-xGU7s1fyN8",
-    "title": "Bilao Pancit Weekend Catering",
-    "publish_at_manila": "2026-12-20 21:00",
-    "publish_unix": 1797771600
-  },
-  {
-    "episode": 138,
-    "folder": "EP138_Bakery-Pandesal-4am-Volume",
-    "folder_id": "1Rke5a2Wj3WKlt4wu4fTh-J03_a_Ws6Vx",
-    "title": "Bakery Pandesal 4am Volume",
-    "publish_at_manila": "2026-12-21 08:00",
-    "publish_unix": 1797811200
-  },
-  {
-    "episode": 139,
-    "folder": "EP139_Private-Pool-Staycation-Math",
-    "folder_id": "1lp9cd33A3gb12Rrq5iCcqCYUYuz8dxfn",
-    "title": "Private Pool Staycation Math",
-    "publish_at_manila": "2026-12-21 11:00",
-    "publish_unix": 1797822000
-  },
-  {
-    "episode": 140,
-    "folder": "EP140_Halong-Pera-Sa-Bulsa-Lugi",
-    "folder_id": "1jOZsm_6BE8TjzQdgjIKr6O7dTb4hf7ys",
-    "title": "Halong Pera Sa Bulsa Lugi",
-    "publish_at_manila": "2026-12-21 14:00",
-    "publish_unix": 1797832800
-  },
-  {
-    "episode": 141,
-    "folder": "EP141_OFW-Pinag-Aral-4-Kapatid",
-    "folder_id": "1azqVWWlaN3mNrr5MvTpCLcNbgwu2jFh5",
-    "title": "OFW Pinag Aral 4 Kapatid",
-    "publish_at_manila": "2026-12-21 18:00",
-    "publish_unix": 1797847200
-  },
-  {
-    "episode": 142,
-    "folder": "EP142_Inggit-Ng-Magkakapatid-Sa-Yaman",
-    "folder_id": "1ReJ-1xGZEW8bcAawKP5WE_q7SDNVmWDA",
-    "title": "Inggit Ng Magkakapatid Sa Yaman",
-    "publish_at_manila": "2026-12-21 21:00",
-    "publish_unix": 1797858000
-  },
-  {
-    "episode": 143,
-    "folder": "EP143_Kasal-Nakitira-Sa-Biyenan",
-    "folder_id": "1AZsXymhHYdAjM4UhZBZWMNSZ5KXb5aDc",
-    "title": "Kasal Nakitira Sa Biyenan",
-    "publish_at_manila": "2026-12-22 08:00",
-    "publish_unix": 1797897600
-  },
-  {
-    "episode": 144,
-    "folder": "EP144_Single-Mom-Comeback-2-Shops",
-    "folder_id": "1tixjFGJ8JpLPn0AlRdaeDaMQsuqbjRZS",
-    "title": "Single Mom Comeback 2 Shops",
-    "publish_at_manila": "2026-12-22 11:00",
-    "publish_unix": 1797908400
-  },
-  {
-    "episode": 145,
-    "folder": "EP145_Cosign-Loan-Kaibigan-Nightmare",
-    "folder_id": "1WTNjJk4Xg44G3ZyWXzSq5jwTgATMtXzH",
-    "title": "Cosign Loan Kaibigan Nightmare",
-    "publish_at_manila": "2026-12-22 14:00",
-    "publish_unix": 1797919200
-  },
-  {
-    "episode": 146,
-    "folder": "EP146_Matandang-Magulang-Walang-SSS",
-    "folder_id": "1KzW4PX0YjA5zAyfIdwkk48NwkM942WjQ",
-    "title": "Matandang Magulang Walang SSS",
-    "publish_at_manila": "2026-12-22 18:00",
-    "publish_unix": 1797933600
-  },
-  {
-    "episode": 147,
-    "folder": "EP147_Away-Mag-Asawa-Dahil-Sa-Pera",
-    "folder_id": "1Ix4BNbkmK0xQepURH1UZm5bN3xqZIrNI",
-    "title": "Away Mag Asawa Dahil Sa Pera",
-    "publish_at_manila": "2026-12-22 21:00",
-    "publish_unix": 1797944400
-  },
-  {
-    "episode": 148,
-    "folder": "EP148_Secret-Sweldo-Peace-Of-Mind",
-    "folder_id": "1UuFgUpFV9PNVx0Yyr0ycArpJE4cCNc71",
-    "title": "Secret Sweldo Peace Of Mind",
-    "publish_at_manila": "2026-12-23 08:00",
-    "publish_unix": 1797984000
-  },
-  {
-    "episode": 149,
-    "folder": "EP149_Working-Student-100k-Before-Grad",
-    "folder_id": "1EjkcWnoX16kHib6b9qGsl-LNfru1aogm",
-    "title": "Working Student 100k Before Grad",
-    "publish_at_manila": "2026-12-23 11:00",
-    "publish_unix": 1797994800
-  },
-  {
-    "episode": 150,
-    "folder": "EP150_Minanang-Bahay-Amilyar-Subasta",
-    "folder_id": "17oETdPnOKar4jOWYSN9urmWVS3xafv23",
-    "title": "Minanang Bahay Amilyar Subasta",
-    "publish_at_manila": "2026-12-23 14:00",
-    "publish_unix": 1798005600
-  },
-  {
-    "episode": 151,
-    "folder": "EP151_Money-Mule-GCash-Scam-Kulong",
-    "folder_id": "17YfHuWO7qNbCl4znbcTSOtYbUB_No9NZ",
-    "title": "Money Mule GCash Scam Kulong",
-    "publish_at_manila": "2026-12-23 18:00",
-    "publish_unix": 1798020000
-  },
-  {
-    "episode": 152,
-    "folder": "EP152_OFW-Padala-Pinangsugal-Ng-Asawa",
-    "folder_id": "1B07wKqEr7HR74YOS__6ZACXMXuV8VDWk",
-    "title": "OFW Padala Pinangsugal Ng Asawa",
-    "publish_at_manila": "2026-12-23 21:00",
-    "publish_unix": 1798030800
-  },
-  {
-    "episode": 153,
-    "folder": "EP153_People-Pleaser-Libre-Tax",
-    "folder_id": "1cW_Fvm3oySv_rMqSCVJcRdmFRBHBoTN2",
-    "title": "People Pleaser Libre Tax",
-    "publish_at_manila": "2026-12-24 08:00",
-    "publish_unix": 1798070400
-  },
-  {
-    "episode": 154,
-    "folder": "EP154_Lolo-Bumili-Lupa-3-Generations",
-    "folder_id": "1NKhnDzZFmmqoSkCqQUCI5SYuEDGKwvZ3",
-    "title": "Lolo Bumili Lupa 3 Generations",
-    "publish_at_manila": "2026-12-24 11:00",
-    "publish_unix": 1798081200
-  },
-  {
-    "episode": 155,
-    "folder": "EP155_Emergency-Fund-Walk-Away-Power",
-    "folder_id": "1pE5JsRg7KP86IliULAek24OM_xurdkol",
-    "title": "Emergency Fund Walk Away Power",
-    "publish_at_manila": "2026-12-24 14:00",
-    "publish_unix": 1798092000
-  },
-  {
-    "episode": 156,
-    "folder": "EP156_Mag-Jowa-Bumili-Bahay-Naghiwalay",
-    "folder_id": "1F0W-fKBQ2USo5W-jCdwD3hxOkgJ5Si8Q",
-    "title": "Mag Jowa Bumili Bahay Naghiwalay",
-    "publish_at_manila": "2026-12-24 18:00",
-    "publish_unix": 1798106400
-  },
-  {
-    "episode": 157,
-    "folder": "EP157_Tamang-Circle-At-Mentor-Yaman",
-    "folder_id": "1A2tvRRG9tS06YsRDxxTFbi59UuUiD1CE",
-    "title": "Tamang Circle At Mentor Yaman",
-    "publish_at_manila": "2026-12-24 21:00",
-    "publish_unix": 1798117200
-  },
-  {
-    "episode": 158,
-    "folder": "EP158_Estate-Tax-Minanang-Lupa-Trap",
-    "folder_id": "1RNB_uRJvUg4dbO-d59DJAThbOpagmiNg",
-    "title": "Estate Tax Minanang Lupa Trap",
-    "publish_at_manila": "2026-12-25 08:00",
-    "publish_unix": 1798156800
-  },
-  {
-    "episode": 159,
-    "folder": "EP159_Libre-Ko-Na-Payday-Syndrome",
-    "folder_id": "1-MtUxPGPbOgW86HsAESB7fhMLCnJPrTQ",
-    "title": "Libre Ko Na Payday Syndrome",
-    "publish_at_manila": "2026-12-25 11:00",
-    "publish_unix": 1798167600
-  },
-  {
-    "episode": 160,
-    "folder": "EP160_Turuan-Anak-Tungkol-Sa-Pera",
-    "folder_id": "1IM794fEqxnZd9B85l9OlYB2wCw_0-IML",
-    "title": "Turuan Anak Tungkol Sa Pera",
-    "publish_at_manila": "2026-12-25 14:00",
-    "publish_unix": 1798178400
-  },
-  {
-    "episode": 161,
-    "folder": "EP161_AI-Deepfake-Voice-Scam-PH",
-    "folder_id": "1k03fPF__2YIAhxKil49Qv1UHr2XPlxAm",
-    "title": "AI Deepfake Voice Scam PH",
-    "publish_at_manila": "2026-12-25 18:00",
-    "publish_unix": 1798192800
-  },
-  {
-    "episode": 162,
-    "folder": "EP162_Credit-Card-Cashback-Zero-Interest",
-    "folder_id": "1qBOlefegJknjSEzJkkxUemDsa3RyKNQZ",
-    "title": "Credit Card Cashback Zero Interest",
-    "publish_at_manila": "2026-12-25 21:00",
-    "publish_unix": 1798203600
-  },
-  {
-    "episode": 163,
-    "folder": "EP163_Crypto-Copy-Trading-GC-Scam",
-    "folder_id": "1KqJzRGmldOgcNW80hvGAKA84cZmJ9bXA",
-    "title": "Crypto Copy Trading GC Scam",
-    "publish_at_manila": "2026-12-26 08:00",
-    "publish_unix": 1798243200
-  },
-  {
-    "episode": 164,
-    "folder": "EP164_REITs-Philippines-5K-Landlord",
-    "folder_id": "1pGJnAvOxyo5nK_whhpZw1LypL1fHcG5V",
-    "title": "REITs Philippines 5K Landlord",
-    "publish_at_manila": "2026-12-26 11:00",
-    "publish_unix": 1798254000
-  },
-  {
-    "episode": 165,
-    "folder": "EP165_Cooperative-Time-Deposit-Secret",
-    "folder_id": "1tdkL1JwrcK8E6spOWD5ZXiquF3X-YIqv",
-    "title": "Cooperative Time Deposit Secret",
-    "publish_at_manila": "2026-12-26 14:00",
-    "publish_unix": 1798264800
-  },
-  {
-    "episode": 166,
-    "folder": "EP166_Telegram-Viber-Task-Scam-90K",
-    "folder_id": "1PNvLw1ikUTE4p9quorVy5rFrd2WH7Nlz",
-    "title": "Telegram Viber Task Scam 90K",
-    "publish_at_manila": "2026-12-26 18:00",
-    "publish_unix": 1798279200
-  },
-  {
-    "episode": 167,
-    "folder": "EP167_PagIBIG-Foreclosed-House-40-Off",
-    "folder_id": "19oJLjiiKqqXxNG7NrRZzFKzEoHtqCVG_",
-    "title": "PagIBIG Foreclosed House 40 Off",
-    "publish_at_manila": "2026-12-26 21:00",
-    "publish_unix": 1798290000
-  },
-  {
-    "episode": 168,
-    "folder": "EP168_Auto-Debit-Lazy-Saver-Habit",
-    "folder_id": "1kRTRXtD0I5pr05zYgmvpPDmAOMlCkzuJ",
-    "title": "Auto Debit Lazy Saver Habit",
-    "publish_at_manila": "2026-12-27 08:00",
-    "publish_unix": 1798329600
-  },
-  {
-    "episode": 169,
-    "folder": "EP169_Life-Insurance-Vs-VUL-RealTalk",
-    "folder_id": "11J7PqWV0C6qkzUByN0Vw08iwsubm5y0s",
-    "title": "Life Insurance Vs VUL RealTalk",
-    "publish_at_manila": "2026-12-27 11:00",
-    "publish_unix": 1798340400
-  },
-  {
-    "episode": 170,
-    "folder": "EP170_Index-Fund-3K-Monthly-2M",
-    "folder_id": "1uxCem4EEJetTZhg6ZZYPe-gtxWnpMh4S",
-    "title": "Index Fund 3K Monthly 2M",
-    "publish_at_manila": "2026-12-27 14:00",
-    "publish_unix": 1798351200
-  },
-  {
-    "episode": 171,
-    "folder": "EP171_Dormant-Bank-Account-Fee-Trap",
-    "folder_id": "1l7EK0uaXQCVRTl4TKkskIWfVEGbC0Lup",
-    "title": "Dormant Bank Account Fee Trap",
-    "publish_at_manila": "2026-12-27 18:00",
-    "publish_unix": 1798365600
-  },
-  {
-    "episode": 172,
-    "folder": "EP172_SSS-WISP-Plus-Pension-Hack",
-    "folder_id": "1iLJ9SOQjsqWZfMLTFly3hDftbLydlbK6",
-    "title": "SSS WISP Plus Pension Hack",
-    "publish_at_manila": "2026-12-27 21:00",
-    "publish_unix": 1798376400
-  },
-  {
-    "episode": 173,
-    "folder": "EP173_Buy-And-Sell-2nd-Hand-Motor",
-    "folder_id": "1qDN0yuUaDWxhh1jkBicGe9r7enbFM1oE",
-    "title": "Buy And Sell 2nd Hand Motor",
-    "publish_at_manila": "2026-12-28 08:00",
-    "publish_unix": 1798416000
-  },
-  {
-    "episode": 174,
-    "folder": "EP174_Loan-Contract-AddOn-Vs-EIR",
-    "folder_id": "1aceOqNtGIScUQC3zlh1DRslL90riOAP1",
-    "title": "Loan Contract AddOn Vs EIR",
-    "publish_at_manila": "2026-12-28 11:00",
-    "publish_unix": 1798426800
-  },
-  {
-    "episode": 175,
-    "folder": "EP175_3-Layer-Emergency-Fund-Ladder",
-    "folder_id": "1aMdmtdLiJVNw5IEWTkM3lgacDP-bhL1L",
-    "title": "3 Layer Emergency Fund Ladder",
-    "publish_at_manila": "2026-12-28 14:00",
-    "publish_unix": 1798437600
-  },
-  {
-    "episode": 176,
-    "folder": "EP176_Pasabay-Japan-Korea-45K",
-    "folder_id": "1OG7s04h49znhewGVgtbEUUJI6SRsTOyR",
-    "title": "Pasabay Japan Korea 45K",
-    "publish_at_manila": "2026-12-28 18:00",
-    "publish_unix": 1798452000
-  },
-  {
-    "episode": 177,
-    "folder": "EP177_1-Minute-Explain-Invest-Rule",
-    "folder_id": "1lJNOCsaUqRblVMQTEzO5oqVN4xlK7cDz",
-    "title": "1 Minute Explain Invest Rule",
-    "publish_at_manila": "2026-12-28 21:00",
-    "publish_unix": 1798462800
-  },
-  {
-    "episode": 178,
-    "folder": "EP178_Tax-Free-BMBE-MP2-Coop",
-    "folder_id": "18nYzsPxD0Xq8-PC46h7pJ2VjdqpG_ssR",
-    "title": "Tax Free BMBE MP2 Coop",
-    "publish_at_manila": "2026-12-29 08:00",
-    "publish_unix": 1798502400
-  },
-  {
-    "episode": 179,
-    "folder": "EP179_Debt-Snowball-250K-18-Months",
-    "folder_id": "19oWtDfaWxp1MZVLAdz-lKrgwT9o8syhF",
-    "title": "Debt Snowball 250K 18 Months",
-    "publish_at_manila": "2026-12-29 11:00",
-    "publish_unix": 1798513200
-  },
-  {
-    "episode": 180,
-    "folder": "EP180_Rule-Of-72-Magic-Money",
-    "folder_id": "1ImigSqIMBQe1ou3N7bBmkAYgJyeVSjMH",
-    "title": "Rule Of 72 Magic Money",
-    "publish_at_manila": "2026-12-29 14:00",
-    "publish_unix": 1798524000
-  },
-  {
-    "episode": 181,
-    "folder": "EP181_Job-Hopper-vs-Loyal-Salary",
-    "folder_id": "1zo_KiVOvY30fFPnNKm9jEdQBB223qG4H",
-    "title": "Job Hopper vs Loyal Salary",
-    "publish_at_manila": "2026-12-29 18:00",
-    "publish_unix": 1798538400
-  },
-  {
-    "episode": 182,
-    "folder": "EP182_Faceless-AI-Reels-Channel",
-    "folder_id": "1VkPYLXbF_cE1QpKN6UtlOyvXHUUjTV5L",
-    "title": "Faceless AI Reels Channel",
-    "publish_at_manila": "2026-12-29 21:00",
-    "publish_unix": 1798549200
-  },
-  {
-    "episode": 183,
-    "folder": "EP183_Digital-Products-Canva-AI",
-    "folder_id": "17JypqFsx938QBc0ArihyYEhPoEL0kLSB",
-    "title": "Digital Products Canva AI",
-    "publish_at_manila": "2026-12-30 08:00",
-    "publish_unix": 1798588800
-  },
-  {
-    "episode": 184,
-    "folder": "EP184_5AM-Habit-Self-Made-Bosses",
-    "folder_id": "12g2AsY2gwzf-8O3FecKa1vqthIc1cRCm",
-    "title": "5AM Habit Self Made Bosses",
-    "publish_at_manila": "2026-12-30 11:00",
-    "publish_unix": 1798599600
-  },
-  {
-    "episode": 185,
-    "folder": "EP185_Social-Media-Comparison-Trap",
-    "folder_id": "1jd88zNK7BGbPzFc5c1Vu82El3lOnUiH-",
-    "title": "Social Media Comparison Trap",
-    "publish_at_manila": "2026-12-30 14:00",
-    "publish_unix": 1798610400
-  },
-  {
-    "episode": 186,
-    "folder": "EP186_Student-Side-Hustles-15K",
-    "folder_id": "1WxzUPPYiaZtn3R-XPk_8eZXaX9NTrl_6",
-    "title": "Student Side Hustles 15K",
-    "publish_at_manila": "2026-12-30 18:00",
-    "publish_unix": 1798624800
-  },
-  {
-    "episode": 187,
-    "folder": "EP187_Parehong-Pilipinas-Ibang-Resulta",
-    "folder_id": "1OiyKbURwdHFgiwKVm8usvL8xKuz_X5uS",
-    "title": "Parehong Pilipinas Ibang Resulta",
-    "publish_at_manila": "2026-12-30 21:00",
-    "publish_unix": 1798635600
-  },
-  {
-    "episode": 188,
-    "folder": "EP188_3-Habits-Poor-Before-30",
-    "folder_id": "11FmOdBvcE5JG2pPmChYiabGliDcBZtxN",
-    "title": "3 Habits Poor Before 30",
-    "publish_at_manila": "2026-12-31 08:00",
-    "publish_unix": 1798675200
-  },
-  {
-    "episode": 189,
-    "folder": "EP189_Salary-Negotiation-3-Step-Script",
-    "folder_id": "1VRu7P7ATezMCUQjK6vctu1GRaGlL7VAu",
-    "title": "Salary Negotiation 3 Step Script",
-    "publish_at_manila": "2026-12-31 11:00",
-    "publish_unix": 1798686000
-  },
-  {
-    "episode": 190,
-    "folder": "EP190_Bukas-Na-Lang-Procrastination-Cost",
-    "folder_id": "149HiDoU1yzLt8lH9RY-T698IN4mQZb7L",
-    "title": "Bukas Na Lang Procrastination Cost",
-    "publish_at_manila": "2026-12-31 14:00",
-    "publish_unix": 1798696800
-  },
-  {
-    "episode": 191,
-    "folder": "EP191_Micro-Content-Agency-Local-Biz",
-    "folder_id": "1H9rUmRDLSDNPT7QVb59ph-KgYF5K2aZz",
-    "title": "Micro Content Agency Local Biz",
-    "publish_at_manila": "2026-12-31 18:00",
-    "publish_unix": 1798711200
-  },
-  {
-    "episode": 192,
-    "folder": "EP192_Pay-For-Speed-Mentors-ROI",
-    "folder_id": "1zXNSqpEL0FuGwEa_WhFkv5xDeaPsHgTn",
-    "title": "Pay For Speed Mentors ROI",
-    "publish_at_manila": "2026-12-31 21:00",
-    "publish_unix": 1798722000
-  },
-  {
-    "episode": 193,
-    "folder": "EP193_Alak-Yosi-73K-Year-Math",
-    "folder_id": "1Pmh3ZwrNj7PwzSplwOO-VeIsuo2lYDqO",
-    "title": "Alak Yosi 73K Year Math",
-    "publish_at_manila": "2027-01-01 08:00",
-    "publish_unix": 1798761600
-  },
-  {
-    "episode": 194,
-    "folder": "EP194_Unang-100K-Pinakamahirap",
-    "folder_id": "1NyTB4rMTzZiRtTMrV2Wdcy5DYLmc5f83",
-    "title": "Unang 100K Pinakamahirap",
-    "publish_at_manila": "2027-01-01 11:00",
-    "publish_unix": 1798772400
-  },
-  {
-    "episode": 195,
-    "folder": "EP195_Sales-Skill-Most-Valuable",
-    "folder_id": "19exgEaIlg1HKhELwbPbiFH_82aoLOKhd",
-    "title": "Sales Skill Most Valuable",
-    "publish_at_manila": "2027-01-01 14:00",
-    "publish_unix": 1798783200
-  },
-  {
-    "episode": 196,
-    "folder": "EP196_One-Page-Money-Map-System",
-    "folder_id": "1eMEnFXRQx5--GLjWm1bQo4XOs8-75TM2",
-    "title": "One Page Money Map System",
-    "publish_at_manila": "2027-01-01 18:00",
-    "publish_unix": 1798797600
-  },
-  {
-    "episode": 197,
-    "folder": "EP197_Zero-Debt-Sleep-At-Night-Wealth",
-    "folder_id": "1HLhMPUNj8-mJAUe6SNJjzSi0u9ggd1rZ",
-    "title": "Zero Debt Sleep At Night Wealth",
-    "publish_at_manila": "2027-01-01 21:00",
-    "publish_unix": 1798808400
-  },
-  {
-    "episode": 198,
-    "folder": "EP198_5-Signs-Future-Millionaire",
-    "folder_id": "1ZGkm0w29Nt_7EkwZEKplOgOQGuboMq5C",
-    "title": "5 Signs Future Millionaire",
-    "publish_at_manila": "2027-01-02 08:00",
-    "publish_unix": 1798848000
-  },
-  {
-    "episode": 199,
-    "folder": "EP199_Start-From-Zero-2026-Blueprint",
-    "folder_id": "1AWbpxmJy61hqTZTxwWuuMzAsJ8nyGQgn",
-    "title": "Start From Zero 2026 Blueprint",
-    "publish_at_manila": "2027-01-02 11:00",
-    "publish_unix": 1798858800
-  },
-  {
-    "episode": 200,
-    "folder": "EP200_EP200-5-Batas-ng-Barya-Stories",
-    "folder_id": "17O7PbdHDv6I7TxOE9A3sMQvIeQgMH4So",
-    "title": "EP200 5 Batas ng Barya Stories",
-    "publish_at_manila": "2027-01-02 14:00",
-    "publish_unix": 1798869600
-  }
+ {
+  "episode": 13,
+  "folder": "EP13_Bakanteng-Pader-Sa-Highway",
+  "folder_id": "1o74ksPkNr2tnNI9WWU_bkl5F0Ux7arf6",
+  "title": "Bakanteng Pader Sa Highway",
+  "publish_at_manila": "2026-11-26 08:00",
+  "publish_unix": 1795651200
+ },
+ {
+  "episode": 14,
+  "folder": "EP14_Pasalo-Condo-Sa-Facebook",
+  "folder_id": "1qxXyZVdJ4L3K5hcFvJSgJZnv7mekC7Ex",
+  "title": "Pasalo Condo Sa Facebook",
+  "publish_at_manila": "2026-11-26 11:00",
+  "publish_unix": 1795662000
+ },
+ {
+  "episode": 15,
+  "folder": "EP15_Sekreto-Ng-Ukay-Ukay-Bale",
+  "folder_id": "1S3htC8qlgIjTLzqkZMUUE7dym6kaM08e",
+  "title": "Sekreto Ng Ukay Ukay Bale",
+  "publish_at_manila": "2026-11-26 14:00",
+  "publish_unix": 1795672800
+ },
+ {
+  "episode": 16,
+  "folder": "EP16_3AM-Call-Center-Table",
+  "folder_id": "1X1I2L63dbwHUgVr-gDpchu23yjujV__s",
+  "title": "3AM Call Center Table",
+  "publish_at_manila": "2026-11-26 18:00",
+  "publish_unix": 1795687200
+ },
+ {
+  "episode": 17,
+  "folder": "EP17_Nakakatakot-Na-Kwenta-Ng-5-6",
+  "folder_id": "1CF_q_vyuNG4691_CaC2Met4nhMjzXbmc",
+  "title": "Nakakatakot Na Kwenta Ng 5 6",
+  "publish_at_manila": "2026-11-26 21:00",
+  "publish_unix": 1795698000
+ },
+ {
+  "episode": 18,
+  "folder": "EP18_Pinautang-Ang-Best-Friend",
+  "folder_id": "1LxSS_qkfOtVidiX4fE8r2Xw2MadoaC2E",
+  "title": "Pinautang Ang Best Friend",
+  "publish_at_manila": "2026-11-27 08:00",
+  "publish_unix": 1795737600
+ },
+ {
+  "episode": 19,
+  "folder": "EP19_Away-Ng-5-Magkakapatid-Sa-Lupa",
+  "folder_id": "10omctoqNTJLUrjq0jUy1Tgo4uoqOAeF7",
+  "title": "Away Ng 5 Magkakapatid Sa Lupa",
+  "publish_at_manila": "2026-11-27 11:00",
+  "publish_unix": 1795748400
+ },
+ {
+  "episode": 20,
+  "folder": "EP20_Milyonaryong-Naka-Tsinelas",
+  "folder_id": "18jyyy8L3nxgKWFVFqD1LS0O62c1CvcaD",
+  "title": "Milyonaryong Naka Tsinelas",
+  "publish_at_manila": "2026-11-27 14:00",
+  "publish_unix": 1795759200
+ },
+ {
+  "episode": 21,
+  "folder": "EP21_100-Peso-Ulam-Pack-Sa-GC",
+  "folder_id": "1Xb_tySiJw7aWkJ2ygBIfEResgz_C7Mtg",
+  "title": "100 Peso Ulam Pack Sa GC",
+  "publish_at_manila": "2026-11-27 18:00",
+  "publish_unix": 1795773600
+ },
+ {
+  "episode": 22,
+  "folder": "EP22_Alam-Ko-Na-Yan-Ubos-100K",
+  "folder_id": "1CyYf0jSl6FEZb5o_38B-dswSP20GKYyF",
+  "title": "Alam Ko Na Yan Ubos 100K",
+  "publish_at_manila": "2026-11-27 21:00",
+  "publish_unix": 1795784400
+ },
+ {
+  "episode": 23,
+  "folder": "EP23_Laundry-Shop-Kahit-Bumabagyo",
+  "folder_id": "1agUkle7zgjvKpysmPL-l1PtM4mQVjfSG",
+  "title": "Laundry Shop Kahit Bumabagyo",
+  "publish_at_manila": "2026-11-28 08:00",
+  "publish_unix": 1795824000
+ },
+ {
+  "episode": 24,
+  "folder": "EP24_Bitag-Ng-Paluwagan-Sa-Opisina",
+  "folder_id": "1THqGP7txiYci0zfPbxNsG80FJ_E0m8bS",
+  "title": "Bitag Ng Paluwagan Sa Opisina",
+  "publish_at_manila": "2026-11-28 11:00",
+  "publish_unix": 1795834800
+ },
+ {
+  "episode": 25,
+  "folder": "EP25_Nanalo-Ng-50M-Sa-Lotto-Tinago",
+  "folder_id": "1GRylPsTn5GJFrsFy-EDyj--U_ai4Vo4L",
+  "title": "Nanalo Ng 50M Sa Lotto Tinago",
+  "publish_at_manila": "2026-11-28 14:00",
+  "publish_unix": 1795845600
+ },
+ {
+  "episode": 26,
+  "folder": "EP26_Barya-Lang-Po-Sa-Umaga-Lesson",
+  "folder_id": "1I-TT6TVtQGUWND1zP7VG8wvot8nd7d_R",
+  "title": "Barya Lang Po Sa Umaga Lesson",
+  "publish_at_manila": "2026-11-28 18:00",
+  "publish_unix": 1795860000
+ },
+ {
+  "episode": 27,
+  "folder": "EP27_Panaderya-Na-Laging-Sold-Out",
+  "folder_id": "1Vo2iCvp8ala7WLeQJJH9weDzlI45rMen",
+  "title": "Panaderya Na Laging Sold Out",
+  "publish_at_manila": "2026-11-28 21:00",
+  "publish_unix": 1795870800
+ },
+ {
+  "episode": 28,
+  "folder": "EP28_Tindero-Ng-Tubig-Sa-EDSA",
+  "folder_id": "1hpCKjpWDRoyP-qXdGBWao20rLitZyHxX",
+  "title": "Tindero Ng Tubig Sa EDSA",
+  "publish_at_manila": "2026-11-29 08:00",
+  "publish_unix": 1795910400
+ },
+ {
+  "episode": 29,
+  "folder": "EP29_SSS-Pension-Sa-Edad-Na-60",
+  "folder_id": "1QUHiBT5H1Wk-C_9oOfZBgM9LyZPEjQHo",
+  "title": "SSS Pension Sa Edad Na 60",
+  "publish_at_manila": "2026-11-29 11:00",
+  "publish_unix": 1795921200
+ },
+ {
+  "episode": 30,
+  "folder": "EP30_Kung-Mawala-Trabaho-Mo-Bukas",
+  "folder_id": "1EnD23y3G74uLrIl49CgQz5eab5MxkEOK",
+  "title": "Kung Mawala Trabaho Mo Bukas",
+  "publish_at_manila": "2026-11-29 14:00",
+  "publish_unix": 1795932000
+ },
+ {
+  "episode": 31,
+  "folder": "EP31_185-Peso-Iced-Coffee-Math",
+  "folder_id": "1p2ju3wR8hrCoG0vrrE7cAXbv1txzZ7cm",
+  "title": "185 Peso Iced Coffee Math",
+  "publish_at_manila": "2026-11-29 18:00",
+  "publish_unix": 1795946400
+ },
+ {
+  "episode": 32,
+  "folder": "EP32_Bitag-Ng-Online-Loan-App",
+  "folder_id": "1ByQykin-thN8UK4Jej2oT05DWgk5G31L",
+  "title": "Bitag Ng Online Loan App",
+  "publish_at_manila": "2026-11-29 21:00",
+  "publish_unix": 1795957200
+ },
+ {
+  "episode": 33,
+  "folder": "EP33_Zero-Downpayment-Kotse-Trap",
+  "folder_id": "1mcU6t93igXjp3wrVU2iewMWFNEo6Yxja",
+  "title": "Zero Downpayment Kotse Trap",
+  "publish_at_manila": "2026-11-30 08:00",
+  "publish_unix": 1795996800
+ },
+ {
+  "episode": 34,
+  "folder": "EP34_Karinderya-3-Bahay-Secret",
+  "folder_id": "1EMljfNeLVQK7FI8tII6C6mJE8rU2rRtK",
+  "title": "Karinderya 3 Bahay Secret",
+  "publish_at_manila": "2026-11-30 11:00",
+  "publish_unix": 1796007600
+ },
+ {
+  "episode": 35,
+  "folder": "EP35_Isang-Gabi-Sa-Hospital-Ubos-Ipon",
+  "folder_id": "1lUrLw1lgw6Z8gyMYeR0uRaNRhbVetJI7",
+  "title": "Isang Gabi Sa Hospital Ubos Ipon",
+  "publish_at_manila": "2026-11-30 14:00",
+  "publish_unix": 1796018400
+ },
+ {
+  "episode": 36,
+  "folder": "EP36_Delivery-Rider-Nakabili-Ng-Lote",
+  "folder_id": "1f_tiWgbCfK_ghdNWYt5T3ZFEcHOBOmnR",
+  "title": "Delivery Rider Nakabili Ng Lote",
+  "publish_at_manila": "2026-11-30 18:00",
+  "publish_unix": 1796032800
+ },
+ {
+  "episode": 37,
+  "folder": "EP37_Buy-Now-Pay-Later-Trap",
+  "folder_id": "1LfVoK6nOHQmYDSFwR7k5bWK9AoA7N7kE",
+  "title": "Buy Now Pay Later Trap",
+  "publish_at_manila": "2026-11-30 21:00",
+  "publish_unix": 1796043600
+ },
+ {
+  "episode": 38,
+  "folder": "EP38_Water-Station-Sa-Kanto-Math",
+  "folder_id": "1O1UG4byeqA-D2a2hDpi-3ddsUb1peg9h",
+  "title": "Water Station Sa Kanto Math",
+  "publish_at_manila": "2026-12-01 08:00",
+  "publish_unix": 1796083200
+ },
+ {
+  "episode": 39,
+  "folder": "EP39_500K-Utang-Sa-Isang-Araw-Na-Kasal",
+  "folder_id": "1_jwMohsbQYtrEJw55IRarfGwpPnyNMtv",
+  "title": "500K Utang Sa Isang Araw Na Kasal",
+  "publish_at_manila": "2026-12-01 11:00",
+  "publish_unix": 1796094000
+ },
+ {
+  "episode": 40,
+  "folder": "EP40_Solar-Panel-Sa-Bubong-Sulit-Ba",
+  "folder_id": "18RXIHMqny4Wp-coP_QCl_bCYVx5t-rRH",
+  "title": "Solar Panel Sa Bubong Sulit Ba",
+  "publish_at_manila": "2026-12-01 14:00",
+  "publish_unix": 1796104800
+ },
+ {
+  "episode": 41,
+  "folder": "EP41_Yelo-Delivery-vs-Milk-Tea",
+  "folder_id": "1u7N5F3aMit0LyJ4c-cOXEi1xGhWkfshj",
+  "title": "Yelo Delivery vs Milk Tea",
+  "publish_at_manila": "2026-12-01 18:00",
+  "publish_unix": 1796119200
+ },
+ {
+  "episode": 42,
+  "folder": "EP42_Sekreto-Ng-Sanglaan-At-Ginto",
+  "folder_id": "1sBXIP7cypByYgCbtX57nsiANk149aRF-",
+  "title": "Sekreto Ng Sanglaan At Ginto",
+  "publish_at_manila": "2026-12-01 21:00",
+  "publish_unix": 1796130000
+ },
+ {
+  "episode": 43,
+  "folder": "EP43_13th-Month-Bonus-Ubos-2-Weeks",
+  "folder_id": "13LNvkpIta1qXrcaNqT8tkUWIq8sTtus3",
+  "title": "13th Month Bonus Ubos 2 Weeks",
+  "publish_at_manila": "2026-12-02 08:00",
+  "publish_unix": 1796169600
+ },
+ {
+  "episode": 44,
+  "folder": "EP44_Tindera-Sa-Palengke-Cash-PickUp",
+  "folder_id": "1yQsUVAIFG14sTYc7hv_PBPOxjpZBD_B3",
+  "title": "Tindera Sa Palengke Cash PickUp",
+  "publish_at_manila": "2026-12-02 11:00",
+  "publish_unix": 1796180400
+ },
+ {
+  "episode": 45,
+  "folder": "EP45_Double-Your-Money-GC-Scam",
+  "folder_id": "1ngt9fgWh2iQvgMAF9pAIB5rQFIXc_MzI",
+  "title": "Double Your Money GC Scam",
+  "publish_at_manila": "2026-12-02 14:00",
+  "publish_unix": 1796191200
+ },
+ {
+  "episode": 46,
+  "folder": "EP46_Sari-Sari-Chiller-Margin-Hack",
+  "folder_id": "123QPvxnuFni6vKxyusvXUIc6u4kBaV0O",
+  "title": "Sari Sari Chiller Margin Hack",
+  "publish_at_manila": "2026-12-02 18:00",
+  "publish_unix": 1796205600
+ },
+ {
+  "episode": 47,
+  "folder": "EP47_Nabulok-Na-Pera-Sa-Alkansya",
+  "folder_id": "1dO1zhmqUKtsf_Eh8lGVpPf2j7mzLmUBp",
+  "title": "Nabulok Na Pera Sa Alkansya",
+  "publish_at_manila": "2026-12-02 21:00",
+  "publish_unix": 1796216400
+ },
+ {
+  "episode": 48,
+  "folder": "EP48_Pag-IBIG-MP2-5K-Formula",
+  "folder_id": "1C6_mGKsBgSMY-pfgZZHar-_jx3U8n67h",
+  "title": "Pag IBIG MP2 5K Formula",
+  "publish_at_manila": "2026-12-03 08:00",
+  "publish_unix": 1796256000
+ },
+ {
+  "episode": 49,
+  "folder": "EP49_Bakit-Di-Yumayaman-Top-Employee",
+  "folder_id": "1XDORWFjrnZIG-zsiBP-aoUbL82XI6SiA",
+  "title": "Bakit Di Yumayaman Top Employee",
+  "publish_at_manila": "2026-12-03 11:00",
+  "publish_unix": 1796266800
+ },
+ {
+  "episode": 50,
+  "folder": "EP50_Hidden-Cost-Ng-EDSA-Traffic",
+  "folder_id": "1uxjbA8H7xFqUr6oY4itrwj5iw3DMRo0W",
+  "title": "Hidden Cost Ng EDSA Traffic",
+  "publish_at_manila": "2026-12-03 14:00",
+  "publish_unix": 1796277600
+ },
+ {
+  "episode": 51,
+  "folder": "EP51_TikTok-Live-Bundle-Psychology",
+  "folder_id": "1BqGKi0iiz5CgevhAVmxrleXC01hSEqkP",
+  "title": "TikTok Live Bundle Psychology",
+  "publish_at_manila": "2026-12-03 18:00",
+  "publish_unix": 1796292000
+ },
+ {
+  "episode": 52,
+  "folder": "EP52_Binenta-Ang-Lupa-Para-Sa-SUV",
+  "folder_id": "1ftqc5ftk2GS6kPLybRoMNhwFTGsV6EPt",
+  "title": "Binenta Ang Lupa Para Sa SUV",
+  "publish_at_manila": "2026-12-03 21:00",
+  "publish_unix": 1796302800
+ },
+ {
+  "episode": 53,
+  "folder": "EP53_Vulcanizing-Sa-Highway-Kita",
+  "folder_id": "17Ft7gdtEs4HQBEAmGQC91zYTii4zvhFD",
+  "title": "Vulcanizing Sa Highway Kita",
+  "publish_at_manila": "2026-12-04 08:00",
+  "publish_unix": 1796342400
+ },
+ {
+  "episode": 54,
+  "folder": "EP54_Panganay-Breadwinner-Boundary",
+  "folder_id": "1Yw_5VRUM5tler3-jUVK3LtY8YzcejvAS",
+  "title": "Panganay Breadwinner Boundary",
+  "publish_at_manila": "2026-12-04 11:00",
+  "publish_unix": 1796353200
+ },
+ {
+  "episode": 55,
+  "folder": "EP55_Bigasan-Business-Margin-Secret",
+  "folder_id": "13TGTCsSuHp8w1gYVcyXqtvx_2rUVx_In",
+  "title": "Bigasan Business Margin Secret",
+  "publish_at_manila": "2026-12-04 14:00",
+  "publish_unix": 1796364000
+ },
+ {
+  "episode": 56,
+  "folder": "EP56_2nd-Hand-Cash-vs-Brand-New-Loan",
+  "folder_id": "1jdC18PSqd3TpVdWcpuNcwKshCGBbD_12",
+  "title": "2nd Hand Cash vs Brand New Loan",
+  "publish_at_manila": "2026-12-04 18:00",
+  "publish_unix": 1796378400
+ },
+ {
+  "episode": 57,
+  "folder": "EP57_Fishball-Cart-Sa-School-Math",
+  "folder_id": "1XNLwiPRd_wJRL8xU2mwyF6ubrHLOxcpn",
+  "title": "Fishball Cart Sa School Math",
+  "publish_at_manila": "2026-12-04 21:00",
+  "publish_unix": 1796389200
+ },
+ {
+  "episode": 58,
+  "folder": "EP58_Petsa-De-Peligro-Lifestyle-Creep",
+  "folder_id": "1TidXOxbeU4q66RDWcVw4inl6ZjrjEgXO",
+  "title": "Petsa De Peligro Lifestyle Creep",
+  "publish_at_manila": "2026-12-05 08:00",
+  "publish_unix": 1796428800
+ },
+ {
+  "episode": 59,
+  "folder": "EP59_Boarding-House-Sa-University",
+  "folder_id": "1AxuQQttYnytZmDfA2YIdkncqabZYEM9A",
+  "title": "Boarding House Sa University",
+  "publish_at_manila": "2026-12-05 11:00",
+  "publish_unix": 1796439600
+ },
+ {
+  "episode": 60,
+  "folder": "EP60_1-Rule-Ng-Pinoy-Millionaires",
+  "folder_id": "11K7B0LkSs8ibVFfipFsgGM0F0Jl_BNGw",
+  "title": "1 Rule Ng Pinoy Millionaires",
+  "publish_at_manila": "2026-12-05 14:00",
+  "publish_unix": 1796450400
+ },
+ {
+  "episode": 61,
+  "folder": "EP61_Aircon-Inverter-Meralco-Trap",
+  "folder_id": "1I1ucJrPDUD-T050l0MJOdornVCPzOoF6",
+  "title": "Aircon Inverter Meralco Trap",
+  "publish_at_manila": "2026-12-05 18:00",
+  "publish_unix": 1796464800
+ },
+ {
+  "episode": 62,
+  "folder": "EP62_Add-To-Cart-COD-Budol-Math",
+  "folder_id": "1sdGqbOSFFd0kBM1y8CGmomIoSkitTuaq",
+  "title": "Add To Cart COD Budol Math",
+  "publish_at_manila": "2026-12-05 21:00",
+  "publish_unix": 1796475600
+ },
+ {
+  "episode": 63,
+  "folder": "EP63_Bakit-Lugi-Milk-Tea-Shop",
+  "folder_id": "1lcc4L9oZbLcPaBnTX_9UM2cGqSvIGNdv",
+  "title": "Bakit Lugi Milk Tea Shop",
+  "publish_at_manila": "2026-12-06 08:00",
+  "publish_unix": 1796515200
+ },
+ {
+  "episode": 64,
+  "folder": "EP64_OFW-Balikbayan-Box-Trap",
+  "folder_id": "1V1npZ3AZv5Fn6sqSQgv9mtnxAcKYA8NE",
+  "title": "OFW Balikbayan Box Trap",
+  "publish_at_manila": "2026-12-06 11:00",
+  "publish_unix": 1796526000
+ },
+ {
+  "episode": 65,
+  "folder": "EP65_Carwash-Sa-Kanto-Math",
+  "folder_id": "1IcmV08HiwX153sEWJMcfyHn1o5J8wQfj",
+  "title": "Carwash Sa Kanto Math",
+  "publish_at_manila": "2026-12-06 14:00",
+  "publish_unix": 1796536800
+ },
+ {
+  "episode": 66,
+  "folder": "EP66_EWallet-Silent-Subscriptions-Leak",
+  "folder_id": "1LOkEJk0juhOPSZNAm2on7nGaii4W09Sw",
+  "title": "EWallet Silent Subscriptions Leak",
+  "publish_at_manila": "2026-12-06 18:00",
+  "publish_unix": 1796551200
+ },
+ {
+  "episode": 67,
+  "folder": "EP67_Pautang-Sa-Kamag-Anak-Rule",
+  "folder_id": "1OhRM28Fsz2jqL9nDYeBwh9rIrivMwvFM",
+  "title": "Pautang Sa Kamag Anak Rule",
+  "publish_at_manila": "2026-12-06 21:00",
+  "publish_unix": 1796562000
+ },
+ {
+  "episode": 68,
+  "folder": "EP68_Piso-Printing-Campus-Math",
+  "folder_id": "1eA3ZTXzes3xXfRNs3rFMKJHmGw6zMvFY",
+  "title": "Piso Printing Campus Math",
+  "publish_at_manila": "2026-12-07 08:00",
+  "publish_unix": 1796601600
+ },
+ {
+  "episode": 69,
+  "folder": "EP69_Bakit-Delikado-All-In-Resign-Negosyo",
+  "folder_id": "1Ezae5DFWYYscHuFTegSxJIFmqHmmrKM6",
+  "title": "Bakit Delikado All In Resign Negosyo",
+  "publish_at_manila": "2026-12-07 11:00",
+  "publish_unix": 1796612400
+ },
+ {
+  "episode": 70,
+  "folder": "EP70_Digital-Bank-6-vs-Trad-Bank",
+  "folder_id": "1fgAtsd-lptM4naFPtbsENCMAk-ZS09cv",
+  "title": "Digital Bank 6 vs Trad Bank",
+  "publish_at_manila": "2026-12-07 14:00",
+  "publish_unix": 1796623200
+ },
+ {
+  "episode": 71,
+  "folder": "EP71_VA-Work-From-Home-vs-Commute",
+  "folder_id": "1_34aNtKshIjw_4vKJp_I6JY-qhNTtk2o",
+  "title": "VA Work From Home vs Commute",
+  "publish_at_manila": "2026-12-07 18:00",
+  "publish_unix": 1796637600
+ },
+ {
+  "episode": 72,
+  "folder": "EP72_Sizzling-Sisig-Night-Stall-Math",
+  "folder_id": "1wC0qtwqCVmyGO6MY2W0l_U9U-H_HlCdZ",
+  "title": "Sizzling Sisig Night Stall Math",
+  "publish_at_manila": "2026-12-07 21:00",
+  "publish_unix": 1796648400
+ },
+ {
+  "episode": 73,
+  "folder": "EP73_Rent-vs-Buy-House-30Yr-Loan",
+  "folder_id": "1bdN2WDtgILSp_JeMJu1Oc9PY1dHKmW9d",
+  "title": "Rent vs Buy House 30Yr Loan",
+  "publish_at_manila": "2026-12-08 08:00",
+  "publish_unix": 1796688000
+ },
+ {
+  "episode": 74,
+  "folder": "EP74_Fresh-Grad-Deserve-Ko-To-Trap",
+  "folder_id": "1F_-mKgrAl6Lf8nNtpIebx_WTa_3E2w8Z",
+  "title": "Fresh Grad Deserve Ko To Trap",
+  "publish_at_manila": "2026-12-08 11:00",
+  "publish_unix": 1796698800
+ },
+ {
+  "episode": 75,
+  "folder": "EP75_Loading-Bills-Payment-Magnet",
+  "folder_id": "1onVg1uCR9WDJv8totnQAjlr2qCsSLerw",
+  "title": "Loading Bills Payment Magnet",
+  "publish_at_manila": "2026-12-08 14:00",
+  "publish_unix": 1796709600
+ },
+ {
+  "episode": 76,
+  "folder": "EP76_Online-Gambling-Scatter-Trap",
+  "folder_id": "13RLwsGjhO88tefXXQoT1jnWhbE8AZwDh",
+  "title": "Online Gambling Scatter Trap",
+  "publish_at_manila": "2026-12-08 18:00",
+  "publish_unix": 1796724000
+ },
+ {
+  "episode": 77,
+  "folder": "EP77_Junkshop-Millionaire-Barangay",
+  "folder_id": "1LzxX1v6gHpvbd0ApDQvWawG2PVOK5AW-",
+  "title": "Junkshop Millionaire Barangay",
+  "publish_at_manila": "2026-12-08 21:00",
+  "publish_unix": 1796734800
+ },
+ {
+  "episode": 78,
+  "folder": "EP78_Seafarer-150K-One-Day-Millionaire",
+  "folder_id": "17x-ggXvPS_TpxAZrlhJZ-Byh3gSdtqO8",
+  "title": "Seafarer 150K One Day Millionaire",
+  "publish_at_manila": "2026-12-09 08:00",
+  "publish_unix": 1796774400
+ },
+ {
+  "episode": 79,
+  "folder": "EP79_4-Envelope-Budgeting-Nanay",
+  "folder_id": "1hH7mjLFDX87DEkdeWm9jvY05qbz1e1pM",
+  "title": "4 Envelope Budgeting Nanay",
+  "publish_at_manila": "2026-12-09 11:00",
+  "publish_unix": 1796785200
+ },
+ {
+  "episode": 80,
+  "folder": "EP80_Recession-Proof-Negosyo-Secret",
+  "folder_id": "1qqHNX9VCXJ2gyANDc42D8Z078etTv_bD",
+  "title": "Recession Proof Negosyo Secret",
+  "publish_at_manila": "2026-12-09 14:00",
+  "publish_unix": 1796796000
+ },
+ {
+  "episode": 81,
+  "folder": "EP81_Siomai-Cart-5-Branches-Story",
+  "folder_id": "1n0q8-H8swDix7hs2d0YHlANuphW0Ntwu",
+  "title": "Siomai Cart 5 Branches Story",
+  "publish_at_manila": "2026-12-09 18:00",
+  "publish_unix": 1796810400
+ },
+ {
+  "episode": 82,
+  "folder": "EP82_Fiesta-Birthday-Utang-Syndrome",
+  "folder_id": "14LMiCBKU4qxGbk1kAh6-UCZM21Y2VSB7",
+  "title": "Fiesta Birthday Utang Syndrome",
+  "publish_at_manila": "2026-12-09 21:00",
+  "publish_unix": 1796821200
+ },
+ {
+  "episode": 83,
+  "folder": "EP83_Aircon-Cleaning-Tech-Income",
+  "folder_id": "1159noLFWyGfT7KwbURHb_gaLxP_A2jaj",
+  "title": "Aircon Cleaning Tech Income",
+  "publish_at_manila": "2026-12-10 08:00",
+  "publish_unix": 1796860800
+ },
+ {
+  "episode": 84,
+  "folder": "EP84_HMO-Health-Card-Sayang-Daw",
+  "folder_id": "1Hd7cqFPoWjx-xVxDwDuPqrvYaA6P2N8J",
+  "title": "HMO Health Card Sayang Daw",
+  "publish_at_manila": "2026-12-10 11:00",
+  "publish_unix": 1796871600
+ },
+ {
+  "episode": 85,
+  "folder": "EP85_Bestfriend-Business-Partner-Trap",
+  "folder_id": "1KjqzG3CdCi9lXhMY8qn1dh_LJUHuJM0I",
+  "title": "Bestfriend Business Partner Trap",
+  "publish_at_manila": "2026-12-10 14:00",
+  "publish_unix": 1796882400
+ },
+ {
+  "episode": 86,
+  "folder": "EP86_Babuyan-Sa-Probinsya-Real-Math",
+  "folder_id": "1kEPyx7UAI9jcJqtl0wbM6gVZZFPAr9Fb",
+  "title": "Babuyan Sa Probinsya Real Math",
+  "publish_at_manila": "2026-12-10 18:00",
+  "publish_unix": 1796896800
+ },
+ {
+  "episode": 87,
+  "folder": "EP87_Mag-Asawa-Secret-Utang-Money-Date",
+  "folder_id": "12aroL1Hyl7g68bbFR12v5vX34KQTwNIn",
+  "title": "Mag Asawa Secret Utang Money Date",
+  "publish_at_manila": "2026-12-10 21:00",
+  "publish_unix": 1796907600
+ },
+ {
+  "episode": 88,
+  "folder": "EP88_Gulay-Delivery-Subdivision-GC",
+  "folder_id": "1vEyICun342eMih1Q5O6Dzv_8JBWdpHfO",
+  "title": "Gulay Delivery Subdivision GC",
+  "publish_at_manila": "2026-12-11 08:00",
+  "publish_unix": 1796947200
+ },
+ {
+  "episode": 89,
+  "folder": "EP89_Isang-Income-Stream-Delikado",
+  "folder_id": "10dThUVx43HFNfI9V6WzJD0jbCHLzKfAK",
+  "title": "Isang Income Stream Delikado",
+  "publish_at_manila": "2026-12-11 11:00",
+  "publish_unix": 1796958000
+ },
+ {
+  "episode": 90,
+  "folder": "EP90_50-Peso-Day-Challenge-MP2",
+  "folder_id": "15jLQ9gR6acnHLGd_BRiwkOBNIrM3iYhm",
+  "title": "50 Peso Day Challenge MP2",
+  "publish_at_manila": "2026-12-11 14:00",
+  "publish_unix": 1796968800
+ },
+ {
+  "episode": 91,
+  "folder": "EP91_AI-Skills-Zero-Capital-60K",
+  "folder_id": "1lqX8umGuCSdNpC2Dhdi0zzqrdD0EI9GZ",
+  "title": "AI Skills Zero Capital 60K",
+  "publish_at_manila": "2026-12-11 18:00",
+  "publish_unix": 1796983200
+ },
+ {
+  "episode": 92,
+  "folder": "EP92_Bakit-Mas-Mahal-Ang-Mura",
+  "folder_id": "1ffHE7aVreNqsOWqoC3ExypwOFXYEQap_",
+  "title": "Bakit Mas Mahal Ang Mura",
+  "publish_at_manila": "2026-12-11 21:00",
+  "publish_unix": 1796994000
+ },
+ {
+  "episode": 93,
+  "folder": "EP93_Grab-Car-Boundary-Real-Math",
+  "folder_id": "1C7MZKxYxD9-7xI4YLP71ES1xvT50us-g",
+  "title": "Grab Car Boundary Real Math",
+  "publish_at_manila": "2026-12-12 08:00",
+  "publish_unix": 1797033600
+ },
+ {
+  "episode": 94,
+  "folder": "EP94_Ukay-Live-Selling-Sa-Sala",
+  "folder_id": "1v4D4s8gvbwuiFyaOTCW2UTi8iwwJMY5T",
+  "title": "Ukay Live Selling Sa Sala",
+  "publish_at_manila": "2026-12-12 11:00",
+  "publish_unix": 1797044400
+ },
+ {
+  "episode": 95,
+  "folder": "EP95_Anak-Hindi-Retirement-Fund",
+  "folder_id": "16mxTHEZTnCD8fETzGWe9BfUaZ79fn662",
+  "title": "Anak Hindi Retirement Fund",
+  "publish_at_manila": "2026-12-12 14:00",
+  "publish_unix": 1797055200
+ },
+ {
+  "episode": 96,
+  "folder": "EP96_Motor-Wash-Probinsya-Math",
+  "folder_id": "1ZnwV_j7_uArh6ocX_7A_hBWb5RlGVgT9",
+  "title": "Motor Wash Probinsya Math",
+  "publish_at_manila": "2026-12-12 18:00",
+  "publish_unix": 1797069600
+ },
+ {
+  "episode": 97,
+  "folder": "EP97_Tahimik-vs-Mayabang-Yumaman",
+  "folder_id": "1GCUNfIMl7hroo9vO4GZuGMc3qwayeQS1",
+  "title": "Tahimik vs Mayabang Yumaman",
+  "publish_at_manila": "2026-12-12 21:00",
+  "publish_unix": 1797080400
+ },
+ {
+  "episode": 98,
+  "folder": "EP98_10-Second-Rule-Bago-Checkout",
+  "folder_id": "1Nzw7j81rAb8KN0sOtg_oMDAka6MEnTea",
+  "title": "10 Second Rule Bago Checkout",
+  "publish_at_manila": "2026-12-13 08:00",
+  "publish_unix": 1797120000
+ },
+ {
+  "episode": 99,
+  "folder": "EP99_Paano-Mag-Ipon-Minimum-Wage",
+  "folder_id": "1rpABhR2uVywAdrMOzsZbe538PjouL-IU",
+  "title": "Paano Mag Ipon Minimum Wage",
+  "publish_at_manila": "2026-12-13 11:00",
+  "publish_unix": 1797130800
+ },
+ {
+  "episode": 100,
+  "folder": "EP100_EP100-3-Desisyon-365-Araw",
+  "folder_id": "1COHjh9QL4OeZTP9q-MvE8AntNi1ryF4W",
+  "title": "EP100 3 Desisyon 365 Araw",
+  "publish_at_manila": "2026-12-13 14:00",
+  "publish_unix": 1797141600
+ },
+ {
+  "episode": 101,
+  "folder": "EP101_Piso-Fare-Travel-Budol",
+  "folder_id": "1wCPt3h4dkEEhQqdNbOSxFhBFgA9TfYNp",
+  "title": "Piso Fare Travel Budol",
+  "publish_at_manila": "2026-12-13 18:00",
+  "publish_unix": 1797156000
+ },
+ {
+  "episode": 102,
+  "folder": "EP102_Unli-Samgyup-Negosyo-Secret",
+  "folder_id": "1F7ZGfzqloR1viJNqLWb5A8gDG13yc9jx",
+  "title": "Unli Samgyup Negosyo Secret",
+  "publish_at_manila": "2026-12-13 21:00",
+  "publish_unix": 1797166800
+ },
+ {
+  "episode": 103,
+  "folder": "EP103_Ebike-Vs-Motor-Battery-Math",
+  "folder_id": "1pMcO9N5t2wwbaZKN7laMN7oNiG-ngU_u",
+  "title": "Ebike Vs Motor Battery Math",
+  "publish_at_manila": "2026-12-14 08:00",
+  "publish_unix": 1797206400
+ },
+ {
+  "episode": 104,
+  "folder": "EP104_Gold-Price-All-Time-High",
+  "folder_id": "1lsKHcjlcF2lubhTxUBW_pNDVrJBb7oEN",
+  "title": "Gold Price All Time High",
+  "publish_at_manila": "2026-12-14 11:00",
+  "publish_unix": 1797217200
+ },
+ {
+  "episode": 105,
+  "folder": "EP105_Zero-Percent-Installment-Trap",
+  "folder_id": "1ijtMAk4_IKParh_WxJAf-B0A_DSNXHSf",
+  "title": "Zero Percent Installment Trap",
+  "publish_at_manila": "2026-12-14 14:00",
+  "publish_unix": 1797228000
+ },
+ {
+  "episode": 106,
+  "folder": "EP106_Freelancer-VA-Ghosted-Client",
+  "folder_id": "1Hda-BEngSPP2C7u3KXsWjh2tyiqcDb-o",
+  "title": "Freelancer VA Ghosted Client",
+  "publish_at_manila": "2026-12-14 18:00",
+  "publish_unix": 1797242400
+ },
+ {
+  "episode": 107,
+  "folder": "EP107_Brownout-Power-Station-Wfh",
+  "folder_id": "1spNn3Ux3rUhHbQT60BCNzQDPPbItB0Xe",
+  "title": "Brownout Power Station Wfh",
+  "publish_at_manila": "2026-12-14 21:00",
+  "publish_unix": 1797253200
+ },
+ {
+  "episode": 108,
+  "folder": "EP108_College-Diploma-Vs-High-Skill",
+  "folder_id": "1Kb17_kYAlsEbeWOUsw0izvlZSgdxjcas",
+  "title": "College Diploma Vs High Skill",
+  "publish_at_manila": "2026-12-15 08:00",
+  "publish_unix": 1797292800
+ },
+ {
+  "episode": 109,
+  "folder": "EP109_Mall-Window-Shopping-Psychology",
+  "folder_id": "1sOS2qrUtTWq5HxsbW14eEYF0GWHNsgA4",
+  "title": "Mall Window Shopping Psychology",
+  "publish_at_manila": "2026-12-15 11:00",
+  "publish_unix": 1797303600
+ },
+ {
+  "episode": 110,
+  "folder": "EP110_Tiktok-Affiliate-Nanay-35k",
+  "folder_id": "1dXi-XBrraLtcO4Of68FlV2-VBD3Lx8jx",
+  "title": "Tiktok Affiliate Nanay 35k",
+  "publish_at_manila": "2026-12-15 14:00",
+  "publish_unix": 1797314400
+ },
+ {
+  "episode": 111,
+  "folder": "EP111_Concert-Ticket-Credit-Card-Debt",
+  "folder_id": "1n_xEy-m-8CE_Xqh_yEionQfv9i92LXgk",
+  "title": "Concert Ticket Credit Card Debt",
+  "publish_at_manila": "2026-12-15 18:00",
+  "publish_unix": 1797328800
+ },
+ {
+  "episode": 112,
+  "folder": "EP112_Gym-Membership-Unused-Leak",
+  "folder_id": "1UZHX1L9133Yn6YkrMsk97nYgpqEzZfhA",
+  "title": "Gym Membership Unused Leak",
+  "publish_at_manila": "2026-12-15 21:00",
+  "publish_unix": 1797339600
+ },
+ {
+  "episode": 113,
+  "folder": "EP113_Branded-Bag-45k-Vs-Mp2",
+  "folder_id": "1HHxAIC9sDrgMWNDGWbj90wyZxH3IOmj4",
+  "title": "Branded Bag 45k Vs Mp2",
+  "publish_at_manila": "2026-12-16 08:00",
+  "publish_unix": 1797379200
+ },
+ {
+  "episode": 114,
+  "folder": "EP114_Preselling-Lot-Scam-Redflags",
+  "folder_id": "19boxBw5qukrGe4E3puNAYbQioVHTGqIz",
+  "title": "Preselling Lot Scam Redflags",
+  "publish_at_manila": "2026-12-16 11:00",
+  "publish_unix": 1797390000
+ },
+ {
+  "episode": 115,
+  "folder": "EP115_Direct-Import-China-Margin",
+  "folder_id": "1gIpc9eXI_Cg2wF8oQ6ltNsTESYbKPS-N",
+  "title": "Direct Import China Margin",
+  "publish_at_manila": "2026-12-16 14:00",
+  "publish_unix": 1797400800
+ },
+ {
+  "episode": 116,
+  "folder": "EP116_Food-Delivery-App-Markup-Trap",
+  "folder_id": "1miXpL9SDSA8VE20ake_GwmoSuDwtzulz",
+  "title": "Food Delivery App Markup Trap",
+  "publish_at_manila": "2026-12-16 18:00",
+  "publish_unix": 1797415200
+ },
+ {
+  "episode": 117,
+  "folder": "EP117_Abroad-Placement-Fee-Reality",
+  "folder_id": "1k8q0eThD8zecJGMe-__pTWzyuPEdBpP2",
+  "title": "Abroad Placement Fee Reality",
+  "publish_at_manila": "2026-12-16 21:00",
+  "publish_unix": 1797426000
+ },
+ {
+  "episode": 118,
+  "folder": "EP118_Aesthetic-Cafe-Tambay-Lugi",
+  "folder_id": "10bsZ0xZcPU-LyWBPh5pr1v4UsWya-hwv",
+  "title": "Aesthetic Cafe Tambay Lugi",
+  "publish_at_manila": "2026-12-17 08:00",
+  "publish_unix": 1797465600
+ },
+ {
+  "episode": 119,
+  "folder": "EP119_Declutter-Bahay-38k-Cash",
+  "folder_id": "1yhY9dXoWsPgnFtG8lYXx2vKl7plijQTK",
+  "title": "Declutter Bahay 38k Cash",
+  "publish_at_manila": "2026-12-17 11:00",
+  "publish_unix": 1797476400
+ },
+ {
+  "episode": 120,
+  "folder": "EP120_2026-Grocery-1000-Hack",
+  "folder_id": "1_FhNABzRw9QHBq3ahLf0LKEHjk27zPH2",
+  "title": "2026 Grocery 1000 Hack",
+  "publish_at_manila": "2026-12-17 14:00",
+  "publish_unix": 1797487200
+ },
+ {
+  "episode": 121,
+  "folder": "EP121_Pares-Overload-Kanto-Math",
+  "folder_id": "1FdxVvEci87KU7tc1lz7887Tg5FKGXYgb",
+  "title": "Pares Overload Kanto Math",
+  "publish_at_manila": "2026-12-17 18:00",
+  "publish_unix": 1797501600
+ },
+ {
+  "episode": 122,
+  "folder": "EP122_Flower-Shop-Undas-Valentines",
+  "folder_id": "1qB9-1lZFV6xk3hkOKiiTvEhn3eFd2o4Q",
+  "title": "Flower Shop Undas Valentines",
+  "publish_at_manila": "2026-12-17 21:00",
+  "publish_unix": 1797512400
+ },
+ {
+  "episode": 123,
+  "folder": "EP123_Shoe-Cleaning-Restoration-Math",
+  "folder_id": "1AMpBJA-d_kA0GQtG2HA_51qoQ2qSfGKx",
+  "title": "Shoe Cleaning Restoration Math",
+  "publish_at_manila": "2026-12-18 08:00",
+  "publish_unix": 1797552000
+ },
+ {
+  "episode": 124,
+  "folder": "EP124_Piso-Carwash-Coin-Passive",
+  "folder_id": "1n2mhBhz3Wduy5ZkKPG7e2XGJ8x8hifc0",
+  "title": "Piso Carwash Coin Passive",
+  "publish_at_manila": "2026-12-18 11:00",
+  "publish_unix": 1797562800
+ },
+ {
+  "episode": 125,
+  "folder": "EP125_Dirty-Ice-Cream-6-Carts",
+  "folder_id": "1zZz097OpuJb9-8yTmE-JF0sjN_z0RYh-",
+  "title": "Dirty Ice Cream 6 Carts",
+  "publish_at_manila": "2026-12-18 14:00",
+  "publish_unix": 1797573600
+ },
+ {
+  "episode": 126,
+  "folder": "EP126_School-Service-Shuttle-Math",
+  "folder_id": "129uJR4kAEGzFKf7VsO3memq7kkzoEu6c",
+  "title": "School Service Shuttle Math",
+  "publish_at_manila": "2026-12-18 18:00",
+  "publish_unix": 1797588000
+ },
+ {
+  "episode": 127,
+  "folder": "EP127_Pet-Grooming-Fur-Parents-Boom",
+  "folder_id": "1afpmp38Za2U_gVYGAhYcP0801r4QYp4r",
+  "title": "Pet Grooming Fur Parents Boom",
+  "publish_at_manila": "2026-12-18 21:00",
+  "publish_unix": 1797598800
+ },
+ {
+  "episode": 128,
+  "folder": "EP128_Tent-Chair-Rental-Barangay",
+  "folder_id": "1XHycyM2Y4Wl_A0QuW7s-glFH9iHww4fE",
+  "title": "Tent Chair Rental Barangay",
+  "publish_at_manila": "2026-12-19 08:00",
+  "publish_unix": 1797638400
+ },
+ {
+  "episode": 129,
+  "folder": "EP129_Lechon-Manok-Rotisserie-Math",
+  "folder_id": "1sadZFwkb1eHnfo-3f1zAfgrSS1Q1AoBy",
+  "title": "Lechon Manok Rotisserie Math",
+  "publish_at_manila": "2026-12-19 11:00",
+  "publish_unix": 1797649200
+ },
+ {
+  "episode": 130,
+  "folder": "EP130_Tailoring-Alteration-Mall-Tapat",
+  "folder_id": "1FKYUW59lSLpQok63xD9mmn7Qai0sgNOJ",
+  "title": "Tailoring Alteration Mall Tapat",
+  "publish_at_manila": "2026-12-19 14:00",
+  "publish_unix": 1797660000
+ },
+ {
+  "episode": 131,
+  "folder": "EP131_Egg-Tray-Delivery-Poultry",
+  "folder_id": "1wT2hXqzVHiv1jw_eS4A2PMp93nWPCxyi",
+  "title": "Egg Tray Delivery Poultry",
+  "publish_at_manila": "2026-12-19 18:00",
+  "publish_unix": 1797674400
+ },
+ {
+  "episode": 132,
+  "folder": "EP132_Barbershop-3-Chairs-75k",
+  "folder_id": "1sq8gSRaSyfqDtJH-Gclte9-hzPIDnte_",
+  "title": "Barbershop 3 Chairs 75k",
+  "publish_at_manila": "2026-12-19 21:00",
+  "publish_unix": 1797685200
+ },
+ {
+  "episode": 133,
+  "folder": "EP133_Frozen-Meat-Tocino-Office",
+  "folder_id": "1aHFmRpDLGT3oXNRar--eI7yggvV4cGqW",
+  "title": "Frozen Meat Tocino Office",
+  "publish_at_manila": "2026-12-20 08:00",
+  "publish_unix": 1797724800
+ },
+ {
+  "episode": 134,
+  "folder": "EP134_Hardware-Subdivision-Goldmine",
+  "folder_id": "15lA9764hV9Alkqk3z4hdfRBl05U6_Vxt",
+  "title": "Hardware Subdivision Goldmine",
+  "publish_at_manila": "2026-12-20 11:00",
+  "publish_unix": 1797735600
+ },
+ {
+  "episode": 135,
+  "folder": "EP135_Phone-Screen-Repair-85-Margin",
+  "folder_id": "1FUXSsaPGqiD5NSNEgX_ytqjQdRRqLm8-",
+  "title": "Phone Screen Repair 85 Margin",
+  "publish_at_manila": "2026-12-20 14:00",
+  "publish_unix": 1797746400
+ },
+ {
+  "episode": 136,
+  "folder": "EP136_Taho-Vendor-3-Hours-Morning",
+  "folder_id": "1C0E9jx95iZw0ebpJTvT3xRGARgCJQFcO",
+  "title": "Taho Vendor 3 Hours Morning",
+  "publish_at_manila": "2026-12-20 18:00",
+  "publish_unix": 1797760800
+ },
+ {
+  "episode": 137,
+  "folder": "EP137_Bilao-Pancit-Weekend-Catering",
+  "folder_id": "1yhyKaiSNVVV2NAx4-UFKj-xGU7s1fyN8",
+  "title": "Bilao Pancit Weekend Catering",
+  "publish_at_manila": "2026-12-20 21:00",
+  "publish_unix": 1797771600
+ },
+ {
+  "episode": 138,
+  "folder": "EP138_Bakery-Pandesal-4am-Volume",
+  "folder_id": "1Rke5a2Wj3WKlt4wu4fTh-J03_a_Ws6Vx",
+  "title": "Bakery Pandesal 4am Volume",
+  "publish_at_manila": "2026-12-21 08:00",
+  "publish_unix": 1797811200
+ },
+ {
+  "episode": 139,
+  "folder": "EP139_Private-Pool-Staycation-Math",
+  "folder_id": "1lp9cd33A3gb12Rrq5iCcqCYUYuz8dxfn",
+  "title": "Private Pool Staycation Math",
+  "publish_at_manila": "2026-12-21 11:00",
+  "publish_unix": 1797822000
+ },
+ {
+  "episode": 140,
+  "folder": "EP140_Halong-Pera-Sa-Bulsa-Lugi",
+  "folder_id": "1jOZsm_6BE8TjzQdgjIKr6O7dTb4hf7ys",
+  "title": "Halong Pera Sa Bulsa Lugi",
+  "publish_at_manila": "2026-12-21 14:00",
+  "publish_unix": 1797832800
+ },
+ {
+  "episode": 141,
+  "folder": "EP141_OFW-Pinag-Aral-4-Kapatid",
+  "folder_id": "1azqVWWlaN3mNrr5MvTpCLcNbgwu2jFh5",
+  "title": "OFW Pinag Aral 4 Kapatid",
+  "publish_at_manila": "2026-12-21 18:00",
+  "publish_unix": 1797847200
+ },
+ {
+  "episode": 142,
+  "folder": "EP142_Inggit-Ng-Magkakapatid-Sa-Yaman",
+  "folder_id": "1ReJ-1xGZEW8bcAawKP5WE_q7SDNVmWDA",
+  "title": "Inggit Ng Magkakapatid Sa Yaman",
+  "publish_at_manila": "2026-12-21 21:00",
+  "publish_unix": 1797858000
+ },
+ {
+  "episode": 143,
+  "folder": "EP143_Kasal-Nakitira-Sa-Biyenan",
+  "folder_id": "1AZsXymhHYdAjM4UhZBZWMNSZ5KXb5aDc",
+  "title": "Kasal Nakitira Sa Biyenan",
+  "publish_at_manila": "2026-12-22 08:00",
+  "publish_unix": 1797897600
+ },
+ {
+  "episode": 144,
+  "folder": "EP144_Single-Mom-Comeback-2-Shops",
+  "folder_id": "1tixjFGJ8JpLPn0AlRdaeDaMQsuqbjRZS",
+  "title": "Single Mom Comeback 2 Shops",
+  "publish_at_manila": "2026-12-22 11:00",
+  "publish_unix": 1797908400
+ },
+ {
+  "episode": 145,
+  "folder": "EP145_Cosign-Loan-Kaibigan-Nightmare",
+  "folder_id": "1WTNjJk4Xg44G3ZyWXzSq5jwTgATMtXzH",
+  "title": "Cosign Loan Kaibigan Nightmare",
+  "publish_at_manila": "2026-12-22 14:00",
+  "publish_unix": 1797919200
+ },
+ {
+  "episode": 146,
+  "folder": "EP146_Matandang-Magulang-Walang-SSS",
+  "folder_id": "1KzW4PX0YjA5zAyfIdwkk48NwkM942WjQ",
+  "title": "Matandang Magulang Walang SSS",
+  "publish_at_manila": "2026-12-22 18:00",
+  "publish_unix": 1797933600
+ },
+ {
+  "episode": 147,
+  "folder": "EP147_Away-Mag-Asawa-Dahil-Sa-Pera",
+  "folder_id": "1Ix4BNbkmK0xQepURH1UZm5bN3xqZIrNI",
+  "title": "Away Mag Asawa Dahil Sa Pera",
+  "publish_at_manila": "2026-12-22 21:00",
+  "publish_unix": 1797944400
+ },
+ {
+  "episode": 148,
+  "folder": "EP148_Secret-Sweldo-Peace-Of-Mind",
+  "folder_id": "1UuFgUpFV9PNVx0Yyr0ycArpJE4cCNc71",
+  "title": "Secret Sweldo Peace Of Mind",
+  "publish_at_manila": "2026-12-23 08:00",
+  "publish_unix": 1797984000
+ },
+ {
+  "episode": 149,
+  "folder": "EP149_Working-Student-100k-Before-Grad",
+  "folder_id": "1EjkcWnoX16kHib6b9qGsl-LNfru1aogm",
+  "title": "Working Student 100k Before Grad",
+  "publish_at_manila": "2026-12-23 11:00",
+  "publish_unix": 1797994800
+ },
+ {
+  "episode": 150,
+  "folder": "EP150_Minanang-Bahay-Amilyar-Subasta",
+  "folder_id": "17oETdPnOKar4jOWYSN9urmWVS3xafv23",
+  "title": "Minanang Bahay Amilyar Subasta",
+  "publish_at_manila": "2026-12-23 14:00",
+  "publish_unix": 1798005600
+ },
+ {
+  "episode": 151,
+  "folder": "EP151_Money-Mule-GCash-Scam-Kulong",
+  "folder_id": "17YfHuWO7qNbCl4znbcTSOtYbUB_No9NZ",
+  "title": "Money Mule GCash Scam Kulong",
+  "publish_at_manila": "2026-12-23 18:00",
+  "publish_unix": 1798020000
+ },
+ {
+  "episode": 152,
+  "folder": "EP152_OFW-Padala-Pinangsugal-Ng-Asawa",
+  "folder_id": "1B07wKqEr7HR74YOS__6ZACXMXuV8VDWk",
+  "title": "OFW Padala Pinangsugal Ng Asawa",
+  "publish_at_manila": "2026-12-23 21:00",
+  "publish_unix": 1798030800
+ },
+ {
+  "episode": 153,
+  "folder": "EP153_People-Pleaser-Libre-Tax",
+  "folder_id": "1cW_Fvm3oySv_rMqSCVJcRdmFRBHBoTN2",
+  "title": "People Pleaser Libre Tax",
+  "publish_at_manila": "2026-12-24 08:00",
+  "publish_unix": 1798070400
+ },
+ {
+  "episode": 154,
+  "folder": "EP154_Lolo-Bumili-Lupa-3-Generations",
+  "folder_id": "1NKhnDzZFmmqoSkCqQUCI5SYuEDGKwvZ3",
+  "title": "Lolo Bumili Lupa 3 Generations",
+  "publish_at_manila": "2026-12-24 11:00",
+  "publish_unix": 1798081200
+ },
+ {
+  "episode": 155,
+  "folder": "EP155_Emergency-Fund-Walk-Away-Power",
+  "folder_id": "1pE5JsRg7KP86IliULAek24OM_xurdkol",
+  "title": "Emergency Fund Walk Away Power",
+  "publish_at_manila": "2026-12-24 14:00",
+  "publish_unix": 1798092000
+ },
+ {
+  "episode": 156,
+  "folder": "EP156_Mag-Jowa-Bumili-Bahay-Naghiwalay",
+  "folder_id": "1F0W-fKBQ2USo5W-jCdwD3hxOkgJ5Si8Q",
+  "title": "Mag Jowa Bumili Bahay Naghiwalay",
+  "publish_at_manila": "2026-12-24 18:00",
+  "publish_unix": 1798106400
+ },
+ {
+  "episode": 157,
+  "folder": "EP157_Tamang-Circle-At-Mentor-Yaman",
+  "folder_id": "1A2tvRRG9tS06YsRDxxTFbi59UuUiD1CE",
+  "title": "Tamang Circle At Mentor Yaman",
+  "publish_at_manila": "2026-12-24 21:00",
+  "publish_unix": 1798117200
+ },
+ {
+  "episode": 158,
+  "folder": "EP158_Estate-Tax-Minanang-Lupa-Trap",
+  "folder_id": "1RNB_uRJvUg4dbO-d59DJAThbOpagmiNg",
+  "title": "Estate Tax Minanang Lupa Trap",
+  "publish_at_manila": "2026-12-25 08:00",
+  "publish_unix": 1798156800
+ },
+ {
+  "episode": 159,
+  "folder": "EP159_Libre-Ko-Na-Payday-Syndrome",
+  "folder_id": "1-MtUxPGPbOgW86HsAESB7fhMLCnJPrTQ",
+  "title": "Libre Ko Na Payday Syndrome",
+  "publish_at_manila": "2026-12-25 11:00",
+  "publish_unix": 1798167600
+ },
+ {
+  "episode": 160,
+  "folder": "EP160_Turuan-Anak-Tungkol-Sa-Pera",
+  "folder_id": "1IM794fEqxnZd9B85l9OlYB2wCw_0-IML",
+  "title": "Turuan Anak Tungkol Sa Pera",
+  "publish_at_manila": "2026-12-25 14:00",
+  "publish_unix": 1798178400
+ },
+ {
+  "episode": 161,
+  "folder": "EP161_AI-Deepfake-Voice-Scam-PH",
+  "folder_id": "1k03fPF__2YIAhxKil49Qv1UHr2XPlxAm",
+  "title": "AI Deepfake Voice Scam PH",
+  "publish_at_manila": "2026-12-25 18:00",
+  "publish_unix": 1798192800
+ },
+ {
+  "episode": 162,
+  "folder": "EP162_Credit-Card-Cashback-Zero-Interest",
+  "folder_id": "1qBOlefegJknjSEzJkkxUemDsa3RyKNQZ",
+  "title": "Credit Card Cashback Zero Interest",
+  "publish_at_manila": "2026-12-25 21:00",
+  "publish_unix": 1798203600
+ },
+ {
+  "episode": 163,
+  "folder": "EP163_Crypto-Copy-Trading-GC-Scam",
+  "folder_id": "1KqJzRGmldOgcNW80hvGAKA84cZmJ9bXA",
+  "title": "Crypto Copy Trading GC Scam",
+  "publish_at_manila": "2026-12-26 08:00",
+  "publish_unix": 1798243200
+ },
+ {
+  "episode": 164,
+  "folder": "EP164_REITs-Philippines-5K-Landlord",
+  "folder_id": "1pGJnAvOxyo5nK_whhpZw1LypL1fHcG5V",
+  "title": "REITs Philippines 5K Landlord",
+  "publish_at_manila": "2026-12-26 11:00",
+  "publish_unix": 1798254000
+ },
+ {
+  "episode": 165,
+  "folder": "EP165_Cooperative-Time-Deposit-Secret",
+  "folder_id": "1tdkL1JwrcK8E6spOWD5ZXiquF3X-YIqv",
+  "title": "Cooperative Time Deposit Secret",
+  "publish_at_manila": "2026-12-26 14:00",
+  "publish_unix": 1798264800
+ },
+ {
+  "episode": 166,
+  "folder": "EP166_Telegram-Viber-Task-Scam-90K",
+  "folder_id": "1PNvLw1ikUTE4p9quorVy5rFrd2WH7Nlz",
+  "title": "Telegram Viber Task Scam 90K",
+  "publish_at_manila": "2026-12-26 18:00",
+  "publish_unix": 1798279200
+ },
+ {
+  "episode": 167,
+  "folder": "EP167_PagIBIG-Foreclosed-House-40-Off",
+  "folder_id": "19oJLjiiKqqXxNG7NrRZzFKzEoHtqCVG_",
+  "title": "PagIBIG Foreclosed House 40 Off",
+  "publish_at_manila": "2026-12-26 21:00",
+  "publish_unix": 1798290000
+ },
+ {
+  "episode": 168,
+  "folder": "EP168_Auto-Debit-Lazy-Saver-Habit",
+  "folder_id": "1kRTRXtD0I5pr05zYgmvpPDmAOMlCkzuJ",
+  "title": "Auto Debit Lazy Saver Habit",
+  "publish_at_manila": "2026-12-27 08:00",
+  "publish_unix": 1798329600
+ },
+ {
+  "episode": 169,
+  "folder": "EP169_Life-Insurance-Vs-VUL-RealTalk",
+  "folder_id": "11J7PqWV0C6qkzUByN0Vw08iwsubm5y0s",
+  "title": "Life Insurance Vs VUL RealTalk",
+  "publish_at_manila": "2026-12-27 11:00",
+  "publish_unix": 1798340400
+ },
+ {
+  "episode": 170,
+  "folder": "EP170_Index-Fund-3K-Monthly-2M",
+  "folder_id": "1uxCem4EEJetTZhg6ZZYPe-gtxWnpMh4S",
+  "title": "Index Fund 3K Monthly 2M",
+  "publish_at_manila": "2026-12-27 14:00",
+  "publish_unix": 1798351200
+ },
+ {
+  "episode": 171,
+  "folder": "EP171_Dormant-Bank-Account-Fee-Trap",
+  "folder_id": "1l7EK0uaXQCVRTl4TKkskIWfVEGbC0Lup",
+  "title": "Dormant Bank Account Fee Trap",
+  "publish_at_manila": "2026-12-27 18:00",
+  "publish_unix": 1798365600
+ },
+ {
+  "episode": 172,
+  "folder": "EP172_SSS-WISP-Plus-Pension-Hack",
+  "folder_id": "1iLJ9SOQjsqWZfMLTFly3hDftbLydlbK6",
+  "title": "SSS WISP Plus Pension Hack",
+  "publish_at_manila": "2026-12-27 21:00",
+  "publish_unix": 1798376400
+ },
+ {
+  "episode": 173,
+  "folder": "EP173_Buy-And-Sell-2nd-Hand-Motor",
+  "folder_id": "1qDN0yuUaDWxhh1jkBicGe9r7enbFM1oE",
+  "title": "Buy And Sell 2nd Hand Motor",
+  "publish_at_manila": "2026-12-28 08:00",
+  "publish_unix": 1798416000
+ },
+ {
+  "episode": 174,
+  "folder": "EP174_Loan-Contract-AddOn-Vs-EIR",
+  "folder_id": "1aceOqNtGIScUQC3zlh1DRslL90riOAP1",
+  "title": "Loan Contract AddOn Vs EIR",
+  "publish_at_manila": "2026-12-28 11:00",
+  "publish_unix": 1798426800
+ },
+ {
+  "episode": 175,
+  "folder": "EP175_3-Layer-Emergency-Fund-Ladder",
+  "folder_id": "1aMdmtdLiJVNw5IEWTkM3lgacDP-bhL1L",
+  "title": "3 Layer Emergency Fund Ladder",
+  "publish_at_manila": "2026-12-28 14:00",
+  "publish_unix": 1798437600
+ },
+ {
+  "episode": 176,
+  "folder": "EP176_Pasabay-Japan-Korea-45K",
+  "folder_id": "1OG7s04h49znhewGVgtbEUUJI6SRsTOyR",
+  "title": "Pasabay Japan Korea 45K",
+  "publish_at_manila": "2026-12-28 18:00",
+  "publish_unix": 1798452000
+ },
+ {
+  "episode": 177,
+  "folder": "EP177_1-Minute-Explain-Invest-Rule",
+  "folder_id": "1lJNOCsaUqRblVMQTEzO5oqVN4xlK7cDz",
+  "title": "1 Minute Explain Invest Rule",
+  "publish_at_manila": "2026-12-28 21:00",
+  "publish_unix": 1798462800
+ },
+ {
+  "episode": 178,
+  "folder": "EP178_Tax-Free-BMBE-MP2-Coop",
+  "folder_id": "18nYzsPxD0Xq8-PC46h7pJ2VjdqpG_ssR",
+  "title": "Tax Free BMBE MP2 Coop",
+  "publish_at_manila": "2026-12-29 08:00",
+  "publish_unix": 1798502400
+ },
+ {
+  "episode": 179,
+  "folder": "EP179_Debt-Snowball-250K-18-Months",
+  "folder_id": "19oWtDfaWxp1MZVLAdz-lKrgwT9o8syhF",
+  "title": "Debt Snowball 250K 18 Months",
+  "publish_at_manila": "2026-12-29 11:00",
+  "publish_unix": 1798513200
+ },
+ {
+  "episode": 180,
+  "folder": "EP180_Rule-Of-72-Magic-Money",
+  "folder_id": "1ImigSqIMBQe1ou3N7bBmkAYgJyeVSjMH",
+  "title": "Rule Of 72 Magic Money",
+  "publish_at_manila": "2026-12-29 14:00",
+  "publish_unix": 1798524000
+ },
+ {
+  "episode": 181,
+  "folder": "EP181_Job-Hopper-vs-Loyal-Salary",
+  "folder_id": "1zo_KiVOvY30fFPnNKm9jEdQBB223qG4H",
+  "title": "Job Hopper vs Loyal Salary",
+  "publish_at_manila": "2026-12-29 18:00",
+  "publish_unix": 1798538400
+ },
+ {
+  "episode": 182,
+  "folder": "EP182_Faceless-AI-Reels-Channel",
+  "folder_id": "1VkPYLXbF_cE1QpKN6UtlOyvXHUUjTV5L",
+  "title": "Faceless AI Reels Channel",
+  "publish_at_manila": "2026-12-29 21:00",
+  "publish_unix": 1798549200
+ },
+ {
+  "episode": 183,
+  "folder": "EP183_Digital-Products-Canva-AI",
+  "folder_id": "17JypqFsx938QBc0ArihyYEhPoEL0kLSB",
+  "title": "Digital Products Canva AI",
+  "publish_at_manila": "2026-12-30 08:00",
+  "publish_unix": 1798588800
+ },
+ {
+  "episode": 184,
+  "folder": "EP184_5AM-Habit-Self-Made-Bosses",
+  "folder_id": "12g2AsY2gwzf-8O3FecKa1vqthIc1cRCm",
+  "title": "5AM Habit Self Made Bosses",
+  "publish_at_manila": "2026-12-30 11:00",
+  "publish_unix": 1798599600
+ },
+ {
+  "episode": 185,
+  "folder": "EP185_Social-Media-Comparison-Trap",
+  "folder_id": "1jd88zNK7BGbPzFc5c1Vu82El3lOnUiH-",
+  "title": "Social Media Comparison Trap",
+  "publish_at_manila": "2026-12-30 14:00",
+  "publish_unix": 1798610400
+ },
+ {
+  "episode": 186,
+  "folder": "EP186_Student-Side-Hustles-15K",
+  "folder_id": "1WxzUPPYiaZtn3R-XPk_8eZXaX9NTrl_6",
+  "title": "Student Side Hustles 15K",
+  "publish_at_manila": "2026-12-30 18:00",
+  "publish_unix": 1798624800
+ },
+ {
+  "episode": 187,
+  "folder": "EP187_Parehong-Pilipinas-Ibang-Resulta",
+  "folder_id": "1OiyKbURwdHFgiwKVm8usvL8xKuz_X5uS",
+  "title": "Parehong Pilipinas Ibang Resulta",
+  "publish_at_manila": "2026-12-30 21:00",
+  "publish_unix": 1798635600
+ },
+ {
+  "episode": 188,
+  "folder": "EP188_3-Habits-Poor-Before-30",
+  "folder_id": "11FmOdBvcE5JG2pPmChYiabGliDcBZtxN",
+  "title": "3 Habits Poor Before 30",
+  "publish_at_manila": "2026-12-31 08:00",
+  "publish_unix": 1798675200
+ },
+ {
+  "episode": 189,
+  "folder": "EP189_Salary-Negotiation-3-Step-Script",
+  "folder_id": "1VRu7P7ATezMCUQjK6vctu1GRaGlL7VAu",
+  "title": "Salary Negotiation 3 Step Script",
+  "publish_at_manila": "2026-12-31 11:00",
+  "publish_unix": 1798686000
+ },
+ {
+  "episode": 190,
+  "folder": "EP190_Bukas-Na-Lang-Procrastination-Cost",
+  "folder_id": "149HiDoU1yzLt8lH9RY-T698IN4mQZb7L",
+  "title": "Bukas Na Lang Procrastination Cost",
+  "publish_at_manila": "2026-12-31 14:00",
+  "publish_unix": 1798696800
+ },
+ {
+  "episode": 191,
+  "folder": "EP191_Micro-Content-Agency-Local-Biz",
+  "folder_id": "1H9rUmRDLSDNPT7QVb59ph-KgYF5K2aZz",
+  "title": "Micro Content Agency Local Biz",
+  "publish_at_manila": "2026-12-31 18:00",
+  "publish_unix": 1798711200
+ },
+ {
+  "episode": 192,
+  "folder": "EP192_Pay-For-Speed-Mentors-ROI",
+  "folder_id": "1zXNSqpEL0FuGwEa_WhFkv5xDeaPsHgTn",
+  "title": "Pay For Speed Mentors ROI",
+  "publish_at_manila": "2026-12-31 21:00",
+  "publish_unix": 1798722000
+ },
+ {
+  "episode": 193,
+  "folder": "EP193_Alak-Yosi-73K-Year-Math",
+  "folder_id": "1Pmh3ZwrNj7PwzSplwOO-VeIsuo2lYDqO",
+  "title": "Alak Yosi 73K Year Math",
+  "publish_at_manila": "2027-01-01 08:00",
+  "publish_unix": 1798761600
+ },
+ {
+  "episode": 194,
+  "folder": "EP194_Unang-100K-Pinakamahirap",
+  "folder_id": "1NyTB4rMTzZiRtTMrV2Wdcy5DYLmc5f83",
+  "title": "Unang 100K Pinakamahirap",
+  "publish_at_manila": "2027-01-01 11:00",
+  "publish_unix": 1798772400
+ },
+ {
+  "episode": 195,
+  "folder": "EP195_Sales-Skill-Most-Valuable",
+  "folder_id": "19exgEaIlg1HKhELwbPbiFH_82aoLOKhd",
+  "title": "Sales Skill Most Valuable",
+  "publish_at_manila": "2027-01-01 14:00",
+  "publish_unix": 1798783200
+ },
+ {
+  "episode": 196,
+  "folder": "EP196_One-Page-Money-Map-System",
+  "folder_id": "1eMEnFXRQx5--GLjWm1bQo4XOs8-75TM2",
+  "title": "One Page Money Map System",
+  "publish_at_manila": "2027-01-01 18:00",
+  "publish_unix": 1798797600
+ },
+ {
+  "episode": 197,
+  "folder": "EP197_Zero-Debt-Sleep-At-Night-Wealth",
+  "folder_id": "1HLhMPUNj8-mJAUe6SNJjzSi0u9ggd1rZ",
+  "title": "Zero Debt Sleep At Night Wealth",
+  "publish_at_manila": "2027-01-01 21:00",
+  "publish_unix": 1798808400
+ },
+ {
+  "episode": 198,
+  "folder": "EP198_5-Signs-Future-Millionaire",
+  "folder_id": "1ZGkm0w29Nt_7EkwZEKplOgOQGuboMq5C",
+  "title": "5 Signs Future Millionaire",
+  "publish_at_manila": "2027-01-02 08:00",
+  "publish_unix": 1798848000
+ },
+ {
+  "episode": 199,
+  "folder": "EP199_Start-From-Zero-2026-Blueprint",
+  "folder_id": "1AWbpxmJy61hqTZTxwWuuMzAsJ8nyGQgn",
+  "title": "Start From Zero 2026 Blueprint",
+  "publish_at_manila": "2027-01-02 11:00",
+  "publish_unix": 1798858800
+ },
+ {
+  "episode": 200,
+  "folder": "EP200_EP200-5-Batas-ng-Barya-Stories",
+  "folder_id": "17O7PbdHDv6I7TxOE9A3sMQvIeQgMH4So",
+  "title": "EP200 5 Batas ng Barya Stories",
+  "publish_at_manila": "2027-01-02 14:00",
+  "publish_unix": 1798869600
+ },
+ {
+  "episode": 201,
+  "folder": "EP201_Balikbayan-Libre-Lahat-Drama",
+  "folder_id": "1gTtUijheA5eFiWdjzikLPwYIyaRLUiHk",
+  "title": "Balikbayan Libre Lahat Drama",
+  "publish_at_manila": "2027-01-03 08:00",
+  "publish_unix": 1798934400
+ },
+ {
+  "episode": 202,
+  "folder": "EP202_Bunso-Spoiled-Panganay-Ubos",
+  "folder_id": "1N6swL8QBqui-PqSYO9vqMrh41sfKusLT",
+  "title": "Bunso Spoiled Panganay Ubos",
+  "publish_at_manila": "2027-01-03 11:00",
+  "publish_unix": 1798945200
+ },
+ {
+  "episode": 203,
+  "folder": "EP203_Ninong-Ninang-Aguinaldo-Pressure",
+  "folder_id": "1QdnZ6-3OgqH5D9UuEAr3vL_gFMectyWW",
+  "title": "Ninong Ninang Aguinaldo Pressure",
+  "publish_at_manila": "2027-01-03 14:00",
+  "publish_unix": 1798956000
+ },
+ {
+  "episode": 204,
+  "folder": "EP204_Kapatid-Umutang-Bumili-iPhone",
+  "folder_id": "1QFcZM9EqaLtQj-IvNe42x2tttv9p5vwS",
+  "title": "Kapatid Umutang Bumili iPhone",
+  "publish_at_manila": "2027-01-03 18:00",
+  "publish_unix": 1798970400
+ },
+ {
+  "episode": 205,
+  "folder": "EP205_Biyenan-Humihingi-Buwan-Buwan",
+  "folder_id": "1PuSD8hTg3YybzhmwzuHUrxiPf1aNxydK",
+  "title": "Biyenan Humihingi Buwan Buwan",
+  "publish_at_manila": "2027-01-03 21:00",
+  "publish_unix": 1798981200
+ },
+ {
+  "episode": 206,
+  "folder": "EP206_Asawa-Naitago-Secret-Utang",
+  "folder_id": "13Z_HmNh3K_lpC-JPcL68f8FYsKsRUMPz",
+  "title": "Asawa Naitago Secret Utang",
+  "publish_at_manila": "2027-01-04 08:00",
+  "publish_unix": 1799020800
+ },
+ {
+  "episode": 207,
+  "folder": "EP207_Kamag-Anak-Negosyo-Utang-Libre",
+  "folder_id": "1yOsJXGKGeBIHky_8C0cX9azoyozeP0ar",
+  "title": "Kamag Anak Negosyo Utang Libre",
+  "publish_at_manila": "2027-01-04 11:00",
+  "publish_unix": 1799031600
+ },
+ {
+  "episode": 208,
+  "folder": "EP208_Ex-Partner-Shared-Credit-Card",
+  "folder_id": "1aBMSHflWwmtxDQ-_h5y-YgdRkQDPCyvW",
+  "title": "Ex Partner Shared Credit Card",
+  "publish_at_manila": "2027-01-04 14:00",
+  "publish_unix": 1799042400
+ },
+ {
+  "episode": 209,
+  "folder": "EP209_Matandang-Tita-Pinag-Agawan-Lupa",
+  "folder_id": "131dJxzvoRJjjTRVPI2rdI0oUPSZBOXSX",
+  "title": "Matandang Tita Pinag Agawan Lupa",
+  "publish_at_manila": "2027-01-04 18:00",
+  "publish_unix": 1799056800
+ },
+ {
+  "episode": 210,
+  "folder": "EP210_Kababata-Networking-Reunion-Trap",
+  "folder_id": "1GICMlmMv3ofnE2cR5KPgJeZYO7VRf9O-",
+  "title": "Kababata Networking Reunion Trap",
+  "publish_at_manila": "2027-01-04 21:00",
+  "publish_unix": 1799067600
+ },
+ {
+  "episode": 211,
+  "folder": "EP211_Anak-Napilitan-Mag-Loan-Magulang",
+  "folder_id": "12aYb7_uq3u9P5rsRhxJaViOpu-FCp4OJ",
+  "title": "Anak Napilitan Mag Loan Magulang",
+  "publish_at_manila": "2027-01-05 08:00",
+  "publish_unix": 1799107200
+ },
+ {
+  "episode": 212,
+  "folder": "EP212_Kaibigan-Nakitira-Di-Nag-Aambag",
+  "folder_id": "1gPzgPFWKcEDC7gMrXqlIUqbIuzybFjpT",
+  "title": "Kaibigan Nakitira Di Nag Aambag",
+  "publish_at_manila": "2027-01-05 11:00",
+  "publish_unix": 1799118000
+ },
+ {
+  "episode": 213,
+  "folder": "EP213_Reunion-Yabangan-Utang-Resort",
+  "folder_id": "1ij5N2MNO3A5Mwo6trBOO9BN6Y-atzk3o",
+  "title": "Reunion Yabangan Utang Resort",
+  "publish_at_manila": "2027-01-05 14:00",
+  "publish_unix": 1799128800
+ },
+ {
+  "episode": 214,
+  "folder": "EP214_OFW-Asawa-Bumili-Kotse-Kabit",
+  "folder_id": "1Mj51czcD0Xmff43r4zLLNVb7gpgGuJax",
+  "title": "OFW Asawa Bumili Kotse Kabit",
+  "publish_at_manila": "2027-01-05 18:00",
+  "publish_unix": 1799143200
+ },
+ {
+  "episode": 215,
+  "folder": "EP215_Magkapatid-Hatiin-Hospital-Bill",
+  "folder_id": "1gPLeBs6x2WAv4SQsMNCSvwhns9K5difp",
+  "title": "Magkapatid Hatiin Hospital Bill",
+  "publish_at_manila": "2027-01-05 21:00",
+  "publish_unix": 1799154000
+ },
+ {
+  "episode": 216,
+  "folder": "EP216_Tita-Tsismosa-Nagpautang-Tubo",
+  "folder_id": "151KyPdSLi4r3jNTYI9RINmqMuZmlaU1Y",
+  "title": "Tita Tsismosa Nagpautang Tubo",
+  "publish_at_manila": "2027-01-06 08:00",
+  "publish_unix": 1799193600
+ },
+ {
+  "episode": 217,
+  "folder": "EP217_Kasal-Ninong-Sponsor-Scam",
+  "folder_id": "1Mo2Pi16xwiedTubq5gPIlZt-yhktmk-f",
+  "title": "Kasal Ninong Sponsor Scam",
+  "publish_at_manila": "2027-01-06 11:00",
+  "publish_unix": 1799204400
+ },
+ {
+  "episode": 218,
+  "folder": "EP218_Anak-Tinago-Totoong-Yaman",
+  "folder_id": "15_S_m_7gPt7vwHZNaxUcumMM_cNXDdBy",
+  "title": "Anak Tinago Totoong Yaman",
+  "publish_at_manila": "2027-01-06 14:00",
+  "publish_unix": 1799215200
+ },
+ {
+  "episode": 219,
+  "folder": "EP219_Stay-At-Home-Mom-Sariling-Pera",
+  "folder_id": "1P7yk3Ot3mxdZyaaXPzCZyskdaWT8Zx7n",
+  "title": "Stay At Home Mom Sariling Pera",
+  "publish_at_manila": "2027-01-06 18:00",
+  "publish_unix": 1799229600
+ },
+ {
+  "episode": 220,
+  "folder": "EP220_Utang-Ng-Patay-Sino-Magbabayad",
+  "folder_id": "12V4rnnfTbzZILwJJwyvLQwVT8nPY-lu3",
+  "title": "Utang Ng Patay Sino Magbabayad",
+  "publish_at_manila": "2027-01-06 21:00",
+  "publish_unix": 1799240400
+ },
+ {
+  "episode": 221,
+  "folder": "EP221_Janitor-Naging-May-Ari-Building",
+  "folder_id": "1Ob1vNAhVOdzEXQPt8HbMoeMsdKq4dNQl",
+  "title": "Janitor Naging May Ari Building",
+  "publish_at_manila": "2027-01-07 08:00",
+  "publish_unix": 1799280000
+ },
+ {
+  "episode": 222,
+  "folder": "EP222_Security-Guard-4-Apartments",
+  "folder_id": "1q-E0qS4db2z9kTMtn-8po7HSt7u6oxcZ",
+  "title": "Security Guard 4 Apartments",
+  "publish_at_manila": "2027-01-07 11:00",
+  "publish_unix": 1799290800
+ },
+ {
+  "episode": 223,
+  "folder": "EP223_Pinagtawanan-Lumang-Phone-CEO",
+  "folder_id": "1F7akkmS13uWnrjt66PvQ7qhM_7p7531w",
+  "title": "Pinagtawanan Lumang Phone CEO",
+  "publish_at_manila": "2027-01-07 14:00",
+  "publish_unix": 1799301600
+ },
+ {
+  "episode": 224,
+  "folder": "EP224_Basurero-Nagpatapos-3-Engineers",
+  "folder_id": "1iM1xx-D2nqP5NVnAp-2XR46oa6Vx7g5-",
+  "title": "Basurero Nagpatapos 3 Engineers",
+  "publish_at_manila": "2027-01-07 18:00",
+  "publish_unix": 1799316000
+ },
+ {
+  "episode": 225,
+  "folder": "EP225_Tindera-Bananacue-Cash-SUV",
+  "folder_id": "15K9NJl47odKxUPyNhOoW8tWujFyyAZKj",
+  "title": "Tindera Bananacue Cash SUV",
+  "publish_at_manila": "2027-01-07 21:00",
+  "publish_unix": 1799326800
+ },
+ {
+  "episode": 226,
+  "folder": "EP226_Fired-Employee-Binili-Supplier",
+  "folder_id": "1GqidIcMpDY6G3hht27Mv6o7xze6pSNBI",
+  "title": "Fired Employee Binili Supplier",
+  "publish_at_manila": "2027-01-08 08:00",
+  "publish_unix": 1799366400
+ },
+ {
+  "episode": 227,
+  "folder": "EP227_Tricycle-Driver-Secret-Investor",
+  "folder_id": "155ww3PqL27R8rmhaX5iAQxL7Vir7DglO",
+  "title": "Tricycle Driver Secret Investor",
+  "publish_at_manila": "2027-01-08 11:00",
+  "publish_unix": 1799377200
+ },
+ {
+  "episode": 228,
+  "folder": "EP228_Lolo-Naka-Tsinelas-Cash-Lote",
+  "folder_id": "1S63UpdXGWAgoBDpVpSOkLy9j37HUket3",
+  "title": "Lolo Naka Tsinelas Cash Lote",
+  "publish_at_manila": "2027-01-08 14:00",
+  "publish_unix": 1799388000
+ },
+ {
+  "episode": 229,
+  "folder": "EP229_Labandera-3-Laundry-Shops",
+  "folder_id": "1_AVmt9krtvuqTO1Mx5-6f71ydnP4QfP8",
+  "title": "Labandera 3 Laundry Shops",
+  "publish_at_manila": "2027-01-08 18:00",
+  "publish_unix": 1799402400
+ },
+ {
+  "episode": 230,
+  "folder": "EP230_Binully-Sa-Office-180K-Remote",
+  "folder_id": "1I1S6hpd7qKXv8qVQ3xd5EegGZMju7ali",
+  "title": "Binully Sa Office 180K Remote",
+  "publish_at_manila": "2027-01-08 21:00",
+  "publish_unix": 1799413200
+ },
+ {
+  "episode": 231,
+  "folder": "EP231_Nagtitinda-Ng-Basahan-2-Bahay",
+  "folder_id": "1js8oTp0cS-sTf0lw3177803Im02VoDKV",
+  "title": "Nagtitinda Ng Basahan 2 Bahay",
+  "publish_at_manila": "2027-01-09 08:00",
+  "publish_unix": 1799452800
+ },
+ {
+  "episode": 232,
+  "folder": "EP232_Karpintero-Naging-Contractor",
+  "folder_id": "16B8F-_pC9AH2OKf93jnFogDKHzWIPcYt",
+  "title": "Karpintero Naging Contractor",
+  "publish_at_manila": "2027-01-09 11:00",
+  "publish_unix": 1799463600
+ },
+ {
+  "episode": 233,
+  "folder": "EP233_Waitress-Sinigawan-Owner-Pala",
+  "folder_id": "1L6rqTjcYm1pj6taxY80sIGfPD0p31mlB",
+  "title": "Waitress Sinigawan Owner Pala",
+  "publish_at_manila": "2027-01-09 14:00",
+  "publish_unix": 1799474400
+ },
+ {
+  "episode": 234,
+  "folder": "EP234_Probinsyano-Nilait-Farm-King",
+  "folder_id": "1ilGTZHvMNkVpHl0Pgx8aopJHP743vpk8",
+  "title": "Probinsyano Nilait Farm King",
+  "publish_at_manila": "2027-01-09 18:00",
+  "publish_unix": 1799488800
+ },
+ {
+  "episode": 235,
+  "folder": "EP235_Dropout-Student-Web-Dev-200K",
+  "folder_id": "1oeWSxmV4Twt4BzmLl5Mi0d7RU-7HUAYZ",
+  "title": "Dropout Student Web Dev 200K",
+  "publish_at_manila": "2027-01-09 21:00",
+  "publish_unix": 1799499600
+ },
+ {
+  "episode": 236,
+  "folder": "EP236_Magsasaka-Direct-Buyer-5x",
+  "folder_id": "1BjEZGFkx5FDjqpqvvmWQEY-57nLtzLeQ",
+  "title": "Magsasaka Direct Buyer 5x",
+  "publish_at_manila": "2027-01-10 08:00",
+  "publish_unix": 1799539200
+ },
+ {
+  "episode": 237,
+  "folder": "EP237_Cashier-Nagtayo-Minimart",
+  "folder_id": "1TfgUsGXLzSc3FvqYAYrvPiL7EirUXrs1",
+  "title": "Cashier Nagtayo Minimart",
+  "publish_at_manila": "2027-01-10 11:00",
+  "publish_unix": 1799550000
+ },
+ {
+  "episode": 238,
+  "folder": "EP238_Sastre-Uniform-Supplier-2000",
+  "folder_id": "1GcrgLT1xr3CUplNHtmzDAVjEXcRF03ro",
+  "title": "Sastre Uniform Supplier 2000",
+  "publish_at_manila": "2027-01-10 14:00",
+  "publish_unix": 1799560800
+ },
+ {
+  "episode": 239,
+  "folder": "EP239_Delivery-Boy-3-Trucks",
+  "folder_id": "1BMJxNKEt50nXELhu9vxa_xZv71ChqZBL",
+  "title": "Delivery Boy 3 Trucks",
+  "publish_at_manila": "2027-01-10 18:00",
+  "publish_unix": 1799575200
+ },
+ {
+  "episode": 240,
+  "folder": "EP240_Single-Dad-8-KwekKwek-Stalls",
+  "folder_id": "10w5T4o-xkq7jA4Vq-_LOrpl9mvGwCw86",
+  "title": "Single Dad 8 KwekKwek Stalls",
+  "publish_at_manila": "2027-01-10 21:00",
+  "publish_unix": 1799586000
+ },
+ {
+  "episode": 241,
+  "folder": "EP241_Fake-Parcel-COD-Scam",
+  "folder_id": "1wDEALr2wGwnhLxVaAhtWO4xOZrEK-_vF",
+  "title": "Fake Parcel COD Scam",
+  "publish_at_manila": "2027-01-11 08:00",
+  "publish_unix": 1799625600
+ },
+ {
+  "episode": 242,
+  "folder": "EP242_QR-Code-Swap-Scam",
+  "folder_id": "1amcVMqyAAnm55Itj-S-B8dEo0Bo10Xr0",
+  "title": "QR Code Swap Scam",
+  "publish_at_manila": "2027-01-11 11:00",
+  "publish_unix": 1799636400
+ },
+ {
+  "episode": 243,
+  "folder": "EP243_Fake-Bank-SMS-Link-300K",
+  "folder_id": "1MpGs52ShvoZYYC8IMYejR0MxVAIgtYRV",
+  "title": "Fake Bank SMS Link 300K",
+  "publish_at_manila": "2027-01-11 14:00",
+  "publish_unix": 1799647200
+ },
+ {
+  "episode": 244,
+  "folder": "EP244_Love-Scam-OFW-Crypto",
+  "folder_id": "1xWzGyJeir8SIMEsA8X-YGrcFKfonQ611",
+  "title": "Love Scam OFW Crypto",
+  "publish_at_manila": "2027-01-11 18:00",
+  "publish_unix": 1799661600
+ },
+ {
+  "episode": 245,
+  "folder": "EP245_Fake-Abroad-Agency-Scam",
+  "folder_id": "1ZdoWSX9Xz_ElpADpehrZvI3PgTTWLBy4",
+  "title": "Fake Abroad Agency Scam",
+  "publish_at_manila": "2027-01-11 21:00",
+  "publish_unix": 1799672400
+ },
+ {
+  "episode": 246,
+  "folder": "EP246_Rent-Tangay-Car-Scam",
+  "folder_id": "111PiTxY0lI5XnpJ9THk_4qDemq2aKJMJ",
+  "title": "Rent Tangay Car Scam",
+  "publish_at_manila": "2027-01-12 08:00",
+  "publish_unix": 1799712000
+ },
+ {
+  "episode": 247,
+  "folder": "EP247_Fake-GCash-Screenshot-Scam",
+  "folder_id": "1ZEigfmDEVWfmDLOMKHKLJsK1r149mjfF",
+  "title": "Fake GCash Screenshot Scam",
+  "publish_at_manila": "2027-01-12 11:00",
+  "publish_unix": 1799722800
+ },
+ {
+  "episode": 248,
+  "folder": "EP248_Sanla-Tira-House-Scam",
+  "folder_id": "1pC2H6kmwy2GEIF3B9fTVWFeg7tPFtFX4",
+  "title": "Sanla Tira House Scam",
+  "publish_at_manila": "2027-01-12 14:00",
+  "publish_unix": 1799733600
+ },
+ {
+  "episode": 249,
+  "folder": "EP249_Fake-Ayuda-Scholarship-Scam",
+  "folder_id": "1vATc-FnOhKvqkmyAY50L8yqAqtggYQ2y",
+  "title": "Fake Ayuda Scholarship Scam",
+  "publish_at_manila": "2027-01-12 18:00",
+  "publish_unix": 1799748000
+ },
+ {
+  "episode": 250,
+  "folder": "EP250_ATM-Card-Swap-Scam",
+  "folder_id": "1piksSwYoofFE_llU8H8_Iggaf5ssXj8I",
+  "title": "ATM Card Swap Scam",
+  "publish_at_manila": "2027-01-12 21:00",
+  "publish_unix": 1799758800
+ },
+ {
+  "episode": 251,
+  "folder": "EP251_Online-Paluwagan-Admin-Takbo",
+  "folder_id": "13LyrWKTNWwdg4Dx5sQ4tGvHYiyvDHfqv",
+  "title": "Online Paluwagan Admin Takbo",
+  "publish_at_manila": "2027-01-13 08:00",
+  "publish_unix": 1799798400
+ },
+ {
+  "episode": 252,
+  "folder": "EP252_Free-WiFi-Mall-Banking-Hack",
+  "folder_id": "1fbKza0ztptPEttL5HkG0-PRS1HXUDm7x",
+  "title": "Free WiFi Mall Banking Hack",
+  "publish_at_manila": "2027-01-13 11:00",
+  "publish_unix": 1799809200
+ },
+ {
+  "episode": 253,
+  "folder": "EP253_Tampered-Odometer-Car-Scam",
+  "folder_id": "1y0bsAjxPAWe-SCwv-x0LFS-qAu-0pAG-",
+  "title": "Tampered Odometer Car Scam",
+  "publish_at_manila": "2027-01-13 14:00",
+  "publish_unix": 1799820000
+ },
+ {
+  "episode": 254,
+  "folder": "EP254_Fake-Midman-FB-Marketplace",
+  "folder_id": "1v8CVmb2eFZmGt5_vKTQFm9l_xfyZymAp",
+  "title": "Fake Midman FB Marketplace",
+  "publish_at_manila": "2027-01-13 18:00",
+  "publish_unix": 1799834400
+ },
+ {
+  "episode": 255,
+  "folder": "EP255_Unregistered-Coop-Ponzi-Scam",
+  "folder_id": "19_OISl-MpPDE-kJKh9op94KJHB_sEbM5",
+  "title": "Unregistered Coop Ponzi Scam",
+  "publish_at_manila": "2027-01-13 21:00",
+  "publish_unix": 1799845200
+ },
+ {
+  "episode": 256,
+  "folder": "EP256_Fake-Job-Deposit-Scam",
+  "folder_id": "1udpvEO1hosqNH81IdK_vZh1hcVlvvN0w",
+  "title": "Fake Job Deposit Scam",
+  "publish_at_manila": "2027-01-14 08:00",
+  "publish_unix": 1799884800
+ },
+ {
+  "episode": 257,
+  "folder": "EP257_Credit-Card-Skimming-Trap",
+  "folder_id": "13pXXJ4Rg_zGH0b3qCN4RRVIYdlhgqRsZ",
+  "title": "Credit Card Skimming Trap",
+  "publish_at_manila": "2027-01-14 11:00",
+  "publish_unix": 1799895600
+ },
+ {
+  "episode": 258,
+  "folder": "EP258_Double-Sale-Land-Title-Scam",
+  "folder_id": "1feeFBcLmFe2oQNHFEUIyD5rqtqgjnAe1",
+  "title": "Double Sale Land Title Scam",
+  "publish_at_manila": "2027-01-14 14:00",
+  "publish_unix": 1799906400
+ },
+ {
+  "episode": 259,
+  "folder": "EP259_SIM-Swap-OTP-Hijack-Scam",
+  "folder_id": "1tB0LIMjy2IMrk17uqiEakXHo5j-9gxWM",
+  "title": "SIM Swap OTP Hijack Scam",
+  "publish_at_manila": "2027-01-14 18:00",
+  "publish_unix": 1799920800
+ },
+ {
+  "episode": 260,
+  "folder": "EP260_Fake-Charity-Viral-Scam",
+  "folder_id": "1N2daP3oIKpBxE8RG686DDaqIRQnyeRD3",
+  "title": "Fake Charity Viral Scam",
+  "publish_at_manila": "2027-01-14 21:00",
+  "publish_unix": 1799931600
+ },
+ {
+  "episode": 261,
+  "folder": "EP261_ATM-Fee-Withdrawal-Math",
+  "folder_id": "1R50STgZm7VKMLC9skB6KyW7ZHoF75uvJ",
+  "title": "ATM Fee Withdrawal Math",
+  "publish_at_manila": "2027-01-15 08:00",
+  "publish_unix": 1799971200
+ },
+ {
+  "episode": 262,
+  "folder": "EP262_Mall-Airport-Water-800-Markup",
+  "folder_id": "1dLjuLU58Kjn-1jSQSRCABeknyeOaU4jq",
+  "title": "Mall Airport Water 800 Markup",
+  "publish_at_manila": "2027-01-15 11:00",
+  "publish_unix": 1799982000
+ },
+ {
+  "episode": 263,
+  "folder": "EP263_Phantom-Load-Meralco-Leak",
+  "folder_id": "18WXDJSTTvOTu5L7KBzsPvonbmlRL8Vy3",
+  "title": "Phantom Load Meralco Leak",
+  "publish_at_manila": "2027-01-15 14:00",
+  "publish_unix": 1799992800
+ },
+ {
+  "episode": 264,
+  "folder": "EP264_Subscription-Trap-168K",
+  "folder_id": "1vNvT_Dn-389jVYX6SVbLbEswJ_lNEvFx",
+  "title": "Subscription Trap 168K",
+  "publish_at_manila": "2027-01-15 18:00",
+  "publish_unix": 1800007200
+ },
+ {
+  "episode": 265,
+  "folder": "EP265_Buy1-Take1-Price-Illusion",
+  "folder_id": "1vfxYwKyzvEgUpcmtNRwNR-93AjwEyudA",
+  "title": "Buy1 Take1 Price Illusion",
+  "publish_at_manila": "2027-01-15 21:00",
+  "publish_unix": 1800018000
+ },
+ {
+  "episode": 266,
+  "folder": "EP266_Late-Fee-Snowball-28K",
+  "folder_id": "1zUA8-pqtLdVE6WVe63HiSypWDZJjDCbA",
+  "title": "Late Fee Snowball 28K",
+  "publish_at_manila": "2027-01-16 08:00",
+  "publish_unix": 1800057600
+ },
+ {
+  "episode": 267,
+  "folder": "EP267_Convenience-Store-Vs-Palengke",
+  "folder_id": "16MCczIcXocQIoMa8KIrCkixpdnWGxpI1",
+  "title": "Convenience Store Vs Palengke",
+  "publish_at_manila": "2027-01-16 11:00",
+  "publish_unix": 1800068400
+ },
+ {
+  "episode": 268,
+  "folder": "EP268_Car-Depreciation-240K-Day1",
+  "folder_id": "1txHjLh0FKwiGD4QPPl6SHNogXCiVBZjA",
+  "title": "Car Depreciation 240K Day1",
+  "publish_at_manila": "2027-01-16 14:00",
+  "publish_unix": 1800079200
+ },
+ {
+  "episode": 269,
+  "folder": "EP269_Softdrinks-Daily-32K-Hospital",
+  "folder_id": "1eRwtT2L7K_myV6zxk24OIZjd5njzEmoU",
+  "title": "Softdrinks Daily 32K Hospital",
+  "publish_at_manila": "2027-01-16 18:00",
+  "publish_unix": 1800093600
+ },
+ {
+  "episode": 270,
+  "folder": "EP270_Flash-Sale-11-11-Trap",
+  "folder_id": "1inbce0kn5gXma-ooDuZ3P-RKIKq_Ww4h",
+  "title": "Flash Sale 11 11 Trap",
+  "publish_at_manila": "2027-01-16 21:00",
+  "publish_unix": 1800104400
+ },
+ {
+  "episode": 271,
+  "folder": "EP271_Overtime-Tax-Bracket-Myth",
+  "folder_id": "1G21QUm02fYImd1DBoRUIw8unwReyPLyT",
+  "title": "Overtime Tax Bracket Myth",
+  "publish_at_manila": "2027-01-17 08:00",
+  "publish_unix": 1800144000
+ },
+ {
+  "episode": 272,
+  "folder": "EP272_Pet-Hidden-Cost-48K-Year",
+  "folder_id": "1rMGub7HWl-2PUNw8t8QBn5GsIe454WTj",
+  "title": "Pet Hidden Cost 48K Year",
+  "publish_at_manila": "2027-01-17 11:00",
+  "publish_unix": 1800154800
+ },
+ {
+  "episode": 273,
+  "folder": "EP273_Installment-Phone-91K-Trap",
+  "folder_id": "1cWczNdAPuMOnAoBYDzYHSSgyYKSKrL6Z",
+  "title": "Installment Phone 91K Trap",
+  "publish_at_manila": "2027-01-17 14:00",
+  "publish_unix": 1800165600
+ },
+ {
+  "episode": 274,
+  "folder": "EP274_Motor-Hidden-Cost-7800-Mo",
+  "folder_id": "1vGCYw41I_0FhIEHzj_mkbmPBJg_QnlHi",
+  "title": "Motor Hidden Cost 7800 Mo",
+  "publish_at_manila": "2027-01-17 18:00",
+  "publish_unix": 1800180000
+ },
+ {
+  "episode": 275,
+  "folder": "EP275_Fast-Food-Vs-Baon-240K",
+  "folder_id": "1dXhwFGDrOc3wG_F_bo6b4QrQDERUZ0b6",
+  "title": "Fast Food Vs Baon 240K",
+  "publish_at_manila": "2027-01-17 21:00",
+  "publish_unix": 1800190800
+ },
+ {
+  "episode": 276,
+  "folder": "EP276_Scatter-House-Edge-Math",
+  "folder_id": "1liNlx7Qvl4URqr_awZBefGkcc_Rsbjx6",
+  "title": "Scatter House Edge Math",
+  "publish_at_manila": "2027-01-18 08:00",
+  "publish_unix": 1800230400
+ },
+ {
+  "episode": 277,
+  "folder": "EP277_Home-Renovation-Overrun-Trap",
+  "folder_id": "19zWZ8sr4FAd-DVe5-RGt0kaHLQz_pnbv",
+  "title": "Home Renovation Overrun Trap",
+  "publish_at_manila": "2027-01-18 11:00",
+  "publish_unix": 1800241200
+ },
+ {
+  "episode": 278,
+  "folder": "EP278_Extended-Warranty-Trap",
+  "folder_id": "15O3sItE0kSf-9_-mwuEKrsywmtqrZE3i",
+  "title": "Extended Warranty Trap",
+  "publish_at_manila": "2027-01-18 14:00",
+  "publish_unix": 1800252000
+ },
+ {
+  "episode": 279,
+  "folder": "EP279_Valentines-1100-Markup-Hack",
+  "folder_id": "14g442U3Q3YEkNnW9_0-BB17SAFa6nfU0",
+  "title": "Valentines 1100 Markup Hack",
+  "publish_at_manila": "2027-01-18 18:00",
+  "publish_unix": 1800266400
+ },
+ {
+  "episode": 280,
+  "folder": "EP280_Daily-100-300-500-To-1M",
+  "folder_id": "1Zx8mksBYXGfqVKcNWBcYSab-Zhjq8tuz",
+  "title": "Daily 100 300 500 To 1M",
+  "publish_at_manila": "2027-01-18 21:00",
+  "publish_unix": 1800277200
+ },
+ {
+  "episode": 281,
+  "folder": "EP281_Lugaw-Tokwa-5AM-54K",
+  "folder_id": "1KnhzbK0zljbSIEnoVm1CaSQ0BUJDdKXo",
+  "title": "Lugaw Tokwa 5AM 54K",
+  "publish_at_manila": "2027-01-19 08:00",
+  "publish_unix": 1800316800
+ },
+ {
+  "episode": 282,
+  "folder": "EP282_Balloon-Styling-Events-Biz",
+  "folder_id": "1WIK9bObbe4tq2eR5I-Ljj9lbEM0nSsqE",
+  "title": "Balloon Styling Events Biz",
+  "publish_at_manila": "2027-01-19 11:00",
+  "publish_unix": 1800327600
+ },
+ {
+  "episode": 283,
+  "folder": "EP283_Mobile-Coffee-Cart-95K",
+  "folder_id": "1Uttq4jQx4-hN0Yj4lxlCApnkT8AFXur0",
+  "title": "Mobile Coffee Cart 95K",
+  "publish_at_manila": "2027-01-19 14:00",
+  "publish_unix": 1800338400
+ },
+ {
+  "episode": 284,
+  "folder": "EP284_Sofa-Mattress-Cleaning-90K",
+  "folder_id": "137suSsym3TcNEiI8cS-VQkVpEx82KjCe",
+  "title": "Sofa Mattress Cleaning 90K",
+  "publish_at_manila": "2027-01-19 18:00",
+  "publish_unix": 1800352800
+ },
+ {
+  "episode": 285,
+  "folder": "EP285_Charcoal-Uling-Wholesale-70K",
+  "folder_id": "1yT_C4R-G7GGzi3dv8hDaUtBosS8zSU4d",
+  "title": "Charcoal Uling Wholesale 70K",
+  "publish_at_manila": "2027-01-19 21:00",
+  "publish_unix": 1800363600
+ },
+ {
+  "episode": 286,
+  "folder": "EP286_Kakanin-Morning-Route-45K",
+  "folder_id": "1HpJTGkWpr7KMKWd02O2s8VAUtvi9ZM5Q",
+  "title": "Kakanin Morning Route 45K",
+  "publish_at_manila": "2027-01-20 08:00",
+  "publish_unix": 1800403200
+ },
+ {
+  "episode": 287,
+  "folder": "EP287_360-Photobooth-Events-ROI",
+  "folder_id": "1pFB743KhbpX_Dk6L9mPzGjlm9_N4BZQJ",
+  "title": "360 Photobooth Events ROI",
+  "publish_at_manila": "2027-01-20 11:00",
+  "publish_unix": 1800414000
+ },
+ {
+  "episode": 288,
+  "folder": "EP288_Motor-Seat-Upholstery-85K",
+  "folder_id": "1Ua2l8VmamgecgHc-Jz3HES5qKjlQeXfm",
+  "title": "Motor Seat Upholstery 85K",
+  "publish_at_manila": "2027-01-20 14:00",
+  "publish_unix": 1800424800
+ },
+ {
+  "episode": 289,
+  "folder": "EP289_Banana-Chips-Repack-52K",
+  "folder_id": "1tVD7wteu9l5w4c3W7pkQqcLERBvc0oRQ",
+  "title": "Banana Chips Repack 52K",
+  "publish_at_manila": "2027-01-20 18:00",
+  "publish_unix": 1800439200
+ },
+ {
+  "episode": 290,
+  "folder": "EP290_CCTV-Installation-80K",
+  "folder_id": "1WCJlfxHeIiSg06OH2W9UipriszUemAia",
+  "title": "CCTV Installation 80K",
+  "publish_at_manila": "2027-01-20 21:00",
+  "publish_unix": 1800450000
+ },
+ {
+  "episode": 291,
+  "folder": "EP291_LPG-Delivery-Barangay-75K",
+  "folder_id": "1P-i9VFAGDWMedGad4JyKn0Nec2KtUTWf",
+  "title": "LPG Delivery Barangay 75K",
+  "publish_at_manila": "2027-01-21 08:00",
+  "publish_unix": 1800489600
+ },
+ {
+  "episode": 292,
+  "folder": "EP292_Grave-Cleaning-OFW-60K",
+  "folder_id": "1ypLpEi2tAdlxCpxTD4udZZgpwQUhQKcX",
+  "title": "Grave Cleaning OFW 60K",
+  "publish_at_manila": "2027-01-21 11:00",
+  "publish_unix": 1800500400
+ },
+ {
+  "episode": 293,
+  "folder": "EP293_Ukay-Shoes-Restore-58K",
+  "folder_id": "1PIhCcS5McM0MS_W_LFrDQRrC6jkNMAqD",
+  "title": "Ukay Shoes Restore 58K",
+  "publish_at_manila": "2027-01-21 14:00",
+  "publish_unix": 1800511200
+ },
+ {
+  "episode": 294,
+  "folder": "EP294_Chili-Garlic-Jar-78K",
+  "folder_id": "1j6P-W9KHBevl_AlnBid7OS8T3Qi0PaWv",
+  "title": "Chili Garlic Jar 78K",
+  "publish_at_manila": "2027-01-21 18:00",
+  "publish_unix": 1800525600
+ },
+ {
+  "episode": 295,
+  "folder": "EP295_Videoke-Rental-4-Units-48K",
+  "folder_id": "1X-E1kj72XJsekaZLiFkhty9WfIe1yEsm",
+  "title": "Videoke Rental 4 Units 48K",
+  "publish_at_manila": "2027-01-21 21:00",
+  "publish_unix": 1800536400
+ },
+ {
+  "episode": 296,
+  "folder": "EP296_Buko-Shake-Cart-68K",
+  "folder_id": "1t68AQSbAHRQ4tqQCoCXIyNlci7-7T6YE",
+  "title": "Buko Shake Cart 68K",
+  "publish_at_manila": "2027-01-22 08:00",
+  "publish_unix": 1800576000
+ },
+ {
+  "episode": 297,
+  "folder": "EP297_Pest-Control-Condo-110K",
+  "folder_id": "1iivp2RiUqUbWInV2521OoQPPogUXVMvI",
+  "title": "Pest Control Condo 110K",
+  "publish_at_manila": "2027-01-22 11:00",
+  "publish_unix": 1800586800
+ },
+ {
+  "episode": 298,
+  "folder": "EP298_DTF-Shirt-Printing-72K",
+  "folder_id": "1vwQa-ZVXdC7KfDnImmbRTwpKgsitdj0H",
+  "title": "DTF Shirt Printing 72K",
+  "publish_at_manila": "2027-01-22 14:00",
+  "publish_unix": 1800597600
+ },
+ {
+  "episode": 299,
+  "folder": "EP299_Indoor-Plant-Condo-55K",
+  "folder_id": "10LmP0luZwcCFWzW3ojitShA8dPkb63wO",
+  "title": "Indoor Plant Condo 55K",
+  "publish_at_manila": "2027-01-22 18:00",
+  "publish_unix": 1800612000
+ },
+ {
+  "episode": 300,
+  "folder": "EP300_EP300-Top-3-Negosyo-Under-10K",
+  "folder_id": "1vkJc5Qc9jc1juTibnEkDGYKYIGCtRu63",
+  "title": "EP300 Top 3 Negosyo Under 10K",
+  "publish_at_manila": "2027-01-22 21:00",
+  "publish_unix": 1800622800
+ },
+ {
+  "episode": 301,
+  "folder": "EP301_UGC-Creator-Zero-Followers-40K",
+  "folder_id": "10tUi_SoaVE3k9UL9_HOoXl-jmBRjKP_A",
+  "title": "UGC Creator Zero Followers 40K",
+  "publish_at_manila": "2027-01-23 08:00",
+  "publish_unix": 1800662400
+ },
+ {
+  "episode": 302,
+  "folder": "EP302_Shopify-Store-Setup-88K",
+  "folder_id": "1tW8t4TeMRspAz6AUSnVu-BwCF6nrhMvK",
+  "title": "Shopify Store Setup 88K",
+  "publish_at_manila": "2027-01-23 11:00",
+  "publish_unix": 1800673200
+ },
+ {
+  "episode": 303,
+  "folder": "EP303_YouTube-Thumbnail-Designer-72K",
+  "folder_id": "17YKgxMGnBa1jw0YKKsBVzf22LWw-FkSZ",
+  "title": "YouTube Thumbnail Designer 72K",
+  "publish_at_manila": "2027-01-23 14:00",
+  "publish_unix": 1800684000
+ },
+ {
+  "episode": 304,
+  "folder": "EP304_AI-Chatbot-Local-Clinics",
+  "folder_id": "1Omu5dOdzeZmZcsztpmp1lKvPHzNt0NO8",
+  "title": "AI Chatbot Local Clinics",
+  "publish_at_manila": "2027-01-23 18:00",
+  "publish_unix": 1800698400
+ },
+ {
+  "episode": 305,
+  "folder": "EP305_Short-Form-Video-Editor-90K",
+  "folder_id": "15J66vc3Mxgt1rzEZzJ2Nf_WqIfUhmrNP",
+  "title": "Short Form Video Editor 90K",
+  "publish_at_manila": "2027-01-23 21:00",
+  "publish_unix": 1800709200
+ },
+ {
+  "episode": 306,
+  "folder": "EP306_Airbnb-CoHost-Zero-Condo-50K",
+  "folder_id": "11p9SohiqFf3OyeCMMaqEYNPJIu43bcgg",
+  "title": "Airbnb CoHost Zero Condo 50K",
+  "publish_at_manila": "2027-01-24 08:00",
+  "publish_unix": 1800748800
+ },
+ {
+  "episode": 307,
+  "folder": "EP307_Google-Sheets-Etsy-Passive",
+  "folder_id": "1GaxobOR-IPCaYdaQ-5sqtb7h-Y9SCyts",
+  "title": "Google Sheets Etsy Passive",
+  "publish_at_manila": "2027-01-24 11:00",
+  "publish_unix": 1800759600
+ },
+ {
+  "episode": 308,
+  "folder": "EP308_Online-Tutor-PartTime-45K",
+  "folder_id": "1eqgiupOuC_9_Bv78tUpKaVNf_ZNJlBZR",
+  "title": "Online Tutor PartTime 45K",
+  "publish_at_manila": "2027-01-24 14:00",
+  "publish_unix": 1800770400
+ },
+ {
+  "episode": 309,
+  "folder": "EP309_Podcast-Clipper-Service-70K",
+  "folder_id": "1nIlg3qY593PdD70v4gUOpzoxa1d8oYbb",
+  "title": "Podcast Clipper Service 70K",
+  "publish_at_manila": "2027-01-24 18:00",
+  "publish_unix": 1800784800
+ },
+ {
+  "episode": 310,
+  "folder": "EP310_Google-Maps-SEO-Local-50K",
+  "folder_id": "1Mr0vpgzSoeKd7IWHBjvzOuMYZwmiHfSW",
+  "title": "Google Maps SEO Local 50K",
+  "publish_at_manila": "2027-01-24 21:00",
+  "publish_unix": 1800795600
+ },
+ {
+  "episode": 311,
+  "folder": "EP311_Bookkeeping-VA-QuickBooks-100K",
+  "folder_id": "1at401mKrJ8jonmI1e6b8BS4rsdl3Lizn",
+  "title": "Bookkeeping VA QuickBooks 100K",
+  "publish_at_manila": "2027-01-25 08:00",
+  "publish_unix": 1800835200
+ },
+ {
+  "episode": 312,
+  "folder": "EP312_TikTok-Live-Host-Zero-Capital",
+  "folder_id": "14JY1nLSVwqLSSJNxt0y2H1QG10a1H88G",
+  "title": "TikTok Live Host Zero Capital",
+  "publish_at_manila": "2027-01-25 11:00",
+  "publish_unix": 1800846000
+ },
+ {
+  "episode": 313,
+  "folder": "EP313_Resume-LinkedIn-Service-52K",
+  "folder_id": "1MV4TvnLXw7iSS25vN5w91FXfITpOC84Q",
+  "title": "Resume LinkedIn Service 52K",
+  "publish_at_manila": "2027-01-25 14:00",
+  "publish_unix": 1800856800
+ },
+ {
+  "episode": 314,
+  "folder": "EP314_Notion-Template-Creator-74K",
+  "folder_id": "1pgrCF5EPQxL_js9ZFkTKLjrn3d_-YHDq",
+  "title": "Notion Template Creator 74K",
+  "publish_at_manila": "2027-01-25 18:00",
+  "publish_unix": 1800871200
+ },
+ {
+  "episode": 315,
+  "folder": "EP315_Tagalog-Voiceover-Home-Hustle",
+  "folder_id": "1Ljv_Su2PQMdRs2ujrt25k7ZsfUPmb8lN",
+  "title": "Tagalog Voiceover Home Hustle",
+  "publish_at_manila": "2027-01-25 21:00",
+  "publish_unix": 1800882000
+ },
+ {
+  "episode": 316,
+  "folder": "EP316_FB-Ads-Media-Buyer-75K",
+  "folder_id": "1tTJlmha1LaLySJpO1R0NyakUcWu_YT8-",
+  "title": "FB Ads Media Buyer 75K",
+  "publish_at_manila": "2027-01-26 08:00",
+  "publish_unix": 1800921600
+ },
+ {
+  "episode": 317,
+  "folder": "EP317_Local-PH-Dropshipping-TikTok",
+  "folder_id": "1UsMAU2fbboiO4LFDfv_V2lhgfHlsEh-a",
+  "title": "Local PH Dropshipping TikTok",
+  "publish_at_manila": "2027-01-26 11:00",
+  "publish_unix": 1800932400
+ },
+ {
+  "episode": 318,
+  "folder": "EP318_AI-Pitch-Deck-Designer",
+  "folder_id": "1Yyg8gJbQFvRR6POyA-bCVSgEcD_99y4P",
+  "title": "AI Pitch Deck Designer",
+  "publish_at_manila": "2027-01-26 14:00",
+  "publish_unix": 1800943200
+ },
+ {
+  "episode": 319,
+  "folder": "EP319_Zoom-Webinar-Tech-VA",
+  "folder_id": "1CN3Yw8E0sUADbP3wwHc680KQRDRDXHCC",
+  "title": "Zoom Webinar Tech VA",
+  "publish_at_manila": "2027-01-26 18:00",
+  "publish_unix": 1800957600
+ },
+ {
+  "episode": 320,
+  "folder": "EP320_5K-Followers-100K-Math",
+  "folder_id": "1lI5qp89zk1fFj1dJW68rC-mm3LLnaQqW",
+  "title": "5K Followers 100K Math",
+  "publish_at_manila": "2027-01-26 21:00",
+  "publish_unix": 1800968400
+ },
+ {
+  "episode": 321,
+  "folder": "EP321_PagIBIG-Vs-Bank-Housing-Loan",
+  "folder_id": "1jp-qwBl87dd85-xaEo-Q5QexLSy4-fP2",
+  "title": "PagIBIG Vs Bank Housing Loan",
+  "publish_at_manila": "2027-01-27 08:00",
+  "publish_unix": 1801008000
+ },
+ {
+  "episode": 322,
+  "folder": "EP322_Raw-Land-350-To-3200-Sqm",
+  "folder_id": "1EJB0xhXo_p9_MwhWa1_87LOTZQwUVVCS",
+  "title": "Raw Land 350 To 3200 Sqm",
+  "publish_at_manila": "2027-01-27 11:00",
+  "publish_unix": 1801018800
+ },
+ {
+  "episode": 323,
+  "folder": "EP323_Condo-HOA-Dues-Hidden-Cost",
+  "folder_id": "1RJoxKBuEaZtH91nc_kFMIDB5A4HnDnAw",
+  "title": "Condo HOA Dues Hidden Cost",
+  "publish_at_manila": "2027-01-27 14:00",
+  "publish_unix": 1801029600
+ },
+ {
+  "episode": 324,
+  "folder": "EP324_Advance-Principal-Cut-9-Years",
+  "folder_id": "1DKXsF46x2a3rSmeelBLU5nr2hVVvI3KI",
+  "title": "Advance Principal Cut 9 Years",
+  "publish_at_manila": "2027-01-27 18:00",
+  "publish_unix": 1801044000
+ },
+ {
+  "episode": 325,
+  "folder": "EP325_Tax-Declaration-Only-Danger",
+  "folder_id": "1sIN58ScHPQPTOHuIHYMiVvX0ZGQOQQ1e",
+  "title": "Tax Declaration Only Danger",
+  "publish_at_manila": "2027-01-27 21:00",
+  "publish_unix": 1801054800
+ },
+ {
+  "episode": 326,
+  "folder": "EP326_Subdivide-Farm-Lot-2M-Profit",
+  "folder_id": "13RMnBkreU-owNh-zrSB07EODA5fQWc3o",
+  "title": "Subdivide Farm Lot 2M Profit",
+  "publish_at_manila": "2027-01-28 08:00",
+  "publish_unix": 1801094400
+ },
+ {
+  "episode": 327,
+  "folder": "EP327_Apartment-4-Doors-ROI-2026",
+  "folder_id": "1R17-7FGx9gu-wh83wSl5nD2VP14EGynI",
+  "title": "Apartment 4 Doors ROI 2026",
+  "publish_at_manila": "2027-01-28 11:00",
+  "publish_unix": 1801105200
+ },
+ {
+  "episode": 328,
+  "folder": "EP328_Bank-Repo-Car-35-Off",
+  "folder_id": "1N1X2adAnYNYp4N1TPDc__QygxkBosLc_",
+  "title": "Bank Repo Car 35 Off",
+  "publish_at_manila": "2027-01-28 14:00",
+  "publish_unix": 1801116000
+ },
+ {
+  "episode": 329,
+  "folder": "EP329_Right-Of-Way-Landlocked-Trap",
+  "folder_id": "1Fj1m0LltJ8eQas3E7WZpbFD2oMflxoIg",
+  "title": "Right Of Way Landlocked Trap",
+  "publish_at_manila": "2027-01-28 18:00",
+  "publish_unix": 1801130400
+ },
+ {
+  "episode": 330,
+  "folder": "EP330_Condo-Parking-Slot-Rental",
+  "folder_id": "1qI4MbSwzY82tyIFf5jApqHIJ4iFH-r6X",
+  "title": "Condo Parking Slot Rental",
+  "publish_at_manila": "2027-01-28 21:00",
+  "publish_unix": 1801141200
+ },
+ {
+  "episode": 331,
+  "folder": "EP331_Pakyawan-Vs-Arawan-Bahay",
+  "folder_id": "1UiQwAaDnYPYC09wGFNzGqKH1wfQWsraQ",
+  "title": "Pakyawan Vs Arawan Bahay",
+  "publish_at_manila": "2027-01-29 08:00",
+  "publish_unix": 1801180800
+ },
+ {
+  "episode": 332,
+  "folder": "EP332_Ground-Floor-Shop-Pays-Loan",
+  "folder_id": "17OkyJ6r3Kv48B8_ayUC1jda505klFp-8",
+  "title": "Ground Floor Shop Pays Loan",
+  "publish_at_manila": "2027-01-29 11:00",
+  "publish_unix": 1801191600
+ },
+ {
+  "episode": 333,
+  "folder": "EP333_Repo-Motor-38K-Vs-118K",
+  "folder_id": "1Osl1ieLnHBh1Kf4Noq7sx_KFP52eC81F",
+  "title": "Repo Motor 38K Vs 118K",
+  "publish_at_manila": "2027-01-29 14:00",
+  "publish_unix": 1801202400
+ },
+ {
+  "episode": 334,
+  "folder": "EP334_Flood-Zone-Project-NOAH-Check",
+  "folder_id": "1a6Wwl59jZ2Zf0kT7H-3aUj2-cYdiHBWv",
+  "title": "Flood Zone Project NOAH Check",
+  "publish_at_manila": "2027-01-29 18:00",
+  "publish_unix": 1801216800
+ },
+ {
+  "episode": 335,
+  "folder": "EP335_Mall-Stall-Lease-Key-Money-Trap",
+  "folder_id": "1qY7p8-DUfYfxoYsTs7LfDXRLc410gzoz",
+  "title": "Mall Stall Lease Key Money Trap",
+  "publish_at_manila": "2027-01-29 21:00",
+  "publish_unix": 1801227600
+ },
+ {
+  "episode": 336,
+  "folder": "EP336_Title-Transfer-Hidden-120K",
+  "folder_id": "1ntm6ShR2zNwLL-S2YTzC8_V0wykp1qGk",
+  "title": "Title Transfer Hidden 120K",
+  "publish_at_manila": "2027-01-30 08:00",
+  "publish_unix": 1801267200
+ },
+ {
+  "episode": 337,
+  "folder": "EP337_Solar-Hybrid-Probinsya-ROI",
+  "folder_id": "1abbXe9VPendRsPlktSOZPiQ692aQGymV",
+  "title": "Solar Hybrid Probinsya ROI",
+  "publish_at_manila": "2027-01-30 11:00",
+  "publish_unix": 1801278000
+ },
+ {
+  "episode": 338,
+  "folder": "EP338_Container-Van-Airbnb-ROI",
+  "folder_id": "18Ei7FcC5V45AcsuV5HsWBiEGvQFevxV0",
+  "title": "Container Van Airbnb ROI",
+  "publish_at_manila": "2027-01-30 14:00",
+  "publish_unix": 1801288800
+ },
+ {
+  "episode": 339,
+  "folder": "EP339_Rent-Smart-Invest-3M-Ahead",
+  "folder_id": "1w58JOGZMEQ3K7geVRsad0AfnmSTQAEkP",
+  "title": "Rent Smart Invest 3M Ahead",
+  "publish_at_manila": "2027-01-30 18:00",
+  "publish_unix": 1801303200
+ },
+ {
+  "episode": 340,
+  "folder": "EP340_5-Red-Flags-Deed-Of-Sale",
+  "folder_id": "1jrUyxzLnk2loLiILx0enV0eAXdpdZOye",
+  "title": "5 Red Flags Deed Of Sale",
+  "publish_at_manila": "2027-01-30 21:00",
+  "publish_unix": 1801314000
+ },
+ {
+  "episode": 341,
+  "folder": "EP341_CIC-Credit-Score-PH-Hack",
+  "folder_id": "1D8OrAB042qEVpDBSlq7TzzyrSUXcJwxn",
+  "title": "CIC Credit Score PH Hack",
+  "publish_at_manila": "2027-01-31 08:00",
+  "publish_unix": 1801353600
+ },
+ {
+  "episode": 342,
+  "folder": "EP342_PDIC-1M-Bank-Insurance",
+  "folder_id": "1cU3sajHLzNz7Q_IF1e2_gUNPs-8pQ-yg",
+  "title": "PDIC 1M Bank Insurance",
+  "publish_at_manila": "2027-01-31 11:00",
+  "publish_unix": 1801364400
+ },
+ {
+  "episode": 343,
+  "folder": "EP343_Credit-Card-Waive-Annual-Fee",
+  "folder_id": "1EGi2daDL2XY45dwShAM9BfkcCyeGM2Qt",
+  "title": "Credit Card Waive Annual Fee",
+  "publish_at_manila": "2027-01-31 14:00",
+  "publish_unix": 1801375200
+ },
+ {
+  "episode": 344,
+  "folder": "EP344_BIR-8-Percent-Freelancer-Tax",
+  "folder_id": "1ScihjWsukLuagEMxREuEThAkf3uOQv2i",
+  "title": "BIR 8 Percent Freelancer Tax",
+  "publish_at_manila": "2027-01-31 18:00",
+  "publish_unix": 1801389600
+ },
+ {
+  "episode": 345,
+  "folder": "EP345_SSS-Last-5-Years-Pension-Hack",
+  "folder_id": "1fRkvZVSSxg9zliytwTbimX05t7mmBZlS",
+  "title": "SSS Last 5 Years Pension Hack",
+  "publish_at_manila": "2027-01-31 21:00",
+  "publish_unix": 1801400400
+ },
+ {
+  "episode": 346,
+  "folder": "EP346_PhilHealth-Free-Checkup-Labs",
+  "folder_id": "1e96Ds-S9ALnxNQvwPQ_pVfnSiSNWpZkO",
+  "title": "PhilHealth Free Checkup Labs",
+  "publish_at_manila": "2027-02-01 08:00",
+  "publish_unix": 1801440000
+ },
+ {
+  "episode": 347,
+  "folder": "EP347_MP2-5-Account-Ladder-Hack",
+  "folder_id": "1TtkocRnjgMw0Nxc0dAox8bzZdSzFB3la",
+  "title": "MP2 5 Account Ladder Hack",
+  "publish_at_manila": "2027-02-01 11:00",
+  "publish_unix": 1801450800
+ },
+ {
+  "episode": 348,
+  "folder": "EP348_Visa-Denied-Show-Money-Trap",
+  "folder_id": "1X53qPkra84sj4cM5ExNQa7EelfeJpZxy",
+  "title": "Visa Denied Show Money Trap",
+  "publish_at_manila": "2027-02-01 14:00",
+  "publish_unix": 1801461600
+ },
+ {
+  "episode": 349,
+  "folder": "EP349_Small-Claims-Court-Utang-PH",
+  "folder_id": "1pQUUp7gnTd27a6wMlwvewDR6IYBUMD0A",
+  "title": "Small Claims Court Utang PH",
+  "publish_at_manila": "2027-02-01 18:00",
+  "publish_unix": 1801476000
+ },
+ {
+  "episode": 350,
+  "folder": "EP350_BP22-Estafa-Kulong-Truth",
+  "folder_id": "1oj6oj3APQw47Ko4Jc9_57LYYWecRY1FN",
+  "title": "BP22 Estafa Kulong Truth",
+  "publish_at_manila": "2027-02-01 21:00",
+  "publish_unix": 1801486800
+ },
+ {
+  "episode": 351,
+  "folder": "EP351_Senior-PWD-28-Percent-Math",
+  "folder_id": "1TGT7d2_cuL_McNjPDOgYJUTAnfoh7eGk",
+  "title": "Senior PWD 28 Percent Math",
+  "publish_at_manila": "2027-02-02 08:00",
+  "publish_unix": 1801526400
+ },
+ {
+  "episode": 352,
+  "folder": "EP352_Debit-Vs-Credit-Fraud-Rule",
+  "folder_id": "1_p96Y3tQfjiP3N_ccEbhT2xshEwgPzW9",
+  "title": "Debit Vs Credit Fraud Rule",
+  "publish_at_manila": "2027-02-02 11:00",
+  "publish_unix": 1801537200
+ },
+ {
+  "episode": 353,
+  "folder": "EP353_Time-Deposit-Ladder-Monthly",
+  "folder_id": "1i428PdnXMbRuGUwVMPevikKbqBeKZjTl",
+  "title": "Time Deposit Ladder Monthly",
+  "publish_at_manila": "2027-02-02 14:00",
+  "publish_unix": 1801548000
+ },
+ {
+  "episode": 354,
+  "folder": "EP354_Holographic-Will-Legal-PH",
+  "folder_id": "1FHQa3T1DqcSXoOvJe6hsZLUYiZ8gHl0_",
+  "title": "Holographic Will Legal PH",
+  "publish_at_manila": "2027-02-02 18:00",
+  "publish_unix": 1801562400
+ },
+ {
+  "episode": 355,
+  "folder": "EP355_Joint-Account-AND-vs-OR",
+  "folder_id": "1sMhewTh7C4P85kgd02svmhiQeVh0gVVj",
+  "title": "Joint Account AND vs OR",
+  "publish_at_manila": "2027-02-02 21:00",
+  "publish_unix": 1801573200
+ },
+ {
+  "episode": 356,
+  "folder": "EP356_DTI-Without-BIR-45K-Penalty",
+  "folder_id": "1mDOt2hGssF1eeEBd6qdH4n_IZyqMZ-Ri",
+  "title": "DTI Without BIR 45K Penalty",
+  "publish_at_manila": "2027-02-03 08:00",
+  "publish_unix": 1801612800
+ },
+ {
+  "episode": 357,
+  "folder": "EP357_Balance-Transfer-Save-42K",
+  "folder_id": "1gW8UZ9z_cq1QCJXk7DOVrxH3f9g91YaZ",
+  "title": "Balance Transfer Save 42K",
+  "publish_at_manila": "2027-02-03 11:00",
+  "publish_unix": 1801623600
+ },
+ {
+  "episode": 358,
+  "folder": "EP358_RTB-5K-Govt-Bonds-Secret",
+  "folder_id": "1bhIX_zg-jS778ktwLxedHlwUe-AlBg9b",
+  "title": "RTB 5K Govt Bonds Secret",
+  "publish_at_manila": "2027-02-03 14:00",
+  "publish_unix": 1801634400
+ },
+ {
+  "episode": 359,
+  "folder": "EP359_Airport-Forex-8-Percent-Loss",
+  "folder_id": "10yW3_ndU99PtzX6LE4b7hQmeeRaAYRaA",
+  "title": "Airport Forex 8 Percent Loss",
+  "publish_at_manila": "2027-02-03 18:00",
+  "publish_unix": 1801648800
+ },
+ {
+  "episode": 360,
+  "folder": "EP360_Malasakit-Center-Zero-Bill",
+  "folder_id": "1Dj69RI5Tls9jICdZR-M2XdrQRtvwBfSh",
+  "title": "Malasakit Center Zero Bill",
+  "publish_at_manila": "2027-02-03 21:00",
+  "publish_unix": 1801659600
+ },
+ {
+  "episode": 361,
+  "folder": "EP361_OFW-10-Years-4800K-Zero-Left",
+  "folder_id": "1K3ywld0FthZazJYwNWwGiBJwYEGSDOz8",
+  "title": "OFW 10 Years 4800K Zero Left",
+  "publish_at_manila": "2027-02-04 08:00",
+  "publish_unix": 1801699200
+ },
+ {
+  "episode": 362,
+  "folder": "EP362_OFW-70-30-Dual-Account-Rule",
+  "folder_id": "10wB7lZP7UjX0qDmH9sQF5lYjHjsy_CwX",
+  "title": "OFW 70 30 Dual Account Rule",
+  "publish_at_manila": "2027-02-04 11:00",
+  "publish_unix": 1801710000
+ },
+ {
+  "episode": 363,
+  "folder": "EP363_Seafarer-Vacation-Broke-Trap",
+  "folder_id": "1HvlKa69Lz94RTUf93oVnJQFVcZyMi4hb",
+  "title": "Seafarer Vacation Broke Trap",
+  "publish_at_manila": "2027-02-04 14:00",
+  "publish_unix": 1801720800
+ },
+ {
+  "episode": 364,
+  "folder": "EP364_OFW-Fake-Biz-Managed-Relatives",
+  "folder_id": "1kgUFp_mO8NJSWxjRYAfH1644I01OvkBo",
+  "title": "OFW Fake Biz Managed Relatives",
+  "publish_at_manila": "2027-02-04 18:00",
+  "publish_unix": 1801735200
+ },
+ {
+  "episode": 365,
+  "folder": "EP365_OFW-Forex-Remittance-54K-Leak",
+  "folder_id": "1VkhxRvm5eiwrZXlL8GMKjoXnGa5igsR4",
+  "title": "OFW Forex Remittance 54K Leak",
+  "publish_at_manila": "2027-02-04 21:00",
+  "publish_unix": 1801746000
+ },
+ {
+  "episode": 366,
+  "folder": "EP366_OFW-Health-Collapse-WakeUp",
+  "folder_id": "1nSbdzHbNMJFExe8E7pJLibKtXKUKCA6d",
+  "title": "OFW Health Collapse WakeUp",
+  "publish_at_manila": "2027-02-05 08:00",
+  "publish_unix": 1801785600
+ },
+ {
+  "episode": 367,
+  "folder": "EP367_OFW-5-Year-Exit-Blueprint",
+  "folder_id": "1y0NEmU-KeADEK2iDMnXL3Bq4vQ8IcUNq",
+  "title": "OFW 5 Year Exit Blueprint",
+  "publish_at_manila": "2027-02-05 11:00",
+  "publish_unix": 1801796400
+ },
+ {
+  "episode": 368,
+  "folder": "EP368_OFW-Remote-House-Buying-Scam",
+  "folder_id": "1cMVcCTDVmXI0Lk4ilUI-GSiNDpiuiu6X",
+  "title": "OFW Remote House Buying Scam",
+  "publish_at_manila": "2027-02-05 14:00",
+  "publish_unix": 1801807200
+ },
+ {
+  "episode": 369,
+  "folder": "EP369_OFW-Pasalubong-Box-25K-Trap",
+  "folder_id": "1GUM_v0neRGrttt5rhKXIf-wgaPRZ1tpl",
+  "title": "OFW Pasalubong Box 25K Trap",
+  "publish_at_manila": "2027-02-05 18:00",
+  "publish_unix": 1801821600
+ },
+ {
+  "episode": 370,
+  "folder": "EP370_Seafarer-Wife-1M-To-6M-Twist",
+  "folder_id": "12y3bv4W3NvpJzdrWpm8C2Mv60FTArZ61",
+  "title": "Seafarer Wife 1M To 6M Twist",
+  "publish_at_manila": "2027-02-05 21:00",
+  "publish_unix": 1801832400
+ },
+ {
+  "episode": 371,
+  "folder": "EP371_OFW-DH-HK-Saved-2M",
+  "folder_id": "1AvV_QwealysvGFbRhcjpF22NG9ycZ1Jx",
+  "title": "OFW DH HK Saved 2M",
+  "publish_at_manila": "2027-02-06 08:00",
+  "publish_unix": 1801872000
+ },
+ {
+  "episode": 372,
+  "folder": "EP372_OFW-Snow-Photo-Vs-Sardinas",
+  "folder_id": "1S2vbMQEJWMNZ7qQ8MLuIeZMXbD4i1sHr",
+  "title": "OFW Snow Photo Vs Sardinas",
+  "publish_at_manila": "2027-02-06 11:00",
+  "publish_unix": 1801882800
+ },
+ {
+  "episode": 373,
+  "folder": "EP373_OFW-OWWA-Free-Grants-60K",
+  "folder_id": "1d5-zdW4QhgKkbpcMHPJ_z47ee8beWgzb",
+  "title": "OFW OWWA Free Grants 60K",
+  "publish_at_manila": "2027-02-06 14:00",
+  "publish_unix": 1801893600
+ },
+ {
+  "episode": 374,
+  "folder": "EP374_OFW-Kids-Entitled-iPhone-Lesson",
+  "folder_id": "1cWwvLCrdjO7pnPB2ygoJwNuijNQ4G6Qv",
+  "title": "OFW Kids Entitled iPhone Lesson",
+  "publish_at_manila": "2027-02-06 18:00",
+  "publish_unix": 1801908000
+ },
+ {
+  "episode": 375,
+  "folder": "EP375_OFW-Age-55-No-Contract-WakeUp",
+  "folder_id": "1DuGJTtU6Up4MZh2rE5aZf7lz9UY_yJO3",
+  "title": "OFW Age 55 No Contract WakeUp",
+  "publish_at_manila": "2027-02-06 21:00",
+  "publish_unix": 1801918800
+ },
+ {
+  "episode": 376,
+  "folder": "EP376_OFW-Japan-Caregiver-Real-Math",
+  "folder_id": "1mrP8orTWrFYyXcG0nfcgz5Vm9zQwD_v0",
+  "title": "OFW Japan Caregiver Real Math",
+  "publish_at_manila": "2027-02-07 08:00",
+  "publish_unix": 1801958400
+ },
+ {
+  "episode": 377,
+  "folder": "EP377_OFW-Remote-Laundry-CCTV-POS",
+  "folder_id": "1bxuOWA6HwId-fjNbnu6Jcnxh8ZFiTFQT",
+  "title": "OFW Remote Laundry CCTV POS",
+  "publish_at_manila": "2027-02-07 11:00",
+  "publish_unix": 1801969200
+ },
+ {
+  "episode": 378,
+  "folder": "EP378_OFW-Fixed-25K-Allowance-Rule",
+  "folder_id": "1luLJBET28euwddGDp66HCVzkpmg91jUp",
+  "title": "OFW Fixed 25K Allowance Rule",
+  "publish_at_manila": "2027-02-07 14:00",
+  "publish_unix": 1801980000
+ },
+ {
+  "episode": 379,
+  "folder": "EP379_OFW-4M-Mansion-Vs-Apartment",
+  "folder_id": "1hG0-Rd5FsDeBqFBl9WzZEZjx60sGRZre",
+  "title": "OFW 4M Mansion Vs Apartment",
+  "publish_at_manila": "2027-02-07 18:00",
+  "publish_unix": 1801994400
+ },
+ {
+  "episode": 380,
+  "folder": "EP380_OFW-Deserves-Retirement-Too",
+  "folder_id": "1ZmP-NY7QnGXXaveHWpjxoSi5EDB-iq3-",
+  "title": "OFW Deserves Retirement Too",
+  "publish_at_manila": "2027-02-07 21:00",
+  "publish_unix": 1802005200
+ },
+ {
+  "episode": 381,
+  "folder": "EP381_50-50-Vs-Proportional-Bills",
+  "folder_id": "14cm_0IcmQHiQzJpYFVWUfI1E0zEk6DCN",
+  "title": "50 50 Vs Proportional Bills",
+  "publish_at_manila": "2027-02-08 08:00",
+  "publish_unix": 1802044800
+ },
+ {
+  "episode": 382,
+  "folder": "EP382_4-Money-Red-Flags-Partner",
+  "folder_id": "1awBFr8SOEsZO3mTpARtuKr8WKvShoPxY",
+  "title": "4 Money Red Flags Partner",
+  "publish_at_manila": "2027-02-08 11:00",
+  "publish_unix": 1802055600
+ },
+ {
+  "episode": 383,
+  "folder": "EP383_Couple-3-Account-System",
+  "folder_id": "1BxiLvKuRcNxVwxGeJ_CCJbYl1XZwel1s",
+  "title": "Couple 3 Account System",
+  "publish_at_manila": "2027-02-08 14:00",
+  "publish_unix": 1802066400
+ },
+ {
+  "episode": 384,
+  "folder": "EP384_Weekend-Date-130K-Year-Math",
+  "folder_id": "1MGlx_Ptr7XNgRACw91-7B-PbJF95xr8a",
+  "title": "Weekend Date 130K Year Math",
+  "publish_at_manila": "2027-02-08 18:00",
+  "publish_unix": 1802080800
+ },
+ {
+  "episode": 385,
+  "folder": "EP385_Prenup-Agreement-PH-Truth",
+  "folder_id": "1aSSpUOnaMoj1bfUIuhqsbQGwto9u_neu",
+  "title": "Prenup Agreement PH Truth",
+  "publish_at_manila": "2027-02-08 21:00",
+  "publish_unix": 1802091600
+ },
+ {
+  "episode": 386,
+  "folder": "EP386_Baby-First-Year-220K-Cost",
+  "folder_id": "1Dy93gVzOveaj0MSITaIotxSLdKyID-Eb",
+  "title": "Baby First Year 220K Cost",
+  "publish_at_manila": "2027-02-09 08:00",
+  "publish_unix": 1802131200
+ },
+ {
+  "episode": 387,
+  "folder": "EP387_Private-Vs-Science-High-5M",
+  "folder_id": "1B-18jTS-UWGJYZBn50boFamp6WrgkNDq",
+  "title": "Private Vs Science High 5M",
+  "publish_at_manila": "2027-02-09 11:00",
+  "publish_unix": 1802142000
+ },
+ {
+  "episode": 388,
+  "folder": "EP388_Spoiled-Kid-Vs-Earning-Chores",
+  "folder_id": "1h1Bd3HN9PrNaC3XIViLBDBI6nvlSDB-F",
+  "title": "Spoiled Kid Vs Earning Chores",
+  "publish_at_manila": "2027-02-09 14:00",
+  "publish_unix": 1802152800
+ },
+ {
+  "episode": 389,
+  "folder": "EP389_Hidden-Bonus-Financial-Infidelity",
+  "folder_id": "1FeL7N94czLk6yhm9uH76MnP9SJAwfMHk",
+  "title": "Hidden Bonus Financial Infidelity",
+  "publish_at_manila": "2027-02-09 18:00",
+  "publish_unix": 1802167200
+ },
+ {
+  "episode": 390,
+  "folder": "EP390_Secret-42-COD-Parcels-Budget",
+  "folder_id": "1VxqlWCSes7wS1CHPtlpdDXbyTv5LlTKj",
+  "title": "Secret 42 COD Parcels Budget",
+  "publish_at_manila": "2027-02-09 21:00",
+  "publish_unix": 1802178000
+ },
+ {
+  "episode": 391,
+  "folder": "EP391_Live-In-Vs-Married-Property-PH",
+  "folder_id": "1eJ5XuL_GxQP4kTOnmJQuUaMSAeeaFJib",
+  "title": "Live In Vs Married Property PH",
+  "publish_at_manila": "2027-02-10 08:00",
+  "publish_unix": 1802217600
+ },
+ {
+  "episode": 392,
+  "folder": "EP392_Sunday-15Min-Couple-Money-Date",
+  "folder_id": "1ivT8qObK_C5ViFYwECDA2ytK-BGjtlNB",
+  "title": "Sunday 15Min Couple Money Date",
+  "publish_at_manila": "2027-02-10 11:00",
+  "publish_unix": 1802228400
+ },
+ {
+  "episode": 393,
+  "folder": "EP393_Supporting-InLaws-Boundary",
+  "folder_id": "12TS5wdFHjbOYvTVNfc_NhyDQtJo93Dt6",
+  "title": "Supporting InLaws Boundary",
+  "publish_at_manila": "2027-02-10 14:00",
+  "publish_unix": 1802239200
+ },
+ {
+  "episode": 394,
+  "folder": "EP394_DINK-Vs-3-Kids-Budget-Math",
+  "folder_id": "13DOJa40eH5SeiRJyT367GISeeEY8fV_H",
+  "title": "DINK Vs 3 Kids Budget Math",
+  "publish_at_manila": "2027-02-10 18:00",
+  "publish_unix": 1802253600
+ },
+ {
+  "episode": 395,
+  "folder": "EP395_1st-Birthday-120K-Vs-MP2",
+  "folder_id": "1wnbzmRZCymxw8oPdMpEaoi-jvYZttxo3",
+  "title": "1st Birthday 120K Vs MP2",
+  "publish_at_manila": "2027-02-10 21:00",
+  "publish_unix": 1802264400
+ },
+ {
+  "episode": 396,
+  "folder": "EP396_Partner-Gambling-3-Step-Protect",
+  "folder_id": "1hJh0FnHSmpzikof9pfIBKnSFXqa3-BYq",
+  "title": "Partner Gambling 3 Step Protect",
+  "publish_at_manila": "2027-02-11 08:00",
+  "publish_unix": 1802304000
+ },
+ {
+  "episode": 397,
+  "folder": "EP397_Teen-16yo-Earning-12K-Mo",
+  "folder_id": "1sPiSHv5m9_7RtIJQcrywDKUNRUaJVJuo",
+  "title": "Teen 16yo Earning 12K Mo",
+  "publish_at_manila": "2027-02-11 11:00",
+  "publish_unix": 1802314800
+ },
+ {
+  "episode": 398,
+  "folder": "EP398_Couple-Retired-At-45-FIRE-PH",
+  "folder_id": "1PWthnvLSVDsDGEfQ9V4TbqPdES2-Zvqo",
+  "title": "Couple Retired At 45 FIRE PH",
+  "publish_at_manila": "2027-02-11 14:00",
+  "publish_unix": 1802325600
+ },
+ {
+  "episode": 399,
+  "folder": "EP399_Love-Cannot-Pay-Meralco",
+  "folder_id": "1O_gimaXZKOhZ4SX-oxPo1gqSviglR_AX",
+  "title": "Love Cannot Pay Meralco",
+  "publish_at_manila": "2027-02-11 18:00",
+  "publish_unix": 1802340000
+ },
+ {
+  "episode": 400,
+  "folder": "EP400_EP400-Millionaire-Couple-5-Rules",
+  "folder_id": "121FhpvUGrrWgIosRvYJeRXuWm4Bxy5wX",
+  "title": "EP400 Millionaire Couple 5 Rules",
+  "publish_at_manila": "2027-02-11 21:00",
+  "publish_unix": 1802350800
+ },
+ {
+  "episode": 401,
+  "folder": "EP401_Quiet-Quitting-Vs-Silent-Building",
+  "folder_id": "16p2pWz7-kq5LTBUwEjH3NEufvkkHpAMh",
+  "title": "Quiet Quitting Vs Silent Building",
+  "publish_at_manila": "2027-02-12 08:00",
+  "publish_unix": 1802390400
+ },
+ {
+  "episode": 402,
+  "folder": "EP402_Fake-Promotion-2K-Raise-Trap",
+  "folder_id": "1I1u2mkq9268mp6dPd60rDKLiQ337NJn3",
+  "title": "Fake Promotion 2K Raise Trap",
+  "publish_at_manila": "2027-02-12 11:00",
+  "publish_unix": 1802401200
+ },
+ {
+  "episode": 403,
+  "folder": "EP403_Office-Marites-GC-Lost-Raise",
+  "folder_id": "1eRJvU1wbclyc0NOf7midzeD_EndVQ3u-",
+  "title": "Office Marites GC Lost Raise",
+  "publish_at_manila": "2027-02-12 14:00",
+  "publish_unix": 1802412000
+ },
+ {
+  "episode": 404,
+  "folder": "EP404_BPO-Night-Shift-12K-Leak",
+  "folder_id": "1DCv497C7LpuuvvgwnetpkmNCCDafgNAe",
+  "title": "BPO Night Shift 12K Leak",
+  "publish_at_manila": "2027-02-12 18:00",
+  "publish_unix": 1802426400
+ },
+ {
+  "episode": 405,
+  "folder": "EP405_Counter-Offer-Trap-80-Percent",
+  "folder_id": "1WIRBV6MDmh6bGUjwPLBNKvO8rtBFspag",
+  "title": "Counter Offer Trap 80 Percent",
+  "publish_at_manila": "2027-02-12 21:00",
+  "publish_unix": 1802437200
+ },
+ {
+  "episode": 406,
+  "folder": "EP406_Unpaid-OT-TY-96K-Loss",
+  "folder_id": "1qbslqU-u1iLJYsnKEcSBvsZKnVuwTFwX",
+  "title": "Unpaid OT TY 96K Loss",
+  "publish_at_manila": "2027-02-13 08:00",
+  "publish_unix": 1802476800
+ },
+ {
+  "episode": 407,
+  "folder": "EP407_HR-Is-Not-Your-Friend-PIP",
+  "folder_id": "1uzNgfvYP0ABv2rCiHsQn2p5sZMQg1cAo",
+  "title": "HR Is Not Your Friend PIP",
+  "publish_at_manila": "2027-02-13 11:00",
+  "publish_unix": 1802487600
+ },
+ {
+  "episode": 408,
+  "folder": "EP408_14-Years-Loyal-3Min-Layoff",
+  "folder_id": "1JdEWd42hvMKb9Y-iVP1bWp7-a6JFhONr",
+  "title": "14 Years Loyal 3Min Layoff",
+  "publish_at_manila": "2027-02-13 14:00",
+  "publish_unix": 1802498400
+ },
+ {
+  "episode": 409,
+  "folder": "EP409_Fresh-Grad-No-Negotiate-180K",
+  "folder_id": "1VauC0dmVdXreZGeRPAN9YOIVqkHbdnEY",
+  "title": "Fresh Grad No Negotiate 180K",
+  "publish_at_manila": "2027-02-13 18:00",
+  "publish_unix": 1802512800
+ },
+ {
+  "episode": 410,
+  "folder": "EP410_5-To-9-After-9-To-5-Blueprint",
+  "folder_id": "1ZKx4TMfrtJl8WHiJKZjagLFXlzceOdgz",
+  "title": "5 To 9 After 9 To 5 Blueprint",
+  "publish_at_manila": "2027-02-13 21:00",
+  "publish_unix": 1802523600
+ },
+ {
+  "episode": 411,
+  "folder": "EP411_Work-Bestie-Sabotage-Truth",
+  "folder_id": "1KsyJl5ZwyienE35Ortz7Pqlo1M7Idlz_",
+  "title": "Work Bestie Sabotage Truth",
+  "publish_at_manila": "2027-02-14 08:00",
+  "publish_unix": 1802563200
+ },
+ {
+  "episode": 412,
+  "folder": "EP412_Perfect-Attendance-Burnout-Trap",
+  "folder_id": "1ZgIiK9UaVB6oWFJXkfHxrY9XGeZ7VzbY",
+  "title": "Perfect Attendance Burnout Trap",
+  "publish_at_manila": "2027-02-14 11:00",
+  "publish_unix": 1802574000
+ },
+ {
+  "episode": 413,
+  "folder": "EP413_Communication-Skill-3x-Salary",
+  "folder_id": "1DuipzN07e-kMMTKAy6n_UlMgvqcNinMa",
+  "title": "Communication Skill 3x Salary",
+  "publish_at_manila": "2027-02-14 14:00",
+  "publish_unix": 1802584800
+ },
+ {
+  "episode": 414,
+  "folder": "EP414_Career-Shift-At-35-25x-Pay",
+  "folder_id": "191YaozVs3B0jpbCkR5ky08ettBuXFzj6",
+  "title": "Career Shift At 35 25x Pay",
+  "publish_at_manila": "2027-02-14 18:00",
+  "publish_unix": 1802599200
+ },
+ {
+  "episode": 415,
+  "folder": "EP415_Hourly-Vs-Project-Pricing-VA",
+  "folder_id": "1o9_IrqbS7uA7Ty3WwsNsCbIlFqlLwGrl",
+  "title": "Hourly Vs Project Pricing VA",
+  "publish_at_manila": "2027-02-14 21:00",
+  "publish_unix": 1802610000
+ },
+ {
+  "episode": 416,
+  "folder": "EP416_Boss-Stealing-Credit-Email-Hack",
+  "folder_id": "123Pv_ZICXR-zSRubH8AjfAE4Lr9GABzD",
+  "title": "Boss Stealing Credit Email Hack",
+  "publish_at_manila": "2027-02-15 08:00",
+  "publish_unix": 1802649600
+ },
+ {
+  "episode": 417,
+  "folder": "EP417_First-90-Days-Regularization-Hack",
+  "folder_id": "1AkT-IvSwSM3wHWezl8kl7AvaykrWWbwH",
+  "title": "First 90 Days Regularization Hack",
+  "publish_at_manila": "2027-02-15 11:00",
+  "publish_unix": 1802660400
+ },
+ {
+  "episode": 418,
+  "folder": "EP418_Side-Hustle-Company-Laptop-Fired",
+  "folder_id": "1AOPbBMZ0r5o8dLNWj-IWGpoUuSuMWXel",
+  "title": "Side Hustle Company Laptop Fired",
+  "publish_at_manila": "2027-02-15 14:00",
+  "publish_unix": 1802671200
+ },
+ {
+  "episode": 419,
+  "folder": "EP419_150-Resumes-Vs-10-DMs-Hack",
+  "folder_id": "10HORsh7Llh3Pk_fD77nHtdze287ewoX1",
+  "title": "150 Resumes Vs 10 DMs Hack",
+  "publish_at_manila": "2027-02-15 18:00",
+  "publish_unix": 1802685600
+ },
+ {
+  "episode": 420,
+  "folder": "EP420_3x-Profit-Rule-Before-Resign",
+  "folder_id": "1ZMxA9yBkKMA0F46xqB6NhnTTOdis-fxr",
+  "title": "3x Profit Rule Before Resign",
+  "publish_at_manila": "2027-02-15 21:00",
+  "publish_unix": 1802696400
+ },
+ {
+  "episode": 421,
+  "folder": "EP421_500-Peso-Mindset-Experiment",
+  "folder_id": "1UOX_S9Ni_7tQD_gHqRXRfIx97K-n9w7S",
+  "title": "500 Peso Mindset Experiment",
+  "publish_at_manila": "2027-02-16 08:00",
+  "publish_unix": 1802736000
+ },
+ {
+  "episode": 422,
+  "folder": "EP422_Lotto-Winners-Broke-3-Years",
+  "folder_id": "19lNXZVY8GkPkLJkUofl0sIaqgvPnyTB3",
+  "title": "Lotto Winners Broke 3 Years",
+  "publish_at_manila": "2027-02-16 11:00",
+  "publish_unix": 1802746800
+ },
+ {
+  "episode": 423,
+  "folder": "EP423_14-Day-No-Shopping-App-Detox",
+  "folder_id": "1oOTh5fEwlRegJL9cBWt2m5_tI0orI8_D",
+  "title": "14 Day No Shopping App Detox",
+  "publish_at_manila": "2027-02-16 14:00",
+  "publish_unix": 1802757600
+ },
+ {
+  "episode": 424,
+  "folder": "EP424_Rich-Buy-Time-Not-Things",
+  "folder_id": "1jrDhs42ggKSjFGNVDtDqGaupKtmFHxgA",
+  "title": "Rich Buy Time Not Things",
+  "publish_at_manila": "2027-02-16 18:00",
+  "publish_unix": 1802772000
+ },
+ {
+  "episode": 425,
+  "folder": "EP425_Invisible-Millionaire-Old-Vios",
+  "folder_id": "164Anj218uyLSSY-5lbN-hEQw_WWhhGDe",
+  "title": "Invisible Millionaire Old Vios",
+  "publish_at_manila": "2027-02-16 21:00",
+  "publish_unix": 1802782800
+ },
+ {
+  "episode": 426,
+  "folder": "EP426_Move-In-Silence-Crab-Mentality",
+  "folder_id": "1zVQtPca6peWLv2BlRQ7j08_KJ7hCQdqw",
+  "title": "Move In Silence Crab Mentality",
+  "publish_at_manila": "2027-02-17 08:00",
+  "publish_unix": 1802822400
+ },
+ {
+  "episode": 427,
+  "folder": "EP427_Sunk-Cost-Fallacy-480K-Loss",
+  "folder_id": "1wn8vh-8cQHUyWH-Sa9BduzNvry9_t7Af",
+  "title": "Sunk Cost Fallacy 480K Loss",
+  "publish_at_manila": "2027-02-17 11:00",
+  "publish_unix": 1802833200
+ },
+ {
+  "episode": 428,
+  "folder": "EP428_1-Percent-Better-Daily-Math",
+  "folder_id": "1L7qr3s-3t8KflQ4wF3S6rB78YUst7rVF",
+  "title": "1 Percent Better Daily Math",
+  "publish_at_manila": "2027-02-17 14:00",
+  "publish_unix": 1802844000
+ },
+ {
+  "episode": 429,
+  "folder": "EP429_Fear-Of-Looking-Broke-Trap",
+  "folder_id": "1ydxTbMBikPeVlvP4XiNfLR9IditpCd2O",
+  "title": "Fear Of Looking Broke Trap",
+  "publish_at_manila": "2027-02-17 18:00",
+  "publish_unix": 1802858400
+ },
+ {
+  "episode": 430,
+  "folder": "EP430_Inggit-Vs-Curiosity-Question",
+  "folder_id": "16xSoVw9fMptE81VesCr6X7-4gP8wJMU4",
+  "title": "Inggit Vs Curiosity Question",
+  "publish_at_manila": "2027-02-17 21:00",
+  "publish_unix": 1802869200
+ },
+ {
+  "episode": 431,
+  "folder": "EP431_Pinoy-Marshmallow-Test-Wealth",
+  "folder_id": "1IVC9G-k6WadYdcWRJsyoMCErPudaE_uD",
+  "title": "Pinoy Marshmallow Test Wealth",
+  "publish_at_manila": "2027-02-18 08:00",
+  "publish_unix": 1802908800
+ },
+ {
+  "episode": 432,
+  "folder": "EP432_Inggit-Tax-Sa-Barangay",
+  "folder_id": "1eX3gg8-PfF09xlZ-KvtZD1u03zZsLLud",
+  "title": "Inggit Tax Sa Barangay",
+  "publish_at_manila": "2027-02-18 11:00",
+  "publish_unix": 1802919600
+ },
+ {
+  "episode": 433,
+  "folder": "EP433_5-Closest-Friends-Audit",
+  "folder_id": "1xiURAxFojKp6CnkCkblTkyvpdajgSFuL",
+  "title": "5 Closest Friends Audit",
+  "publish_at_manila": "2027-02-18 14:00",
+  "publish_unix": 1802930400
+ },
+ {
+  "episode": 434,
+  "folder": "EP434_48-Hour-Zero-Spend-Challenge",
+  "folder_id": "1xruh3n6Z2PCB1oKfRNRnVhTjWsJkayZM",
+  "title": "48 Hour Zero Spend Challenge",
+  "publish_at_manila": "2027-02-18 18:00",
+  "publish_unix": 1802944800
+ },
+ {
+  "episode": 435,
+  "folder": "EP435_Money-Buys-Peace-And-Meds",
+  "folder_id": "1caTiL0ww4arkFDVKvwDmG1NJo5n6FVGX",
+  "title": "Money Buys Peace And Meds",
+  "publish_at_manila": "2027-02-18 21:00",
+  "publish_unix": 1802955600
+ },
+ {
+  "episode": 436,
+  "folder": "EP436_Compound-Effect-14M-Gap",
+  "folder_id": "1AeOyCZh1TOFxMRAJ-03GlhVdl7BZyQn6",
+  "title": "Compound Effect 14M Gap",
+  "publish_at_manila": "2027-02-19 08:00",
+  "publish_unix": 1802995200
+ },
+ {
+  "episode": 437,
+  "folder": "EP437_Free-Advice-Cost-200K",
+  "folder_id": "1-nNdndfhW14uBy1aHp1ZdkQ6zfQh3iSt",
+  "title": "Free Advice Cost 200K",
+  "publish_at_manila": "2027-02-19 11:00",
+  "publish_unix": 1803006000
+ },
+ {
+  "episode": 438,
+  "folder": "EP438_Letter-From-45yo-Self-3-Regrets",
+  "folder_id": "1jPCBW3Ta5rvwwSS3eD1QcsN0P-z7KNPn",
+  "title": "Letter From 45yo Self 3 Regrets",
+  "publish_at_manila": "2027-02-19 14:00",
+  "publish_unix": 1803016800
+ },
+ {
+  "episode": 439,
+  "folder": "EP439_Break-Generational-Poverty-PH",
+  "folder_id": "1ZXsIb7JufIz8rVLDfBP1MtF2J73cmRSV",
+  "title": "Break Generational Poverty PH",
+  "publish_at_manila": "2027-02-19 18:00",
+  "publish_unix": 1803031200
+ },
+ {
+  "episode": 440,
+  "folder": "EP440_EP440-Master-Blueprint-Freedom",
+  "folder_id": "1hslIXqhfQjt51WTz6RhrLDJCk2_2T36R",
+  "title": "EP440 Master Blueprint Freedom",
+  "publish_at_manila": "2027-02-19 21:00",
+  "publish_unix": 1803042000
+ }
 ]

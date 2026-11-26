@@ -26,6 +26,8 @@ Usage (run from this folder):
 
 Environment (never commit a real token):
   BARYA_PAGE_TOKEN   Page Access Token for Barya Stories (required to post)
+  GOOGLE_DRIVE_API_KEY  Drive API key (GitHub Actions fast path, folder is
+    link-viewable) — or GOOGLE_SERVICE_ACCOUNT_JSON instead
   BARYA_PAGE_ID      default 1370430572829796
   BARYA_GRAPH_VERSION default v26.0
   BARYA_WORK_DIR     default ./work
@@ -87,9 +89,13 @@ def run(cmd, check=True):
 
 
 # ---------------------------------------------------------------- Drive
-# Two Drive backends:
+# Three Drive backends, in order:
 #  - GitHub Actions: GOOGLE_SERVICE_ACCOUNT_JSON env var (service account
 #    JSON, shared as Viewer on the "final" Drive folder) -> Drive API v3.
+#  - GitHub Actions (fast path, since Nov 26 2026): GOOGLE_DRIVE_API_KEY
+#    env var (a plain Drive API key) -> Drive API v3 REST with ?key=.
+#    Works because Jonel approved making the "final" folder viewable by
+#    anyone with the link (reader). No key file to move around.
 #  - Muse VM (local): hatch_gws_cli (officialcanon08@gmail.com).
 def _drive_service():
     from google.oauth2 import service_account
@@ -121,15 +127,49 @@ def api_download(file_id, dest):
     return dest
 
 
+def api_key_list_children(folder_id):
+    """List files in a Drive folder via Drive API v3 REST + API key."""
+    key = os.environ["GOOGLE_DRIVE_API_KEY"]
+    q = urllib.parse.quote(f"'{folder_id}' in parents and trashed=false")
+    url = ("https://www.googleapis.com/drive/v3/files"
+           f"?q={q}&pageSize=50&fields=files(id,name,mimeType,size)&key={key}")
+    try:
+        with urllib.request.urlopen(url, timeout=60) as resp:
+            return json.load(resp).get("files", [])
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"Drive API list failed ({e.code}): {e.read().decode(errors='replace')}")
+
+
+def api_key_download(file_id, dest):
+    """Download a public Drive file via Drive API v3 REST + API key."""
+    key = os.environ["GOOGLE_DRIVE_API_KEY"]
+    url = ("https://www.googleapis.com/drive/v3/files/"
+           f"{urllib.parse.quote(file_id)}?alt=media&key={key}")
+    try:
+        with urllib.request.urlopen(url, timeout=600) as resp, open(dest, "wb") as f:
+            while True:
+                chunk = resp.read(1024 * 1024)
+                if not chunk:
+                    break
+                f.write(chunk)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"Drive API download failed ({e.code}): {e.read().decode(errors='replace')}")
+    return dest
+
+
 def list_children(folder_id):
     if os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON"):
         return api_list_children(folder_id)
+    if os.environ.get("GOOGLE_DRIVE_API_KEY"):
+        return api_key_list_children(folder_id)
     return gws_list_children(folder_id)
 
 
 def download_file(file_id, dest):
     if os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON"):
         return api_download(file_id, dest)
+    if os.environ.get("GOOGLE_DRIVE_API_KEY"):
+        return api_key_download(file_id, dest)
     return gws_download(file_id, dest)
 
 
@@ -320,7 +360,7 @@ def main():
 
     ep_num = args.episode or state["next_episode"]
     if ep_num not in by_ep:
-        print(f"episode {ep_num} is not in schedule.json (EP13..EP200)", file=sys.stderr)
+        print(f"episode {ep_num} is not in schedule.json (EP13..EP440)", file=sys.stderr)
         return 2
     ep = by_ep[ep_num]
     if ep_num == 12:
