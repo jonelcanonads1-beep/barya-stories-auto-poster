@@ -2,11 +2,20 @@ name: Barya Stories auto-post
 
 # Posts EP13-EP440 to the Barya Stories Facebook Page, 5x/day Manila.
 # Runs on GitHub's servers, NOT on Muse, so no approval card ever appears.
-# Times are UTC: 00:00, 03:00, 06:00, 10:00, 13:00 UTC
-# = 08:00, 11:00, 14:00, 18:00, 21:00 Asia/Manila.
+#
+# WHY every 15 minutes instead of 5 exact times:
+# GitHub's scheduler is best-effort — on 2026-11-26 it simply never fired
+# the 2pm (06:00 UTC) tick, so EP15 was 54 minutes late and needed a manual
+# run. poster.py now has a due-check: it only posts when the next episode's
+# Manila publish time has arrived, and exits quietly otherwise. So this
+# workflow polls every 15 minutes and the first tick at or after a slot
+# posts that episode: worst case ~15 min late, never early, never twice,
+# and a failed post is retried at the next tick because state.json only
+# advances on a successful post.
+# Slots stay 08:00, 11:00, 14:00, 18:00, 21:00 Asia/Manila.
 on:
   schedule:
-    - cron: '0 0,3,6,10,13 * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
     inputs:
       episode:
