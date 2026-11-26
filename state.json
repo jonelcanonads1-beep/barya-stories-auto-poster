@@ -1,6 +1,6 @@
 {
-  "next_episode": 15,
-  "next_publish_at_manila": "2026-11-26 14:00",
+  "next_episode": 16,
+  "next_publish_at_manila": "2026-11-26 18:00",
   "posted": [
     {
       "episode": 13,
@@ -17,6 +17,14 @@
       "posted_at": "2026-11-26 04:07:47 UTC",
       "video_id": "1680122130275965",
       "reel_url": "https://facebook.com/reel/1680122130275965/"
+    },
+    {
+      "episode": 15,
+      "folder": "EP15_Sekreto-Ng-Ukay-Ukay-Bale",
+      "publish_at_manila": "2026-11-26 14:00",
+      "posted_at": "2026-11-26 06:55:19 UTC",
+      "video_id": "29028824306820115",
+      "reel_url": "https://facebook.com/reel/29028824306820115/"
     }
   ]
 }
