@@ -1,6 +1,6 @@
 {
-  "next_episode": 17,
-  "next_publish_at_manila": "2026-11-26 21:00",
+  "next_episode": 18,
+  "next_publish_at_manila": "2026-11-27 08:00",
   "posted": [
     {
       "episode": 13,
@@ -33,6 +33,14 @@
       "posted_at": "2026-11-26 06:59:44 UTC",
       "video_id": "1109706955222795",
       "reel_url": "https://facebook.com/reel/1109706955222795/"
+    },
+    {
+      "episode": 17,
+      "folder": "EP17_Nakakatakot-Na-Kwenta-Ng-5-6",
+      "publish_at_manila": "2026-11-26 21:00",
+      "posted_at": "2026-11-26 13:18:08 UTC",
+      "video_id": "1147720941000915",
+      "reel_url": "https://facebook.com/reel/1147720941000915/"
     }
   ]
 }
