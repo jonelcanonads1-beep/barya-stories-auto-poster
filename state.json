@@ -1,6 +1,6 @@
 {
-  "next_episode": 16,
-  "next_publish_at_manila": "2026-11-26 18:00",
+  "next_episode": 17,
+  "next_publish_at_manila": "2026-11-26 21:00",
   "posted": [
     {
       "episode": 13,
@@ -25,6 +25,14 @@
       "posted_at": "2026-11-26 06:55:19 UTC",
       "video_id": "29028824306820115",
       "reel_url": "https://facebook.com/reel/29028824306820115/"
+    },
+    {
+      "episode": 16,
+      "folder": "EP16_3AM-Call-Center-Table",
+      "publish_at_manila": "2026-11-26 18:00",
+      "posted_at": "2026-11-26 06:59:44 UTC",
+      "video_id": "1109706955222795",
+      "reel_url": "https://facebook.com/reel/1109706955222795/"
     }
   ]
 }
