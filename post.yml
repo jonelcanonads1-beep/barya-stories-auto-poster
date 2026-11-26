@@ -1,0 +1,61 @@
+name: Barya Stories auto-post
+
+# Posts EP13-EP200 to the Barya Stories Facebook Page, 5x/day Manila.
+# Runs on GitHub's servers, NOT on Muse, so no approval card ever appears.
+# Times are UTC: 00:00, 03:00, 06:00, 10:00, 13:00 UTC
+# = 08:00, 11:00, 14:00, 18:00, 21:00 Asia/Manila.
+on:
+  schedule:
+    - cron: '0 0,3,6,10,13 * * *'
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: 'Episode number to post (leave empty for next in state.json)'
+        required: false
+        type: string
+      dry_run:
+        description: 'Dry run only (download + build cover, do not post)'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install ffmpeg and Python deps
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q google-api-python-client google-auth
+      - name: Post next episode
+        env:
+          BARYA_PAGE_TOKEN: ${{ secrets.BARYA_PAGE_TOKEN }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          if [ -n "${{ inputs.episode }}" ]; then
+            EP_FLAG="--episode ${{ inputs.episode }}"
+          else
+            EP_FLAG=""
+          fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            DRY="--dry-run"
+          else
+            DRY=""
+          fi
+          python3 poster.py $EP_FLAG $DRY
+      - name: Save updated state
+        if: success() && inputs.dry_run != true
+        run: |
+          git config user.name "barya-poster"
+          git config user.email "barya-poster@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "Posted EP from state.json [skip ci]"
+          git push
